@@ -13081,5 +13081,26 @@
         "Search": "orokin_derelict_plaza_scene",
         "Zh": "OROKIN荒废广场场景",
         "En": "Orokin Derelict Plaza Scene"
+    },
+    {
+        "Id": 1947,
+        "Type": "Mod",
+        "Search": "peculiar_growth",
+        "Zh": "生长怪奇",
+        "En": "Peculiar Growth"
+    },
+    {
+        "Id": 1948,
+        "Type": "Mod",
+        "Search": "reawaken",
+        "Zh": "再启动",
+        "En": "Reawaken"
+    },
+    {
+        "Id": 1949,
+        "Type": "Mod",
+        "Search": "negate",
+        "Zh": "抵消",
+        "En": "Negate"
     }
 ]

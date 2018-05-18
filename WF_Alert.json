@@ -743,5 +743,15 @@
         "Id": 150,
         "Zh": "KHORA 德尔菲头盔",
         "En": "Khora Alt Helmet Blueprint"
+    },
+    {
+        "Id": 151,
+        "Zh": "Forma",
+        "En": "Forma"
+    },
+    {
+        "Id": 152,
+        "Zh": "EQUINOX 晨昏恶魔头盔",
+        "En": "Equinox Alt2 Helmet Blueprint"
     }
 ]
