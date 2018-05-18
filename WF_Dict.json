@@ -12304,5 +12304,17 @@
         "Type": "Other",
         "Zh": "EQUINOX 晨昏恶魔头盔",
         "En": "Equinox Clisthert Helmet"
+    },
+    {
+        "Id": 2054,
+        "Type": "Other",
+        "Zh": "XIPHOS 棱晶外观",
+        "En": "Xiphos Prisma Skin"
+    },
+    {
+        "Id": 2055,
+        "Type": "Other",
+        "Zh": "奥堤克光子枪 镀铜外观",
+        "En": "Elixis Opticor"
     }
 ]
