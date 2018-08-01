@@ -1,7 +1,7 @@
 ---
 title: WFA词库说明
-Version: 1.2
-Update: 2018.05.21
+Version: 1.3
+Update: 2018.08.02
 ---
 
 # WFA词库说明
