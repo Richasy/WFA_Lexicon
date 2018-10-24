@@ -1,1 +1,187 @@
-[{"Id":1,"Zh":"爆燃喷射器","En":"Detonite Injector"},{"Id":2,"Zh":"电磁力场装置","En":"Fieldron"},{"Id":3,"Zh":"突变原聚合物","En":"Mutagen Mass"},{"Id":4,"Zh":"异融ALAD V导航座标","En":"Mutalist Alad V Nav Coordinate"},{"Id":9,"Zh":"德拉 破坏者 蓝图","En":"Dera Vandal Blueprint"},{"Id":10,"Zh":"德拉 破坏者 枪管","En":"Dera Vandal Barrel"},{"Id":11,"Zh":"德拉 破坏者 枪机","En":"Dera Vandal Receiver"},{"Id":12,"Zh":"德拉 破坏者 枪托","En":"Dera Vandal Stock"},{"Id":13,"Zh":"狙击特昂 破坏者 蓝图","En":"Snipetron Vandal Blueprint"},{"Id":14,"Zh":"狙击特昂 破坏者 枪管","En":"Snipetron Vandal Barrel"},{"Id":15,"Zh":"狙击特昂 破坏者 枪机","En":"Snipetron Vandal Receiver"},{"Id":16,"Zh":"狙击特昂 破坏者 枪托","En":"Snipetron Vandal Stock"},{"Id":17,"Zh":"卡拉克 亡魂 蓝图","En":"Karak Wraith Blueprint"},{"Id":18,"Zh":"卡拉克 亡魂 枪管","En":"Karak Wraith Barrel"},{"Id":19,"Zh":"卡拉克 亡魂 枪机","En":"Karak Wraith Receiver"},{"Id":20,"Zh":"卡拉克 亡魂 枪托","En":"Karak Wraith Stock"},{"Id":21,"Zh":"拉特昂 亡魂 蓝图","En":"Latron Wraith Blueprint"},{"Id":22,"Zh":"拉特昂 亡魂 枪管","En":"Latron Wraith Barrel"},{"Id":23,"Zh":"拉特昂 亡魂 枪管","En":"Latron Wraith Barrel"},{"Id":24,"Zh":"拉特昂 亡魂 枪机","En":"Latron Wraith Receiver"},{"Id":25,"Zh":"拉特昂 亡魂 枪托","En":"Latron Wraith Stock"},{"Id":26,"Zh":"斯特朗 亡魂 蓝图","En":"Strun Wraith Blueprint"},{"Id":27,"Zh":"斯特朗 亡魂 枪管","En":"Strun Wraith Barrel"},{"Id":28,"Zh":"斯特朗 亡魂 枪机","En":"Strun Wraith Receiver"},{"Id":29,"Zh":"斯特朗 亡魂 枪托","En":"Strun Wraith Stock"},{"Id":30,"Zh":"双子蝰蛇 亡魂 蓝图","En":"Wraith Twin Vipers Blueprint"},{"Id":31,"Zh":"双子蝰蛇 亡魂 枪管","En":"Wraith Twin Vipers Barrel"},{"Id":32,"Zh":"双子蝰蛇 亡魂 枪机","En":"Wraith Twin Vipers Receiver"},{"Id":33,"Zh":"双子蝰蛇 亡魂 连接器","En":"Wraith Twin Vipers Link"},{"Id":34,"Zh":"希芙 蓝图","En":"Sheev Blueprint"},{"Id":35,"Zh":"希芙 刀刃","En":"Sheev Blade"},{"Id":36,"Zh":"希芙 握柄","En":"Sheev Hilt"},{"Id":37,"Zh":"希芙 散热器","En":"Sheev Heatsink"},{"Id":38,"Zh":"OROKIN催化剂 蓝图","En":"Orokin Catalyst Blueprint"},{"Id":39,"Zh":"OROKIN反应堆 蓝图","En":"Orokin Reactor Blueprint"},{"Id":40,"Zh":"FORMA 蓝图","En":"Forma Blueprint"},{"Id":41,"Zh":"特殊功能槽连接器 蓝图","En":"Exilus Adapter Blueprint"}]
+[
+    {
+        "Id": 1,
+        "Zh": "爆燃喷射器",
+        "En": "Detonite Injector"
+    },
+    {
+        "Id": 2,
+        "Zh": "电磁力场装置",
+        "En": "Fieldron"
+    },
+    {
+        "Id": 3,
+        "Zh": "突变原聚合物",
+        "En": "Mutagen Mass"
+    },
+    {
+        "Id": 4,
+        "Zh": "异融ALAD V导航座标",
+        "En": "Mutalist Alad V Nav Coordinate"
+    },
+    {
+        "Id": 9,
+        "Zh": "德拉 破坏者 蓝图",
+        "En": "Dera Vandal Blueprint"
+    },
+    {
+        "Id": 10,
+        "Zh": "德拉 破坏者 枪管",
+        "En": "Dera Vandal Barrel"
+    },
+    {
+        "Id": 11,
+        "Zh": "德拉 破坏者 枪机",
+        "En": "Dera Vandal Receiver"
+    },
+    {
+        "Id": 12,
+        "Zh": "德拉 破坏者 枪托",
+        "En": "Dera Vandal Stock"
+    },
+    {
+        "Id": 13,
+        "Zh": "狙击特昂 破坏者 蓝图",
+        "En": "Snipetron Vandal Blueprint"
+    },
+    {
+        "Id": 14,
+        "Zh": "狙击特昂 破坏者 枪管",
+        "En": "Snipetron Vandal Barrel"
+    },
+    {
+        "Id": 15,
+        "Zh": "狙击特昂 破坏者 枪机",
+        "En": "Snipetron Vandal Receiver"
+    },
+    {
+        "Id": 16,
+        "Zh": "狙击特昂 破坏者 枪托",
+        "En": "Snipetron Vandal Stock"
+    },
+    {
+        "Id": 17,
+        "Zh": "卡拉克 亡魂 蓝图",
+        "En": "Karak Wraith Blueprint"
+    },
+    {
+        "Id": 18,
+        "Zh": "卡拉克 亡魂 枪管",
+        "En": "Karak Wraith Barrel"
+    },
+    {
+        "Id": 19,
+        "Zh": "卡拉克 亡魂 枪机",
+        "En": "Karak Wraith Receiver"
+    },
+    {
+        "Id": 20,
+        "Zh": "卡拉克 亡魂 枪托",
+        "En": "Karak Wraith Stock"
+    },
+    {
+        "Id": 21,
+        "Zh": "拉特昂 亡魂 蓝图",
+        "En": "Latron Wraith Blueprint"
+    },
+    {
+        "Id": 22,
+        "Zh": "拉特昂 亡魂 枪管",
+        "En": "Latron Wraith Barrel"
+    },
+    {
+        "Id": 23,
+        "Zh": "拉特昂 亡魂 枪管",
+        "En": "Latron Wraith Barrel"
+    },
+    {
+        "Id": 24,
+        "Zh": "拉特昂 亡魂 枪机",
+        "En": "Latron Wraith Receiver"
+    },
+    {
+        "Id": 25,
+        "Zh": "拉特昂 亡魂 枪托",
+        "En": "Latron Wraith Stock"
+    },
+    {
+        "Id": 26,
+        "Zh": "斯特朗 亡魂 蓝图",
+        "En": "Strun Wraith Blueprint"
+    },
+    {
+        "Id": 27,
+        "Zh": "斯特朗 亡魂 枪管",
+        "En": "Strun Wraith Barrel"
+    },
+    {
+        "Id": 28,
+        "Zh": "斯特朗 亡魂 枪机",
+        "En": "Strun Wraith Receiver"
+    },
+    {
+        "Id": 29,
+        "Zh": "斯特朗 亡魂 枪托",
+        "En": "Strun Wraith Stock"
+    },
+    {
+        "Id": 30,
+        "Zh": "双子蝰蛇 亡魂 蓝图",
+        "En": "Wraith Twin Vipers Blueprint"
+    },
+    {
+        "Id": 31,
+        "Zh": "双子蝰蛇 亡魂 枪管",
+        "En": "Wraith Twin Vipers Barrel"
+    },
+    {
+        "Id": 32,
+        "Zh": "双子蝰蛇 亡魂 枪机",
+        "En": "Wraith Twin Vipers Receiver"
+    },
+    {
+        "Id": 33,
+        "Zh": "双子蝰蛇 亡魂 连接器",
+        "En": "Wraith Twin Vipers Link"
+    },
+    {
+        "Id": 34,
+        "Zh": "希芙 蓝图",
+        "En": "Sheev Blueprint"
+    },
+    {
+        "Id": 35,
+        "Zh": "希芙 刀刃",
+        "En": "Sheev Blade"
+    },
+    {
+        "Id": 36,
+        "Zh": "希芙 握柄",
+        "En": "Sheev Hilt"
+    },
+    {
+        "Id": 37,
+        "Zh": "希芙 散热器",
+        "En": "Sheev Heatsink"
+    },
+    {
+        "Id": 38,
+        "Zh": "OROKIN催化剂 蓝图",
+        "En": "Orokin Catalyst Blueprint"
+    },
+    {
+        "Id": 39,
+        "Zh": "OROKIN反应堆 蓝图",
+        "En": "Orokin Reactor Blueprint"
+    },
+    {
+        "Id": 40,
+        "Zh": "FORMA 蓝图",
+        "En": "Forma Blueprint"
+    },
+    {
+        "Id": 41,
+        "Zh": "特殊功能槽连接器 蓝图",
+        "En": "Exilus Adapter Blueprint"
+    }
+]

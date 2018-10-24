@@ -1,1 +1,767 @@
-[{"Id":1,"Zh":"腐蚀投射","En":"Corrosive Projection"},{"Id":2,"Zh":"返老还童","En":"Rejuvenation"},{"Id":3,"Zh":"体魄","En":"Physique"},{"Id":4,"Zh":"战利品探测器","En":"Loot Detector"},{"Id":5,"Zh":"能量虹吸","En":"Energy Siphon"},{"Id":6,"Zh":"步枪增幅","En":"Rifle Amp"},{"Id":7,"Zh":"死亡之眼","En":"Dead Eye"},{"Id":8,"Zh":"钢铁充能","En":"Steel Charge"},{"Id":9,"Zh":"侦敌雷达","En":"Enemy Radar"},{"Id":10,"Zh":"感染者阻抗","En":"Infested Impedance"},{"Id":11,"Zh":"电磁脉冲场","En":"EMP Aura"},{"Id":12,"Zh":"护盾瓦解","En":"Shield Disruption"},{"Id":13,"Zh":"手枪弹药搜集者","En":"Pistol Scavenger"},{"Id":14,"Zh":"步枪弹药搜集者","En":"Rifle Scavenger"},{"Id":15,"Zh":"狙击枪弹药搜集者","En":"Sniper Scavenger"},{"Id":16,"Zh":"霰弹枪弹药搜集者","En":"Shotgun Scavenger"},{"Id":17,"Zh":"快速切换","En":"Speed Holster"},{"Id":18,"Zh":"铁氧体","En":"Ferrite"},{"Id":19,"Zh":"纳米孢子","En":"Nano Spores"},{"Id":20,"Zh":"合金板","En":"Alloy Plate"},{"Id":21,"Zh":"回收金属","En":"Salvage"},{"Id":22,"Zh":"聚合物束","En":"Polymer Bundle"},{"Id":23,"Zh":"永冻晶矿","En":"Cryotic"},{"Id":24,"Zh":"电路","En":"Circuits"},{"Id":25,"Zh":"生物质","En":"Plastids"},{"Id":26,"Zh":"红化结晶","En":"Rubedo"},{"Id":27,"Zh":"氩结晶","En":"Argon Crystal"},{"Id":28,"Zh":"控制模块","En":"Control Module"},{"Id":29,"Zh":"镓","En":"Gallium"},{"Id":30,"Zh":"非晶态合金","En":"Morphics"},{"Id":31,"Zh":"神经传感器","En":"Neural Sensors"},{"Id":32,"Zh":"神经元","En":"Neurodes"},{"Id":33,"Zh":"OROKIN电池","En":"Orokin Cell"},{"Id":34,"Zh":"奥席金属","En":"Oxium"},{"Id":35,"Zh":"碲","En":"Tellurium"},{"Id":36,"Zh":"合成刺激质","En":"Synthula"},{"Id":37,"Zh":"泥炭萃取物","En":"Nitain Extract"},{"Id":38,"Zh":"内融核心","En":"Endo"},{"Id":39,"Zh":"OROKIN催化剂 蓝图","En":"Orokin Catalyst Blueprint"},{"Id":40,"Zh":"OROKIN反应堆 蓝图","En":"Orokin Reactor Blueprint"},{"Id":41,"Zh":"FORMA 蓝图","En":"Forma Blueprint"},{"Id":42,"Zh":"VAUBAN 头部蓝图","En":"Vauban Neuroptics Blueprint"},{"Id":43,"Zh":"VAUBAN 机体蓝图","En":"Vauban Chassis Blueprint"},{"Id":44,"Zh":"VAUBAN 系统蓝图","En":"Vauban Systems Blueprint"},{"Id":45,"Zh":"活力","En":"Vigor"},{"Id":46,"Zh":"灵活装甲","En":"Armored Agility"},{"Id":47,"Zh":"流线外形","En":"Streamlined Form"},{"Id":48,"Zh":"百折不挠","En":"Constitution"},{"Id":49,"Zh":"不屈不挠","En":"Fortitude"},{"Id":50,"Zh":"加速冲击","En":"Accelerated Blast"},{"Id":51,"Zh":"撕裂","En":"Shred"},{"Id":52,"Zh":"激冷装填","En":"Chilling Reload"},{"Id":53,"Zh":"烈焰","En":"Blaze"},{"Id":54,"Zh":"狂暴追猎","En":"Seeking Fury"},{"Id":55,"Zh":"重锤射击","En":"Hammer Shot"},{"Id":56,"Zh":"野火","En":"Wildfire"},{"Id":57,"Zh":"冰风暴","En":"Ice Storm"},{"Id":58,"Zh":"慑人神速","En":"Stunning Speed"},{"Id":59,"Zh":"致命洪流","En":"Lethal Torrent"},{"Id":60,"Zh":"撕裂打击","En":"Rending Strike"},{"Id":61,"Zh":"漂移接触","En":"Drifting Contact"},{"Id":62,"Zh":"聚焦能量","En":"Focus Energy"},{"Id":63,"Zh":"动物本能","En":"Animal Instinct"},{"Id":64,"Zh":"库狛蛋","En":"Kubrow Egg"},{"Id":65,"Zh":"库娃遗传密码","En":"Kavat Genetic Code"},{"Id":66,"Zh":"NIDUS 朊毒头盔","En":"Nidus Prion Helmet Blueprint"},{"Id":67,"Zh":"FROST 飑风头盔","En":"Frost Squall Helmet Blueprint"},{"Id":68,"Zh":"BANSHEE 返响头盔","En":"Banshee Reverb Helmet Blueprint"},{"Id":69,"Zh":"VALKYR 狂者头盔","En":"Valkyr Kara Helmet Blueprint"},{"Id":70,"Zh":"EMBER 复燃头盔","En":"Ember Backdraft Helmet Blueprint"},{"Id":71,"Zh":"LOKI 本质头盔","En":"Loki Essence Helmet Blueprint"},{"Id":72,"Zh":"MAG 线圈头盔","En":"Mag Coil Helmet Blueprint"},{"Id":73,"Zh":"TRINITY 经络头盔","En":"Trinity Meridian Helmet Blueprint"},{"Id":74,"Zh":"OCTAVIA 华彩乐章头盔","En":"Octavia Cadenza Helmet Blueprint"},{"Id":75,"Zh":"FROST 极光头盔","En":"Frost Aurora Helmet Blueprint"},{"Id":76,"Zh":"ATLAS 兜围头盔","En":"Atlas Shikoro Helmet Blueprint"},{"Id":77,"Zh":"VOLT 风暴头盔","En":"Volt Storm Helmet Blueprint"},{"Id":78,"Zh":"SARYN 铁杉头盔","En":"Saryn Hemlock Helmet Blueprint"},{"Id":79,"Zh":"NYX 灭神头盔","En":"Nyx Menticide Helmet Blueprint"},{"Id":80,"Zh":"BANSHEE 合音头盔","En":"Banshee Chorus Helmet Blueprint"},{"Id":81,"Zh":"HYDROID 海怪头盔","En":"Hydroid Ketos Helmet Blueprint"},{"Id":82,"Zh":"CHROMA 龙蛇头盔","En":"Chroma Drac Helmet Blueprint"},{"Id":83,"Zh":"EMBER 凤凰头盔","En":"Ember Phoenix Helmet Blueprint"},{"Id":84,"Zh":"VALKYR 芭丝特头盔","En":"Valkyr Bastet Helmet Blueprint"},{"Id":85,"Zh":"NOVA 通量头盔","En":"Nova Flux Helmet Blueprint"},{"Id":86,"Zh":"ASH 毒蝎头盔","En":"Ash Scorpion Helmet Blueprint"},{"Id":87,"Zh":"MAG 高斯头盔","En":"Mag Gauss Helmet Blueprint"},{"Id":88,"Zh":"VOLT 脉冲头盔","En":"Volt Pulse Helmet Blueprint"},{"Id":89,"Zh":"CHROMA 羽蛇神头盔","En":"Chroma Amaru Helmet Blueprint"},{"Id":91,"Zh":"LIMBO 画家头盔","En":"Limbo Magrite Helmet Blueprint"},{"Id":92,"Zh":"LIMBO 诗人头盔","En":"Limbo Aristeas Helmet Blueprint"},{"Id":93,"Zh":"NYX 黄蜂头盔","En":"Nyx Vespa Helmet Blueprint"},{"Id":94,"Zh":"ATLAS 炼狱头盔","En":"Atlas Tartarus Helmet Blueprint"},{"Id":95,"Zh":"HYDROID 海之信使头盔","En":"Hydroid Triton Helmet Blueprint"},{"Id":96,"Zh":"ASH 飞蝗头盔","En":"Ash Locust Helmet Blueprint"},{"Id":97,"Zh":"RHINO 震击头盔","En":"Rhino Thrak Helmet Blueprint"},{"Id":98,"Zh":"RHINO 先锋头盔","En":"Rhino Vanguard Helmet Blueprint"},{"Id":99,"Zh":"IVARA 头罩头盔","En":"Ivara Zirastra Helmet Blueprint"},{"Id":100,"Zh":"IVARA 洛克斯利头盔","En":"Ivara Loxley Helmet Blueprint"},{"Id":101,"Zh":"WUKONG 大圣头盔","En":"Wukong Dasheng Helmet Blueprint"},{"Id":102,"Zh":"WUKONG 猕猴头盔","En":"Wukong Macak Helmet Blueprint"},{"Id":103,"Zh":"EQUINOX 至点头盔","En":"Equinox Solstice Helmet Blueprint"},{"Id":104,"Zh":"EXCALIBUR 潘德拉冈头盔","En":"Excalibur Pendragon Helmet Blueprint"},{"Id":105,"Zh":"EXCALIBUR 莫德雷头盔","En":"Excalibur Mordred Helmet Blueprint"},{"Id":106,"Zh":"EXCALIBUR 阿瓦隆头盔","En":"Excalibur Avalon Helmet Blueprint"},{"Id":107,"Zh":"GARA 悍妇头盔","En":"Gara Virago Helmet Blueprint"},{"Id":108,"Zh":"INAROS 阿努比斯头盔","En":"Inaros Anubis Helmet Blueprint"},{"Id":109,"Zh":"INAROS 卡诺比斯头盔","En":"Inaros Canopic Helmet Blueprint"},{"Id":110,"Zh":"LOKI 谜样头盔","En":"Loki Enigma Helmet Blueprint"},{"Id":111,"Zh":"LOKI 诈欺头盔","En":"Loki Swindle Helmet Blueprint"},{"Id":112,"Zh":"MESA 长角头盔","En":"Mesa Longhorn Helmet Blueprint"},{"Id":113,"Zh":"MESA 角羊头盔","En":"Mesa Ovis Helmet Blueprint"},{"Id":114,"Zh":"MIRAGE 丑角头盔","En":"Mirage Harlequin Helmet Blueprint"},{"Id":115,"Zh":"MIRAGE 丑仆头盔","En":"Mirage Trivelin Helmet Blueprint"},{"Id":116,"Zh":"NEKROS 古墓头盔","En":"Nekros Raknis Helmet Blueprint"},{"Id":117,"Zh":"NEKROS 裹尸布头盔","En":"Nekros Shroud Helmet Blueprint"},{"Id":118,"Zh":"NEZHA 奇尔卡头盔","En":"Nezha Circa Helmet Blueprint"},{"Id":119,"Zh":"NOVA 量子头盔","En":"Nova Quantum Helmet Blueprint"},{"Id":120,"Zh":"NOVA 气流头盔","En":"Nova Slipstream Helmet Blueprint"},{"Id":121,"Zh":"OBERON 捻角山羊头盔","En":"Oberon Markhor Helmet Blueprint"},{"Id":122,"Zh":"OBERON 羚羊头盔","En":"Oberon Oryx Helmet Blueprint"},{"Id":123,"Zh":"SARYN 氯毒头盔","En":"Saryn Chlora Helmet Blueprint"},{"Id":124,"Zh":"TITANIA 风之妖精头盔","En":"Titania Aurai Helmet Blueprint"},{"Id":125,"Zh":"TRINITY 预言头盔","En":"Trinity Aura Helmet Blueprint"},{"Id":126,"Zh":"VAUBAN 休战头盔","En":"Vauban Armistice Helmet Blueprint"},{"Id":127,"Zh":"VAUBAN 沙佩隆头盔","En":"Vauban Chapelon Helmet Blueprint"},{"Id":128,"Zh":"VAUBAN 机敏头盔","En":"Vauban Esprit Helmet Blueprint"},{"Id":129,"Zh":"VAUBAN 策略头盔","En":"Vauban Gambit Helmet Blueprint"},{"Id":130,"Zh":"ZEPHYR 西熟风头盔","En":"Zephyr Cierzo Helmet Blueprint"},{"Id":131,"Zh":"ZEPHYR 天狗头盔","En":"Zephyr Tengu Helmet Blueprint"},{"Id":132,"Zh":"HARROW 副主教头盔","En":"Harrow Suffragan Helmet Blueprint"},{"Id":133,"Zh":"重击巨锤 布洛克外观","En":"Brokk Hammer Skin Blueprint"},{"Id":134,"Zh":"佐轮双斧 戈刃外观","En":"Dagger Zoren Skin Blueprint"},{"Id":135,"Zh":"分裂斩斧 蝎尾狮外观","En":"Scindo Manticore Axe Skin Blueprint"},{"Id":136,"Zh":"分裂斩斧 戈刃外观","En":"Dagger Axe Scindo Skin"},{"Id":137,"Zh":"蛇颚刀 蓝图","En":"Jaw Sword Blueprint"},{"Id":138,"Zh":"陶瓷匕首 蓝图","En":"Ceramic Dagger Blueprint"},{"Id":139,"Zh":"暗黑匕首 蓝图","En":"Dark Dagger Blueprint"},{"Id":140,"Zh":"暗黑长剑 蓝图","En":"Dark Sword Blueprint"},{"Id":141,"Zh":"战刃 蓝图","En":"Glaive Blueprint"},{"Id":142,"Zh":"烈焰短剑 蓝图","En":"Heat Dagger Blueprint"},{"Id":143,"Zh":"烈焰长剑 蓝图","En":"Heat Sword Blueprint"},{"Id":144,"Zh":"鲮鲤剑 蓝图","En":"Pangolin Sword Blueprint"},{"Id":145,"Zh":"等离子长剑 蓝图","En":"Plasma Sword Blueprint"},{"Id":146,"Zh":"虚空光体","En":"Void Traces"},{"Id":147,"Zh":"冲刺提升","En":"Sprint Boost"},{"Id":149,"Zh":"NEZHA 金吒头盔","En":"Nezha JinZa Helmet Blueprint"},{"Id":150,"Zh":"KHORA 德尔菲头盔","En":"Khora Delphi Helmet Blueprint"},{"Id":151,"Zh":"Forma","En":"Forma"},{"Id":152,"Zh":"EQUINOX 晨昏恶魔头盔","En":"Equinox Clisthert Helmet Blueprint"},{"Id":153,"Zh":"近战 裂罅MOD","En":"Veiled Melee Riven Mod"},{"Id":154,"Zh":"手枪 裂罅MOD","En":"Pistol Riven Mod"},{"Id":157,"Zh":"霰弹枪 裂罅MOD","En":"Shotgun Riven Mod"}]
+[
+    {
+        "Id": 1,
+        "Zh": "腐蚀投射",
+        "En": "Corrosive Projection"
+    },
+    {
+        "Id": 2,
+        "Zh": "返老还童",
+        "En": "Rejuvenation"
+    },
+    {
+        "Id": 3,
+        "Zh": "体魄",
+        "En": "Physique"
+    },
+    {
+        "Id": 4,
+        "Zh": "战利品探测器",
+        "En": "Loot Detector"
+    },
+    {
+        "Id": 5,
+        "Zh": "能量虹吸",
+        "En": "Energy Siphon"
+    },
+    {
+        "Id": 6,
+        "Zh": "步枪增幅",
+        "En": "Rifle Amp"
+    },
+    {
+        "Id": 7,
+        "Zh": "死亡之眼",
+        "En": "Dead Eye"
+    },
+    {
+        "Id": 8,
+        "Zh": "钢铁充能",
+        "En": "Steel Charge"
+    },
+    {
+        "Id": 9,
+        "Zh": "侦敌雷达",
+        "En": "Enemy Radar"
+    },
+    {
+        "Id": 10,
+        "Zh": "感染者阻抗",
+        "En": "Infested Impedance"
+    },
+    {
+        "Id": 11,
+        "Zh": "电磁脉冲场",
+        "En": "EMP Aura"
+    },
+    {
+        "Id": 12,
+        "Zh": "护盾瓦解",
+        "En": "Shield Disruption"
+    },
+    {
+        "Id": 13,
+        "Zh": "手枪弹药搜集者",
+        "En": "Pistol Scavenger"
+    },
+    {
+        "Id": 14,
+        "Zh": "步枪弹药搜集者",
+        "En": "Rifle Scavenger"
+    },
+    {
+        "Id": 15,
+        "Zh": "狙击枪弹药搜集者",
+        "En": "Sniper Scavenger"
+    },
+    {
+        "Id": 16,
+        "Zh": "霰弹枪弹药搜集者",
+        "En": "Shotgun Scavenger"
+    },
+    {
+        "Id": 17,
+        "Zh": "快速切换",
+        "En": "Speed Holster"
+    },
+    {
+        "Id": 18,
+        "Zh": "铁氧体",
+        "En": "Ferrite"
+    },
+    {
+        "Id": 19,
+        "Zh": "纳米孢子",
+        "En": "Nano Spores"
+    },
+    {
+        "Id": 20,
+        "Zh": "合金板",
+        "En": "Alloy Plate"
+    },
+    {
+        "Id": 21,
+        "Zh": "回收金属",
+        "En": "Salvage"
+    },
+    {
+        "Id": 22,
+        "Zh": "聚合物束",
+        "En": "Polymer Bundle"
+    },
+    {
+        "Id": 23,
+        "Zh": "永冻晶矿",
+        "En": "Cryotic"
+    },
+    {
+        "Id": 24,
+        "Zh": "电路",
+        "En": "Circuits"
+    },
+    {
+        "Id": 25,
+        "Zh": "生物质",
+        "En": "Plastids"
+    },
+    {
+        "Id": 26,
+        "Zh": "红化结晶",
+        "En": "Rubedo"
+    },
+    {
+        "Id": 27,
+        "Zh": "氩结晶",
+        "En": "Argon Crystal"
+    },
+    {
+        "Id": 28,
+        "Zh": "控制模块",
+        "En": "Control Module"
+    },
+    {
+        "Id": 29,
+        "Zh": "镓",
+        "En": "Gallium"
+    },
+    {
+        "Id": 30,
+        "Zh": "非晶态合金",
+        "En": "Morphics"
+    },
+    {
+        "Id": 31,
+        "Zh": "神经传感器",
+        "En": "Neural Sensors"
+    },
+    {
+        "Id": 32,
+        "Zh": "神经元",
+        "En": "Neurodes"
+    },
+    {
+        "Id": 33,
+        "Zh": "OROKIN电池",
+        "En": "Orokin Cell"
+    },
+    {
+        "Id": 34,
+        "Zh": "奥席金属",
+        "En": "Oxium"
+    },
+    {
+        "Id": 35,
+        "Zh": "碲",
+        "En": "Tellurium"
+    },
+    {
+        "Id": 36,
+        "Zh": "合成刺激质",
+        "En": "Synthula"
+    },
+    {
+        "Id": 37,
+        "Zh": "泥炭萃取物",
+        "En": "Nitain Extract"
+    },
+    {
+        "Id": 38,
+        "Zh": "内融核心",
+        "En": "Endo"
+    },
+    {
+        "Id": 39,
+        "Zh": "OROKIN催化剂 蓝图",
+        "En": "Orokin Catalyst Blueprint"
+    },
+    {
+        "Id": 40,
+        "Zh": "OROKIN反应堆 蓝图",
+        "En": "Orokin Reactor Blueprint"
+    },
+    {
+        "Id": 41,
+        "Zh": "FORMA 蓝图",
+        "En": "Forma Blueprint"
+    },
+    {
+        "Id": 42,
+        "Zh": "VAUBAN 头部蓝图",
+        "En": "Vauban Neuroptics Blueprint"
+    },
+    {
+        "Id": 43,
+        "Zh": "VAUBAN 机体蓝图",
+        "En": "Vauban Chassis Blueprint"
+    },
+    {
+        "Id": 44,
+        "Zh": "VAUBAN 系统蓝图",
+        "En": "Vauban Systems Blueprint"
+    },
+    {
+        "Id": 45,
+        "Zh": "活力",
+        "En": "Vigor"
+    },
+    {
+        "Id": 46,
+        "Zh": "灵活装甲",
+        "En": "Armored Agility"
+    },
+    {
+        "Id": 47,
+        "Zh": "流线外形",
+        "En": "Streamlined Form"
+    },
+    {
+        "Id": 48,
+        "Zh": "百折不挠",
+        "En": "Constitution"
+    },
+    {
+        "Id": 49,
+        "Zh": "不屈不挠",
+        "En": "Fortitude"
+    },
+    {
+        "Id": 50,
+        "Zh": "加速冲击",
+        "En": "Accelerated Blast"
+    },
+    {
+        "Id": 51,
+        "Zh": "撕裂",
+        "En": "Shred"
+    },
+    {
+        "Id": 52,
+        "Zh": "激冷装填",
+        "En": "Chilling Reload"
+    },
+    {
+        "Id": 53,
+        "Zh": "烈焰",
+        "En": "Blaze"
+    },
+    {
+        "Id": 54,
+        "Zh": "狂暴追猎",
+        "En": "Seeking Fury"
+    },
+    {
+        "Id": 55,
+        "Zh": "重锤射击",
+        "En": "Hammer Shot"
+    },
+    {
+        "Id": 56,
+        "Zh": "野火",
+        "En": "Wildfire"
+    },
+    {
+        "Id": 57,
+        "Zh": "冰风暴",
+        "En": "Ice Storm"
+    },
+    {
+        "Id": 58,
+        "Zh": "慑人神速",
+        "En": "Stunning Speed"
+    },
+    {
+        "Id": 59,
+        "Zh": "致命洪流",
+        "En": "Lethal Torrent"
+    },
+    {
+        "Id": 60,
+        "Zh": "撕裂打击",
+        "En": "Rending Strike"
+    },
+    {
+        "Id": 61,
+        "Zh": "漂移接触",
+        "En": "Drifting Contact"
+    },
+    {
+        "Id": 62,
+        "Zh": "聚焦能量",
+        "En": "Focus Energy"
+    },
+    {
+        "Id": 63,
+        "Zh": "动物本能",
+        "En": "Animal Instinct"
+    },
+    {
+        "Id": 64,
+        "Zh": "库狛蛋",
+        "En": "Kubrow Egg"
+    },
+    {
+        "Id": 65,
+        "Zh": "库娃遗传密码",
+        "En": "Kavat Genetic Code"
+    },
+    {
+        "Id": 66,
+        "Zh": "NIDUS 朊毒头盔",
+        "En": "Nidus Prion Helmet Blueprint"
+    },
+    {
+        "Id": 67,
+        "Zh": "FROST 飑风头盔",
+        "En": "Frost Squall Helmet Blueprint"
+    },
+    {
+        "Id": 68,
+        "Zh": "BANSHEE 返响头盔",
+        "En": "Banshee Reverb Helmet Blueprint"
+    },
+    {
+        "Id": 69,
+        "Zh": "VALKYR 狂者头盔",
+        "En": "Valkyr Kara Helmet Blueprint"
+    },
+    {
+        "Id": 70,
+        "Zh": "EMBER 复燃头盔",
+        "En": "Ember Backdraft Helmet Blueprint"
+    },
+    {
+        "Id": 71,
+        "Zh": "LOKI 本质头盔",
+        "En": "Loki Essence Helmet Blueprint"
+    },
+    {
+        "Id": 72,
+        "Zh": "MAG 线圈头盔",
+        "En": "Mag Coil Helmet Blueprint"
+    },
+    {
+        "Id": 73,
+        "Zh": "TRINITY 经络头盔",
+        "En": "Trinity Meridian Helmet Blueprint"
+    },
+    {
+        "Id": 74,
+        "Zh": "OCTAVIA 华彩乐章头盔",
+        "En": "Octavia Cadenza Helmet Blueprint"
+    },
+    {
+        "Id": 75,
+        "Zh": "FROST 极光头盔",
+        "En": "Frost Aurora Helmet Blueprint"
+    },
+    {
+        "Id": 76,
+        "Zh": "ATLAS 兜围头盔",
+        "En": "Atlas Shikoro Helmet Blueprint"
+    },
+    {
+        "Id": 77,
+        "Zh": "VOLT 风暴头盔",
+        "En": "Volt Storm Helmet Blueprint"
+    },
+    {
+        "Id": 78,
+        "Zh": "SARYN 铁杉头盔",
+        "En": "Saryn Hemlock Helmet Blueprint"
+    },
+    {
+        "Id": 79,
+        "Zh": "NYX 灭神头盔",
+        "En": "Nyx Menticide Helmet Blueprint"
+    },
+    {
+        "Id": 80,
+        "Zh": "BANSHEE 合音头盔",
+        "En": "Banshee Chorus Helmet Blueprint"
+    },
+    {
+        "Id": 81,
+        "Zh": "HYDROID 海怪头盔",
+        "En": "Hydroid Ketos Helmet Blueprint"
+    },
+    {
+        "Id": 82,
+        "Zh": "CHROMA 龙蛇头盔",
+        "En": "Chroma Drac Helmet Blueprint"
+    },
+    {
+        "Id": 83,
+        "Zh": "EMBER 凤凰头盔",
+        "En": "Ember Phoenix Helmet Blueprint"
+    },
+    {
+        "Id": 84,
+        "Zh": "VALKYR 芭丝特头盔",
+        "En": "Valkyr Bastet Helmet Blueprint"
+    },
+    {
+        "Id": 85,
+        "Zh": "NOVA 通量头盔",
+        "En": "Nova Flux Helmet Blueprint"
+    },
+    {
+        "Id": 86,
+        "Zh": "ASH 毒蝎头盔",
+        "En": "Ash Scorpion Helmet Blueprint"
+    },
+    {
+        "Id": 87,
+        "Zh": "MAG 高斯头盔",
+        "En": "Mag Gauss Helmet Blueprint"
+    },
+    {
+        "Id": 88,
+        "Zh": "VOLT 脉冲头盔",
+        "En": "Volt Pulse Helmet Blueprint"
+    },
+    {
+        "Id": 89,
+        "Zh": "CHROMA 羽蛇神头盔",
+        "En": "Chroma Amaru Helmet Blueprint"
+    },
+    {
+        "Id": 91,
+        "Zh": "LIMBO 画家头盔",
+        "En": "Limbo Magrite Helmet Blueprint"
+    },
+    {
+        "Id": 92,
+        "Zh": "LIMBO 诗人头盔",
+        "En": "Limbo Aristeas Helmet Blueprint"
+    },
+    {
+        "Id": 93,
+        "Zh": "NYX 黄蜂头盔",
+        "En": "Nyx Vespa Helmet Blueprint"
+    },
+    {
+        "Id": 94,
+        "Zh": "ATLAS 炼狱头盔",
+        "En": "Atlas Tartarus Helmet Blueprint"
+    },
+    {
+        "Id": 95,
+        "Zh": "HYDROID 海之信使头盔",
+        "En": "Hydroid Triton Helmet Blueprint"
+    },
+    {
+        "Id": 96,
+        "Zh": "ASH 飞蝗头盔",
+        "En": "Ash Locust Helmet Blueprint"
+    },
+    {
+        "Id": 97,
+        "Zh": "RHINO 震击头盔",
+        "En": "Rhino Thrak Helmet Blueprint"
+    },
+    {
+        "Id": 98,
+        "Zh": "RHINO 先锋头盔",
+        "En": "Rhino Vanguard Helmet Blueprint"
+    },
+    {
+        "Id": 99,
+        "Zh": "IVARA 头罩头盔",
+        "En": "Ivara Zirastra Helmet Blueprint"
+    },
+    {
+        "Id": 100,
+        "Zh": "IVARA 洛克斯利头盔",
+        "En": "Ivara Loxley Helmet Blueprint"
+    },
+    {
+        "Id": 101,
+        "Zh": "WUKONG 大圣头盔",
+        "En": "Wukong Dasheng Helmet Blueprint"
+    },
+    {
+        "Id": 102,
+        "Zh": "WUKONG 猕猴头盔",
+        "En": "Wukong Macak Helmet Blueprint"
+    },
+    {
+        "Id": 103,
+        "Zh": "EQUINOX 至点头盔",
+        "En": "Equinox Solstice Helmet Blueprint"
+    },
+    {
+        "Id": 104,
+        "Zh": "EXCALIBUR 潘德拉冈头盔",
+        "En": "Excalibur Pendragon Helmet Blueprint"
+    },
+    {
+        "Id": 105,
+        "Zh": "EXCALIBUR 莫德雷头盔",
+        "En": "Excalibur Mordred Helmet Blueprint"
+    },
+    {
+        "Id": 106,
+        "Zh": "EXCALIBUR 阿瓦隆头盔",
+        "En": "Excalibur Avalon Helmet Blueprint"
+    },
+    {
+        "Id": 107,
+        "Zh": "GARA 悍妇头盔",
+        "En": "Gara Virago Helmet Blueprint"
+    },
+    {
+        "Id": 108,
+        "Zh": "INAROS 阿努比斯头盔",
+        "En": "Inaros Anubis Helmet Blueprint"
+    },
+    {
+        "Id": 109,
+        "Zh": "INAROS 卡诺比斯头盔",
+        "En": "Inaros Canopic Helmet Blueprint"
+    },
+    {
+        "Id": 110,
+        "Zh": "LOKI 谜样头盔",
+        "En": "Loki Enigma Helmet Blueprint"
+    },
+    {
+        "Id": 111,
+        "Zh": "LOKI 诈欺头盔",
+        "En": "Loki Swindle Helmet Blueprint"
+    },
+    {
+        "Id": 112,
+        "Zh": "MESA 长角头盔",
+        "En": "Mesa Longhorn Helmet Blueprint"
+    },
+    {
+        "Id": 113,
+        "Zh": "MESA 角羊头盔",
+        "En": "Mesa Ovis Helmet Blueprint"
+    },
+    {
+        "Id": 114,
+        "Zh": "MIRAGE 丑角头盔",
+        "En": "Mirage Harlequin Helmet Blueprint"
+    },
+    {
+        "Id": 115,
+        "Zh": "MIRAGE 丑仆头盔",
+        "En": "Mirage Trivelin Helmet Blueprint"
+    },
+    {
+        "Id": 116,
+        "Zh": "NEKROS 古墓头盔",
+        "En": "Nekros Raknis Helmet Blueprint"
+    },
+    {
+        "Id": 117,
+        "Zh": "NEKROS 裹尸布头盔",
+        "En": "Nekros Shroud Helmet Blueprint"
+    },
+    {
+        "Id": 118,
+        "Zh": "NEZHA 奇尔卡头盔",
+        "En": "Nezha Circa Helmet Blueprint"
+    },
+    {
+        "Id": 119,
+        "Zh": "NOVA 量子头盔",
+        "En": "Nova Quantum Helmet Blueprint"
+    },
+    {
+        "Id": 120,
+        "Zh": "NOVA 气流头盔",
+        "En": "Nova Slipstream Helmet Blueprint"
+    },
+    {
+        "Id": 121,
+        "Zh": "OBERON 捻角山羊头盔",
+        "En": "Oberon Markhor Helmet Blueprint"
+    },
+    {
+        "Id": 122,
+        "Zh": "OBERON 羚羊头盔",
+        "En": "Oberon Oryx Helmet Blueprint"
+    },
+    {
+        "Id": 123,
+        "Zh": "SARYN 氯毒头盔",
+        "En": "Saryn Chlora Helmet Blueprint"
+    },
+    {
+        "Id": 124,
+        "Zh": "TITANIA 风之妖精头盔",
+        "En": "Titania Aurai Helmet Blueprint"
+    },
+    {
+        "Id": 125,
+        "Zh": "TRINITY 预言头盔",
+        "En": "Trinity Aura Helmet Blueprint"
+    },
+    {
+        "Id": 126,
+        "Zh": "VAUBAN 休战头盔",
+        "En": "Vauban Armistice Helmet Blueprint"
+    },
+    {
+        "Id": 127,
+        "Zh": "VAUBAN 沙佩隆头盔",
+        "En": "Vauban Chapelon Helmet Blueprint"
+    },
+    {
+        "Id": 128,
+        "Zh": "VAUBAN 机敏头盔",
+        "En": "Vauban Esprit Helmet Blueprint"
+    },
+    {
+        "Id": 129,
+        "Zh": "VAUBAN 策略头盔",
+        "En": "Vauban Gambit Helmet Blueprint"
+    },
+    {
+        "Id": 130,
+        "Zh": "ZEPHYR 西熟风头盔",
+        "En": "Zephyr Cierzo Helmet Blueprint"
+    },
+    {
+        "Id": 131,
+        "Zh": "ZEPHYR 天狗头盔",
+        "En": "Zephyr Tengu Helmet Blueprint"
+    },
+    {
+        "Id": 132,
+        "Zh": "HARROW 副主教头盔",
+        "En": "Harrow Suffragan Helmet Blueprint"
+    },
+    {
+        "Id": 133,
+        "Zh": "重击巨锤 布洛克外观",
+        "En": "Brokk Hammer Skin Blueprint"
+    },
+    {
+        "Id": 134,
+        "Zh": "佐轮双斧 戈刃外观",
+        "En": "Dagger Zoren Skin Blueprint"
+    },
+    {
+        "Id": 135,
+        "Zh": "分裂斩斧 蝎尾狮外观",
+        "En": "Scindo Manticore Axe Skin Blueprint"
+    },
+    {
+        "Id": 136,
+        "Zh": "分裂斩斧 戈刃外观",
+        "En": "Dagger Axe Scindo Skin"
+    },
+    {
+        "Id": 137,
+        "Zh": "蛇颚刀 蓝图",
+        "En": "Jaw Sword Blueprint"
+    },
+    {
+        "Id": 138,
+        "Zh": "陶瓷匕首 蓝图",
+        "En": "Ceramic Dagger Blueprint"
+    },
+    {
+        "Id": 139,
+        "Zh": "暗黑匕首 蓝图",
+        "En": "Dark Dagger Blueprint"
+    },
+    {
+        "Id": 140,
+        "Zh": "暗黑长剑 蓝图",
+        "En": "Dark Sword Blueprint"
+    },
+    {
+        "Id": 141,
+        "Zh": "战刃 蓝图",
+        "En": "Glaive Blueprint"
+    },
+    {
+        "Id": 142,
+        "Zh": "烈焰短剑 蓝图",
+        "En": "Heat Dagger Blueprint"
+    },
+    {
+        "Id": 143,
+        "Zh": "烈焰长剑 蓝图",
+        "En": "Heat Sword Blueprint"
+    },
+    {
+        "Id": 144,
+        "Zh": "鲮鲤剑 蓝图",
+        "En": "Pangolin Sword Blueprint"
+    },
+    {
+        "Id": 145,
+        "Zh": "等离子长剑 蓝图",
+        "En": "Plasma Sword Blueprint"
+    },
+    {
+        "Id": 146,
+        "Zh": "虚空光体",
+        "En": "Void Traces"
+    },
+    {
+        "Id": 147,
+        "Zh": "冲刺提升",
+        "En": "Sprint Boost"
+    },
+    {
+        "Id": 149,
+        "Zh": "NEZHA 金吒头盔",
+        "En": "Nezha JinZa Helmet Blueprint"
+    },
+    {
+        "Id": 150,
+        "Zh": "KHORA 德尔菲头盔",
+        "En": "Khora Delphi Helmet Blueprint"
+    },
+    {
+        "Id": 151,
+        "Zh": "Forma",
+        "En": "Forma"
+    },
+    {
+        "Id": 152,
+        "Zh": "EQUINOX 晨昏恶魔头盔",
+        "En": "Equinox Clisthert Helmet Blueprint"
+    },
+    {
+        "Id": 153,
+        "Zh": "近战 裂罅MOD",
+        "En": "Veiled Melee Riven Mod"
+    },
+    {
+        "Id": 154,
+        "Zh": "手枪 裂罅MOD",
+        "En": "Pistol Riven Mod"
+    },
+    {
+        "Id": 157,
+        "Zh": "霰弹枪 裂罅MOD",
+        "En": "Shotgun Riven Mod"
+    }
+]
