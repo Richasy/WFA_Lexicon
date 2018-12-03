@@ -14383,5 +14383,278 @@
         "search": "axi_s4_radiant",
         "zh": "后纪 S4 光辉",
         "en": "Axi S4 Radiant"
+    },
+    {
+        "id": 2139,
+        "type": "Res",
+        "search": "basic_eye_eye",
+        "zh": "基础 目-目",
+        "en": "Basic Eye-Eye"
+    },
+    {
+        "id": 2140,
+        "type": "Res",
+        "search": "adorned_eye_eye",
+        "zh": "装饰 目-目",
+        "en": "Adorned Eye-Eye"
+    },
+    {
+        "id": 2141,
+        "type": "Res",
+        "search": "magnificent_eye_eye",
+        "zh": "华丽 目-目",
+        "en": "Magnificent Eye-Eye"
+    },
+    {
+        "id": 2142,
+        "type": "Res",
+        "search": "basic_scrubber",
+        "zh": "基础 洗涤者",
+        "en": "Basic Scrubber"
+    },
+    {
+        "id": 2143,
+        "type": "Res",
+        "search": "adorned_scrubber",
+        "zh": "装饰 洗涤者",
+        "en": "Adorned Scrubber"
+    },
+    {
+        "id": 2144,
+        "type": "Res",
+        "search": "magnificent_scrubber",
+        "zh": "华丽 洗涤者",
+        "en": "Magnificent Scrubber"
+    },
+    {
+        "id": 2145,
+        "type": "Res",
+        "search": "basic_echowinder",
+        "zh": "基础 回声环绕者",
+        "en": "Basic Echowinder"
+    },
+    {
+        "id": 2146,
+        "type": "Res",
+        "search": "adorned_echowinder",
+        "zh": "装饰 回声环绕者",
+        "en": "Adorned Echowinder"
+    },
+    {
+        "id": 2147,
+        "type": "Res",
+        "search": "magnificent_echowinder",
+        "zh": "华丽 回声环绕者",
+        "en": "Magnificent Echowinder"
+    },
+    {
+        "id": 2148,
+        "type": "Res",
+        "search": "basic_mirewinder",
+        "zh": "基础 污泥环绕者",
+        "en": "Basic Mirewinder"
+    },
+    {
+        "id": 2149,
+        "type": "Res",
+        "search": "adorned_mirewinder",
+        "zh": "装饰 污泥环绕者",
+        "en": "Adorned Mirewinder"
+    },
+    {
+        "id": 2150,
+        "type": "Res",
+        "search": "magnificent_mirewinder",
+        "zh": "华丽 污泥环绕者",
+        "en": "Magnificent Mirewinder"
+    },
+    {
+        "id": 2151,
+        "type": "Res",
+        "search": "basic_longwinder",
+        "zh": "基础 长型环绕者",
+        "en": "Basic Longwinder"
+    },
+    {
+        "id": 2152,
+        "type": "Res",
+        "search": "adorned_longwinder",
+        "zh": "装饰 长型环绕者",
+        "en": "Adorned Longwinder"
+    },
+    {
+        "id": 2153,
+        "type": "Res",
+        "search": "magnificent_longwinder",
+        "zh": "华丽 长型环绕者",
+        "en": "Magnificent Longwinder"
+    },
+    {
+        "id": 2154,
+        "type": "Res",
+        "search": "basic_brickie",
+        "zh": "基础 砖瓦匠",
+        "en": "Basic Brickie"
+    },
+    {
+        "id": 2155,
+        "type": "Res",
+        "search": "adorned_brickie",
+        "zh": "装饰 砖瓦匠",
+        "en": "Adorned Brickie"
+    },
+    {
+        "id": 2156,
+        "type": "Res",
+        "search": "magnificent_brickie",
+        "zh": "华丽 砖瓦匠",
+        "en": "Magnificent Brickie"
+    },
+    {
+        "id": 2157,
+        "type": "Res",
+        "search": "basic_tink",
+        "zh": "基础 修补机",
+        "en": "Basic Tink"
+    },
+    {
+        "id": 2158,
+        "type": "Res",
+        "search": "adorned_tink",
+        "zh": "装饰 修补机",
+        "en": "Adorned Tink"
+    },
+    {
+        "id": 2159,
+        "type": "Res",
+        "search": "magnificent_tink",
+        "zh": "华丽 修补机",
+        "en": "Magnificent Tink"
+    },
+    {
+        "id": 2160,
+        "type": "Res",
+        "search": "basic_sapcaddy",
+        "zh": "基础 液集者",
+        "en": "Basic Sapcaddy"
+    },
+    {
+        "id": 2161,
+        "type": "Res",
+        "search": "adorned_sapcaddy",
+        "zh": "装饰 液集者",
+        "en": "Adorned Sapcaddy"
+    },
+    {
+        "id": 2162,
+        "type": "Res",
+        "search": "magnificent_sapcaddy",
+        "zh": "华丽 液集者",
+        "en": "Magnificent Sapcaddy"
+    },
+    {
+        "id": 2163,
+        "type": "Res",
+        "search": "basic_kriller",
+        "zh": "基础 磷虾杀手",
+        "en": "Basic Kriller"
+    },
+    {
+        "id": 2164,
+        "type": "Res",
+        "search": "adorned_kriller",
+        "zh": "装饰 磷虾杀手",
+        "en": "Adorned Kriller"
+    },
+    {
+        "id": 2165,
+        "type": "Res",
+        "search": "magnificent_kriller",
+        "zh": "华丽 磷虾杀手",
+        "en": "Magnificent Kriller"
+    },
+    {
+        "id": 2166,
+        "type": "Res",
+        "search": "basic_recaster",
+        "zh": "基础 续播机",
+        "en": "Basic Recaster"
+    },
+    {
+        "id": 2167,
+        "type": "Res",
+        "search": "adorned_recaster",
+        "zh": "装饰 续播机",
+        "en": "Adorned Recaster"
+    },
+    {
+        "id": 2168,
+        "type": "Res",
+        "search": "magnificent_recaster",
+        "zh": "华丽 续播机",
+        "en": "Magnificent Recaster"
+    },
+    {
+        "id": 2169,
+        "type": "Res",
+        "search": "basic_tromyzon",
+        "zh": "基础 多目鳗",
+        "en": "Basic Tromyzon"
+    },
+    {
+        "id": 2170,
+        "type": "Res",
+        "search": "adorned_tromyzon",
+        "zh": "装饰 多目鳗",
+        "en": "Adorned Tromyzon"
+    },
+    {
+        "id": 2171,
+        "type": "Res",
+        "search": "magnificent_tromyzon",
+        "zh": "华丽 多目鳗",
+        "en": "Magnificent Tromyzon"
+    },
+    {
+        "id": 2172,
+        "type": "Res",
+        "search": "basic_charamote",
+        "zh": "基础 重筑虾",
+        "en": "Basic Charamote"
+    },
+    {
+        "id": 2173,
+        "type": "Res",
+        "search": "adorned_charamote",
+        "zh": "装饰 重筑虾",
+        "en": "Adorned Charamote"
+    },
+    {
+        "id": 2174,
+        "type": "Res",
+        "search": "magnificent_charamote",
+        "zh": "华丽 重筑虾",
+        "en": "Magnificent Charamote"
+    },
+    {
+        "id": 2175,
+        "type": "Res",
+        "search": "basic_synathid",
+        "zh": "基础 海龙",
+        "en": "Basic Synathid"
+    },
+    {
+        "id": 2176,
+        "type": "Res",
+        "search": "adorned_synathid",
+        "zh": "装饰 海龙",
+        "en": "Adorned Synathid"
+    },
+    {
+        "id": 2177,
+        "type": "Res",
+        "search": "magnificent_synathid",
+        "zh": "华丽 海龙",
+        "en": "Magnificent Synathid"
     }
 ]
