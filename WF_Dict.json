@@ -13942,5 +13942,29 @@
         "type": "Res",
         "zh": "葛嘉里菌孢子",
         "en": "Gorgaricus Spore"
+    },
+    {
+        "id": 2332,
+        "type": "Mod",
+        "zh": "冲刺提升",
+        "en": "Sprint Boost"
+    },
+    {
+        "id": 2333,
+        "type": "Warframe",
+        "zh": "MESA PRIME",
+        "en": "Mesa Prime"
+    },
+    {
+        "id": 2334,
+        "type": "Weapon",
+        "zh": "觉醒双枪 PRIME",
+        "en": "Akjagara Prime"
+    },
+    {
+        "id": 2335,
+        "type": "Weapon",
+        "zh": "救赎者 PRIME",
+        "en": "Redeemer Prime"
     }
 ]

@@ -1125,5 +1125,82 @@
         "relicName": "S4",
         "rewards": "FORMA_蓝图 MAG_PRIME_系统_蓝图 野猪_PRIME_枪机 NOVA_PRIME_蓝图 达克拉_PRIME_刀刃 月神_PRIME_枪托",
         "name": "后纪 S4"
+    },
+    {
+        "id": 162,
+        "tier": "中纪",
+        "relicName": "Z2",
+        "rewards": "布莱顿_PRIME_枪托 螺钉双枪_PRIME_蓝图 雷克斯_PRIME_蓝图 MESA_PRIME_蓝图 食人鱼_PRIME_枪机 ZEPHYR_PRIME_蓝图",
+        "name": "中纪 Z2"
+    },
+    {
+        "id": 163,
+        "tier": "中纪",
+        "relicName": "M2",
+        "rewards": "FORMA_蓝图 伯斯顿_PRIME_枪托 野马双枪_PRIME_蓝图 LIMBO_PRIME_蓝图 野马_PRIME_枪管 MESA_PRIME_系统_蓝图",
+        "name": "中纪 M2"
+    },
+    {
+        "id": 164,
+        "tier": "中纪",
+        "relicName": "S9",
+        "rewards": "MIRAGE_PRIME_头部神经光元_蓝图 觉醒双枪_PRIME_蓝图 野马_PRIME_蓝图 FORMA_蓝图 技巧之剑_PRIME_蓝图 席瓦_&_神盾_PRIME_护手",
+        "name": "中纪 S9"
+    },
+    {
+        "id": 165,
+        "tier": "古纪",
+        "relicName": "B6",
+        "rewards": "LIMBO_PRIME_系统_蓝图 狼牙_PRIME_蓝图 雷克斯_PRIME_蓝图 救赎者_PRIME_蓝图 欧特鲁斯_PRIME_蓝图 布里斯提卡_PRIME_蓝图",
+        "name": "古纪 B6"
+    },
+    {
+        "id": 166,
+        "tier": "古纪",
+        "relicName": "M3",
+        "rewards": "FORMA_蓝图 帕里斯_PRIME_蓝图 席瓦_&_神盾_PRIME_握柄 OBERON_PRIME_蓝图 绝路_PRIME_枪托 MESA_PRIME_头部神经光元",
+        "name": "古纪 M3"
+    },
+    {
+        "id": 167,
+        "tier": "前纪",
+        "relicName": "A1",
+        "rewards": "布里斯提卡_PRIME_下弓臂 席芭莉丝_PRIME_枪托 欧特鲁斯_PRIME_握柄 FORMA_蓝图 皇家拐刃_PRIME_握柄 觉醒双枪_PRIME_枪管",
+        "name": "前纪 A1"
+    },
+    {
+        "id": 168,
+        "tier": "前纪",
+        "relicName": "M2",
+        "rewards": "帕里斯_PRIME_弓弦 狼牙_PRIME_刀刃 科加基_PRIME_靴子 席瓦_&_神盾_PRIME_刀刃 觉醒双枪_PRIME_连接器 MIRAGE_PRIME_蓝图",
+        "name": "前纪 M2"
+    },
+    {
+        "id": 169,
+        "tier": "前纪",
+        "relicName": "Z2",
+        "rewards": "布莱顿_PRIME_蓝图 席芭莉丝_PRIME_蓝图 救赎者_PRIME_刀刃 HYDROID_PRIME_蓝图 绝路_PRIME_枪管 ZEPHYR_PRIME_系统_蓝图",
+        "name": "前纪 Z2"
+    },
+    {
+        "id": 170,
+        "tier": "后纪",
+        "relicName": "H4",
+        "rewards": "MESA_PRIME_机体_蓝图 MIRAGE_PRIME_机体_蓝图 帕里斯_PRIME_上弓臂 FORMA_蓝图 螺钉双枪_PRIME_连接器 HYDROID_PRIME_系统_蓝图",
+        "name": "后纪 H4"
+    },
+    {
+        "id": 171,
+        "tier": "后纪",
+        "relicName": "L3",
+        "rewards": "海波斯库拉对剑_PRIME_蓝图 狼牙_PRIME_握柄 皇家拐刃_PRIME_蓝图 ZEPHYR_PRIME_机体_蓝图 觉醒双枪_PRIME_枪机 LIMBO_PRIME_机体_蓝图",
+        "name": "后纪 L3"
+    },
+    {
+        "id": 172,
+        "tier": "后纪",
+        "relicName": "R2",
+        "rewards": "FORMA_蓝图 技巧之剑_PRIME_握柄 雷克斯_PRIME_枪机 CHROMA_PRIME_机体_蓝图 MIRAGE_PRIME_系统_蓝图 救赎者_PRIME_握柄",
+        "name": "后纪 R2"
     }
 ]
