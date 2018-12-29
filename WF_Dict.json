@@ -13244,7 +13244,7 @@
     {
         "id": 2215,
         "type": "Other",
-        "zh": "塔克桑 镀铜外观",
+        "zh": "塔克桑 沙漠迷彩外观",
         "en": "Taxon Desert-camo Skin"
     },
     {
@@ -13966,5 +13966,11 @@
         "type": "Weapon",
         "zh": "救赎者 PRIME",
         "en": "Redeemer Prime"
+    },
+    {
+        "id": 2336,
+        "type": "Other",
+        "zh": "棱晶 洛斯塔姆库狛护甲",
+        "en": "Kubrow Armor Prisma"
     }
 ]
