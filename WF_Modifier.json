@@ -1,0 +1,147 @@
+[
+    {	
+        "id": 1,
+        "zh": "能量上限减少",
+        "en": "Energy Reduction"
+    },
+    {
+        "id": 2,
+        "zh": "敌人物理强化：冲击",
+        "en": "Enemy Physical Enhancement: Impact"
+    },
+    {
+        "id": 3,
+        "zh": "敌人物理强化：切割",
+        "en": "Enemy Physical Enhancement: Slash"
+    },
+    {
+        "id": 4,
+        "zh": "敌人物理强化：穿刺",
+        "en": "Enemy Physical Enhancement: Puncture"
+    },
+    {
+        "id": 5,
+        "zh": "卓越者大本营",
+        "en": "Eximus Stronghold"
+    },
+    {
+        "id": 6,
+        "zh": "敌人元素强化：磁力",
+        "en": "Enemy Elemental Enhancement: Magnetic"
+    },
+    {
+        "id": 7,
+        "zh": "敌人元素强化：腐蚀",
+        "en": "Enemy Elemental Enhancement: Corrosive"
+    },
+    {
+        "id": 8,
+        "zh": "敌人元素强化：病毒",
+        "en": "Enemy Elemental Enhancement: Viral"
+    },
+    {
+        "id": 9,
+        "zh": "敌人元素强化：电击",
+        "en": "Enemy Elemental Enhancement: Electricity"
+    },
+    {
+        "id": 10,
+        "zh": "敌人元素强化：辐射",
+        "en": "Enemy Elemental Enhancement: Radiation"
+    },
+    {
+        "id": 11,
+        "zh": "敌人元素强化：毒气",
+        "en": "Enemy Elemental Enhancement: Gas"
+    },
+    {
+        "id": 12,
+        "zh": "敌人元素强化：火焰",
+        "en": "Enemy Elemental Enhancement: Heat"
+    },
+    {
+        "id": 13,
+        "zh": "敌人元素强化：爆炸",
+        "en": "Enemy Elemental Enhancement: Blast"
+    },
+    {
+        "id": 14,
+        "zh": "敌人元素强化：冰冻",
+        "en": "Enemy Elemental Enhancement: Cold"
+    },
+    {
+        "id": 15,
+        "zh": "敌人元素强化：毒素",
+        "en": "Enemy Elemental Enhancement: Toxin"
+    },
+    {
+        "id": 16,
+        "zh": "环境改变：辐射灾害",
+        "en": "Environmental Hazard: Radiation Pockets"
+    },
+    {
+        "id": 17,
+        "zh": "环境改变：电磁异常",
+        "en": "Environmental Hazard: Electromagnetic Anomalies"
+    },
+    {
+        "id": 18,
+        "zh": "环境改变：浓雾",
+        "en": "Environmental Hazard: Dense Fog"
+    },
+    {
+        "id": 19,
+        "zh": "环境改变：火灾",
+        "en": "Environmental Hazard: Fire"
+    },
+    {
+        "id": 20,
+        "zh": "环境改变：冷却液泄漏",
+        "en": "Environmental Effect: Cryogenic Leakage"
+    },
+    {
+        "id": 21,
+        "zh": "敌人护甲强化",
+        "en": "Augmented Enemy Armor"
+    },
+    {
+        "id": 22,
+        "zh": "敌人护盾强化",
+        "en": "Enhanced Enemy Shields"
+    },
+    {
+        "id": 23,
+        "zh": "武器限定：手枪",
+        "en": "Weapon Restriction: Pistol Only"
+    },
+    {
+        "id": 24,
+        "zh": "武器限定：霰弹枪",
+        "en": "Weapon Restriction: Shotgun Only"
+    },
+    {
+        "id": 25,
+        "zh": "武器限定：狙击枪",
+        "en": "Weapon Restriction: Sniper Only"
+    },
+    {
+        "id": 26,
+        "zh": "武器限定：突击步枪",
+        "en": "Weapon Restriction: Assault Rifle Only"
+    },
+    {
+        "id": 27,
+        "zh": "武器限定：近战",
+        "en": "Weapon Restriction: Melee Only"
+    },
+    {
+        "id": 28,
+        "zh": "武器限定：弓箭",
+        "en": "Weapon Restriction: Bow Only"
+    },
+    {
+        "id": 29,
+        "zh": "环境改变：极寒",
+        "en": "Environmental Effect: Extreme Cold"
+    }
+]
