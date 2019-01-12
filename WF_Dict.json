@@ -9771,7 +9771,7 @@
         "id": 1630,
         "type": "Other",
         "zh": "3天资源数量加成",
-        "en": "3 Day Resource (Amount) Booster"
+        "en": "3 Day Resource Booster"
     },
     {
         "id": 1631,
@@ -11514,12 +11514,6 @@
         "en": "EXCALIBUR PRIME"
     },
     {
-        "id": 1923,
-        "type": "Other",
-        "zh": "3天现金加成",
-        "en": "3 Day Credit Booster"
-    },
-    {
         "id": 1924,
         "type": "Other",
         "zh": "库娃护甲 亡灵节外观",
@@ -12682,12 +12676,6 @@
         "type": "Other",
         "zh": "棱晶 乌鲁披饰",
         "en": "Prisma Razor Scarf"
-    },
-    {
-        "id": 2119,
-        "type": "Other",
-        "zh": "3天经验加成",
-        "en": "3 Day Affinity Booster"
     },
     {
         "id": 2120,
@@ -13972,5 +13960,11 @@
         "type": "Other",
         "zh": "棱晶 洛斯塔姆库狛护甲",
         "en": "Kubrow Armor Prisma"
+    },
+    {
+        "id": 2337,
+        "type": "Other",
+        "zh": "KI'TEER 角形头冠",
+        "en": "Ki'teer Cornu Diadem"
     }
 ]
