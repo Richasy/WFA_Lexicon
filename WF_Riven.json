@@ -1902,5 +1902,61 @@
         "type": "Pistol",
         "level": 3,
         "ratio": 1
+    },
+    {
+        "id": 280,
+        "name": "眼镜蛇&鹤",
+        "type": "Melee",
+        "level": 3,
+        "ratio": 1
+    },
+    {
+        "id": 281,
+        "name": "EXERGIS",
+        "type": "Rifle",
+        "level": 3,
+        "ratio": 1
+    },
+    {
+        "id": 282,
+        "name": "PLINX",
+        "type": "Pistol",
+        "level": 3,
+        "ratio": 1
+    },
+    {
+        "id": 283,
+        "name": "GALVACORD",
+        "type": "Melee",
+        "level": 3,
+        "ratio": 1
+    },
+    {
+        "id": 284,
+        "name": "沙漠之风",
+        "type": "Melee",
+        "level": 3,
+        "ratio": 1
+    },
+    {
+        "id": 285,
+        "name": "电流刺索",
+        "type": "Melee",
+        "level": 3,
+        "ratio": 1
+    },
+    {
+        "id": 286,
+        "name": "晶能放射器",
+        "type": "Shotgun",
+        "level": 3,
+        "ratio": 1
+    },
+    {
+        "id": 287,
+        "name": "漫射者",
+        "type": "Pistol",
+        "level": 3,
+        "ratio": 1
     }
 ]
