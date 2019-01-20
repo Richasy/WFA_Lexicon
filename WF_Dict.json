@@ -13966,5 +13966,41 @@
         "type": "Other",
         "zh": "KI'TEER 角形头冠",
         "en": "Ki'teer Cornu Diadem"
+    },
+    {
+        "id": 2338,
+        "type": "Mod",
+        "zh": "低温外壳",
+        "en": "Hypothermic Shell"
+    },
+    {
+        "id": 2339,
+        "type": "Mod",
+        "zh": "带电子弹",
+        "en": "Charged Bullets"
+    },
+    {
+        "id": 2340,
+        "type": "Mod",
+        "zh": "毒染套管",
+        "en": "Contamination Casing"
+    },
+    {
+        "id": 2341,
+        "type": "Mod",
+        "zh": "传染性注射",
+        "en": "Infectious Injection"
+    },
+    {
+        "id": 2342,
+        "type": "Mod",
+        "zh": "冷冻包覆",
+        "en": "Cryo Coating"
+    },
+    {
+        "id": 2343,
+        "type": "Mod",
+        "zh": "离子注入",
+        "en": "Ion Infusion"
     }
 ]

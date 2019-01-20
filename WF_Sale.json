@@ -15069,5 +15069,47 @@
         "search": "axi_r2_radiant",
         "zh": "后纪 R2 光辉",
         "en": "Axi R2 Radiant"
+    },
+    {
+        "id": 2237,
+        "type": "Mod",
+        "search": "hypothermic_shell",
+        "zh": "低温外壳",
+        "en": "Hypothermic Shell"
+    },
+    {
+        "id": 2238,
+        "type": "Mod",
+        "search": "charged_bullets",
+        "zh": "带电子弹",
+        "en": "Charged Bullets"
+    },
+    {
+        "id": 2239,
+        "type": "Mod",
+        "search": "contamination_casing",
+        "zh": "毒染套管",
+        "en": "Contamination Casing"
+    },
+    {
+        "id": 2240,
+        "type": "Mod",
+        "search": "infectious_injection",
+        "zh": "传染性注射",
+        "en": "Infectious Injection"
+    },
+    {
+        "id": 2241,
+        "type": "Mod",
+        "search": "cryo_coating",
+        "zh": "冷冻包覆",
+        "en": "Cryo Coating"
+    },
+    {
+        "id": 2242,
+        "type": "Mod",
+        "search": "ion_infusion",
+        "zh": "离子注入",
+        "en": "Ion Infusion"
     }
 ]
