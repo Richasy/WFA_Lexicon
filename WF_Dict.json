@@ -14008,5 +14008,35 @@
         "type": "Mod",
         "zh": "覆壳弹药",
         "en": "Sabot Rounds"
+    },
+    {
+        "id": 2345,
+        "type": "Mod",
+        "zh": "关键焦点",
+        "en": "Critical Focus"
+    },
+    {
+        "id": 2346,
+        "type": "Weapon",
+        "zh": "晶能放射器",
+        "en": "Exergis"
+    },
+    {
+        "id": 2347,
+        "type": "Weapon",
+        "zh": "漫射者",
+        "en": "Plinx"
+    },
+    {
+        "id": 2348,
+        "type": "Weapon",
+        "zh": "电流刺索",
+        "en": "Galvacord"
+    },
+    {
+        "id": 2349,
+        "type": "Mod",
+        "zh": "Arch-枪械行家",
+        "en": "Arch-Gun Ace"
     }
 ]

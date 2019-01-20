@@ -15118,5 +15118,19 @@
         "search": "sabot_rounds",
         "zh": "覆壳弹药",
         "en": "Sabot Rounds"
+    },
+    {
+        "id": 2244,
+        "type": "Mod",
+        "search": "critical_focus",
+        "zh": "关键焦点",
+        "en": "Critical Focus"
+    },
+    {
+        "id": 2246,
+        "type": "Mod",
+        "search": "arch-gun_ace",
+        "zh": "Arch-枪械行家",
+        "en": "Arch-Gun Ace"
     }
 ]
