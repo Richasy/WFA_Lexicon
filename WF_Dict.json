@@ -14002,5 +14002,11 @@
         "type": "Mod",
         "zh": "离子注入",
         "en": "Ion Infusion"
+    },
+    {
+        "id": 2344,
+        "type": "Mod",
+        "zh": "覆壳弹药",
+        "en": "Sabot Rounds"
     }
 ]

@@ -15111,5 +15111,12 @@
         "search": "ion_infusion",
         "zh": "离子注入",
         "en": "Ion Infusion"
+    },
+    {
+        "id": 2243,
+        "type": "Mod",
+        "search": "sabot_rounds",
+        "zh": "覆壳弹药",
+        "en": "Sabot Rounds"
     }
 ]
