@@ -927,28 +927,28 @@
         "id": 133,
         "type": "Part",
         "search": "valkyr_prime_neuroptics",
-        "zh": "女汉子 PRIME 头部神经光元",
+        "zh": "瓦喵 PRIME 头部神经光元",
         "en": "VALKYR PRIME NEUROPTICS"
     },
     {
         "id": 134,
         "type": "Part",
         "search": "valkyr_prime_systems",
-        "zh": "女汉子 PRIME 系统",
+        "zh": "瓦喵 PRIME 系统",
         "en": "VALKYR PRIME SYSTEMS"
     },
     {
         "id": 135,
         "type": "Part",
         "search": "valkyr_prime_chassis",
-        "zh": "女汉子 PRIME 机体",
+        "zh": "瓦喵 PRIME 机体",
         "en": "VALKYR PRIME CHASSIS"
     },
     {
         "id": 136,
         "type": "Part",
         "search": "valkyr_prime_blueprint",
-        "zh": "女汉子 PRIME 蓝图",
+        "zh": "瓦喵 PRIME 蓝图",
         "en": "VALKYR PRIME BLUEPRINT"
     },
     {
@@ -8865,7 +8865,7 @@
         "id": 1340,
         "type": "Warframe",
         "search": "valkyr_prime_set",
-        "zh": "女汉子 PRIME 一套",
+        "zh": "瓦喵 PRIME 一套",
         "en": "VALKYR PRIME SET"
     },
     {
@@ -13478,35 +13478,35 @@
         "id": 2003,
         "type": "Warframe",
         "search": "limbo_prime_set",
-        "zh": "李明博 PRIME 一套",
+        "zh": "小明 PRIME 一套",
         "en": "Limbo Prime Set"
     },
     {
         "id": 2004,
         "type": "Part",
         "search": "limbo_prime_neuroptics",
-        "zh": "李明博 PRIME 头部神经光元",
+        "zh": "小明 PRIME 头部神经光元",
         "en": "Limbo Prime Neuroptics"
     },
     {
         "id": 2005,
         "type": "Part",
         "search": "limbo_prime_chassis",
-        "zh": "李明博 PRIME 机体",
+        "zh": "小明 PRIME 机体",
         "en": "Limbo Prime Chassis"
     },
     {
         "id": 2006,
         "type": "Part",
         "search": "limbo_prime_systems",
-        "zh": "李明博 PRIME 系统",
+        "zh": "小明 PRIME 系统",
         "en": "Limbo Prime Systems"
     },
     {
         "id": 2007,
         "type": "Part",
         "search": "limbo_prime_blueprint",
-        "zh": "李明博 PRIME 蓝图",
+        "zh": "小明 PRIME 蓝图",
         "en": "Limbo Prime Blueprint"
     },
     {
