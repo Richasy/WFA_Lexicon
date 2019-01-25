@@ -15132,5 +15132,40 @@
         "search": "arch-gun_ace",
         "zh": "Arch-枪械行家",
         "en": "Arch-Gun Ace"
+    },
+    {
+        "id": 2247,
+        "type": "Warframe",
+        "search": "mesa_prime_set",
+        "zh": "女枪 PRIME 一套",
+        "en": "Mesa Prime Set"
+    },
+    {
+        "id": 2248,
+        "type": "Part",
+        "search": "mesa_prime_blueprint",
+        "zh": "女枪 PRIME 蓝图",
+        "en": "Mesa Prime Blueprint"
+    },
+    {
+        "id": 2249,
+        "type": "Part",
+        "search": "mesa_prime_neuroptics",
+        "zh": "女枪 PRIME 头部神经光元",
+        "en": "Mesa Prime Neuroptics"
+    },
+    {
+        "id": 2250,
+        "type": "Part",
+        "search": "mesa_prime_chassis",
+        "zh": "女枪 PRIME 机体",
+        "en": "Mesa Prime Chassis"
+    },
+    {
+        "id": 2251,
+        "type": "Part",
+        "search": "mesa_prime_systems",
+        "zh": "女枪 PRIME 系统",
+        "en": "Mesa Prime Systems"
     }
 ]
