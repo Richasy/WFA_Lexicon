@@ -5793,7 +5793,7 @@
         "id": 967,
         "type": "Weapon",
         "zh": "蝰蛇 亡魂",
-        "en": "Wraith Viper"
+        "en": "Viper Wraith"
     },
     {
         "id": 968,
@@ -12555,13 +12555,13 @@
         "id": 2098,
         "type": "Other",
         "zh": "领袖纹章",
-        "en": "Baro Kubrow Sigil"
+        "en": "Pack Leader Sigil"
     },
     {
         "id": 2099,
         "type": "Other",
         "zh": "耀目纹章",
-        "en": "Baro Kavat Sigil"
+        "en": "Glaring Sigil"
     },
     {
         "id": 2100,
@@ -12579,7 +12579,7 @@
         "id": 2102,
         "type": "Other",
         "zh": "KI'TEER 大气眼饰",
-        "en": "Baro Visor"
+        "en": "Ki'teer Atmos Oculus"
     },
     {
         "id": 2103,
@@ -14038,5 +14038,11 @@
         "type": "Mod",
         "zh": "Arch-枪械行家",
         "en": "Arch-Gun Ace"
+    },
+    {
+        "id": 2350,
+        "type": "Other",
+        "zh": "LISET 塞冬尼亚外观",
+        "en": "Liset Cydonia Skin"
     }
 ]
