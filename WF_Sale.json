@@ -15132,5 +15132,12 @@
         "search": "arch-gun_ace",
         "zh": "Arch-枪械行家",
         "en": "Arch-Gun Ace"
+    },
+    {
+        "id": 2247,
+        "type": "Mod",
+        "search": "marked_target",
+        "zh": "标记目标",
+        "en": "Marked Target"
     }
 ]

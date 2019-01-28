@@ -14044,5 +14044,11 @@
         "type": "Other",
         "zh": "LISET 塞冬尼亚外观",
         "en": "Liset Cydonia Skin"
+    },
+    {
+        "id": 2351,
+        "type": "Mod",
+        "zh": "标记目标",
+        "en": "Marked Target"
     }
 ]
