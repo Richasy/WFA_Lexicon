@@ -10868,7 +10868,7 @@
     {
         "id": 1813,
         "type": "Relic",
-        "zh": "中纪 O1",
+        "zh": "前纪 O1",
         "en": "Meso O1"
     },
     {
@@ -11553,7 +11553,7 @@
         "id": 1930,
         "type": "Other",
         "zh": "救赎者 镀铜外观",
-        "en": "Elixis Redeemer Skin"
+        "en": "Redeemer Elixis Skin"
     },
     {
         "id": 1931,
@@ -12669,7 +12669,7 @@
         "id": 2117,
         "type": "Other",
         "zh": "蛇发女妖 夏至外观",
-        "en": "Summer Solstice Gorgon"
+        "en": "Gorgon Towsun Skin"
     },
     {
         "id": 2118,
@@ -13335,7 +13335,7 @@
         "id": 2232,
         "type": "Other",
         "zh": "哈库纳亡魂斗篷",
-        "en": "Wraith Turbines Scarf"
+        "en": "Harkonar Wraith Cloak"
     },
     {
         "id": 2233,
@@ -13419,7 +13419,7 @@
         "id": 2246,
         "type": "Other",
         "zh": "哈库纳亡魂臂甲",
-        "en": "Wraith Turbines Arm Armor"
+        "en": "Harkonar Wraith Arm Armor"
     },
     {
         "id": 2247,
@@ -13443,7 +13443,7 @@
         "id": 2250,
         "type": "Other",
         "zh": "哈库纳亡魂胸甲",
-        "en": "Wraith Turbines Chest Armor"
+        "en": "Harkonar Wraith Chestbuard"
     },
     {
         "id": 2251,
@@ -13485,7 +13485,7 @@
         "id": 2257,
         "type": "Other",
         "zh": "哈库纳亡魂腿甲",
-        "en": "Wraith Turbines Leg Armor"
+        "en": "Harkonar Wraith Leg Armor"
     },
     {
         "id": 2258,
@@ -14050,5 +14050,23 @@
         "type": "Mod",
         "zh": "标记目标",
         "en": "Marked Target"
+    },
+    {
+        "id": 2352,
+        "type": "Relic",
+        "zh": "古纪 O1",
+        "en": "Lith O1"
+    },
+    {
+        "id": 2353,
+        "type": "Other",
+        "zh": "棱晶 库娃浮印",
+        "en": "Prisma Kavat Glyph"
+    },
+    {
+        "id": 2354,
+        "type": "Other",
+        "zh": "棱晶 库狛浮印",
+        "en": "Prisma Kubrow Glyph"
     }
 ]
