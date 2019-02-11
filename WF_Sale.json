@@ -15139,5 +15139,187 @@
         "search": "marked_target",
         "zh": "标记目标",
         "en": "Marked Target"
+    },
+    {
+        "id": 2248,
+        "type": "Other",
+        "search": "scorpion_ash_helmet",
+        "zh": "ASH 毒蝎秘奥头盔",
+        "en": "Arcane Scorpion Ash Helmet"
+    },
+    {
+        "id": 2249,
+        "type": "Other",
+        "search": "locust_ash_helmet",
+        "zh": "ASH 飞蝗秘奥头盔",
+        "en": "Arcane Locust Ash Helmet"
+    },
+    {
+        "id": 2250,
+        "type": "Other",
+        "search": "reverb_banshee_helmet",
+        "zh": "BANSHEE 返响秘奥头盔",
+        "en": "Arcane Reverb Banshee Helmet"
+    },
+    {
+        "id": 2251,
+        "type": "Other",
+        "search": "chorus_banshee_helmet",
+        "zh": "BANSHEE 合音秘奥头盔",
+        "en": "Arcane Chorus Banshee Helmet"
+    },
+    {
+        "id": 2252,
+        "type": "Other",
+        "search": "phoenix_ember_helmet",
+        "zh": "EMBER 凤凰秘奥头盔",
+        "en": "Arcane Phoenix Ember Helmet"
+    },
+    {
+        "id": 2253,
+        "type": "Other",
+        "search": "backdraft_ember_helmet",
+        "zh": "EMBER 复燃秘奥头盔",
+        "en": "Arcane Backdraft Ember Helmet"
+    },
+    {
+        "id": 2254,
+        "type": "Other",
+        "search": "avalon_excalibur_helmet",
+        "zh": "EXCALIBUR 阿瓦隆秘奥头盔",
+        "en": "Arcane Avalon Excalibur Helmet"
+    },
+    {
+        "id": 2255,
+        "type": "Other",
+        "search": "pendragon_excalibur_helmet",
+        "zh": "EXCALIBUR 潘德拉冈秘奥头盔",
+        "en": "Arcane Pendragon Excalibur Helmet"
+    },
+    {
+        "id": 2256,
+        "type": "Other",
+        "search": "aurora_frost_helmet",
+        "zh": "FROST 极光秘奥头盔",
+        "en": "Arcane Aurora Frost Helmet"
+    },
+    {
+        "id": 2257,
+        "type": "Other",
+        "search": "squall_frost_helmet",
+        "zh": "FROST 飑风秘奥头盔",
+        "en": "Arcane Squall Frost Helmet"
+    },
+    {
+        "id": 2258,
+        "type": "Other",
+        "search": "essence_loki_helmet",
+        "zh": "LOKI 本质秘奥头盔",
+        "en": "Arcane Essence Loki Helmet"
+    },
+    {
+        "id": 2259,
+        "type": "Other",
+        "search": "swindle_loki_helmet",
+        "zh": "LOKI 诈欺秘奥头盔",
+        "en": "Arcane Swindle Loki Helmet"
+    },
+    {
+        "id": 2260,
+        "type": "Other",
+        "search": "coil_mag_helmet",
+        "zh": "MAG 线圈秘奥头盔",
+        "en": "Arcane Coil Mag Helmet"
+    },
+    {
+        "id": 2261,
+        "type": "Other",
+        "search": "gauss_mag_helmet",
+        "zh": "MAG 高斯秘奥头盔",
+        "en": "Arcane Gauss Mag Helmet"
+    },
+    {
+        "id": 2262,
+        "type": "Other",
+        "search": "flux_nova_helmet",
+        "zh": "NOVA 通量秘奥头盔",
+        "en": "Arcane Flux Nova Helmet"
+    },
+    {
+        "id": 2263,
+        "type": "Other",
+        "search": "menticide_nyx_helmet",
+        "zh": "NYX 灭神秘奥头盔",
+        "en": "Arcane Menticide Nyx Helmet"
+    },
+    {
+        "id": 2264,
+        "type": "Other",
+        "search": "vespa_nyx_helmet",
+        "zh": "NYX 黄蜂秘奥头盔",
+        "en": "Arcane Vespa Nyx Helmet"
+    },
+    {
+        "id": 2265,
+        "type": "Other",
+        "search": "thrak_rhino_helmet",
+        "zh": "RHINO 震击秘奥头盔",
+        "en": "Arcane Thrak Rhino Helmet"
+    },
+    {
+        "id": 2266,
+        "type": "Other",
+        "search": "vanguard_rhino_helmet",
+        "zh": "RHINO 先锋秘奥头盔",
+        "en": "Arcane Vanguard Rhino Helmet"
+    },
+    {
+        "id": 2267,
+        "type": "Other",
+        "search": "hemlock_saryn_helmet",
+        "zh": "SARYN 铁杉秘奥头盔",
+        "en": "Arcane Hemlock Saryn Helmet"
+    },
+    {
+        "id": 2268,
+        "type": "Other",
+        "search": "chlora_saryn_helmet",
+        "zh": "SARYN 氯毒秘奥头盔",
+        "en": "Arcane Chlora Saryn Helmet"
+    },
+    {
+        "id": 2269,
+        "type": "Other",
+        "search": "aura_trinity_helmet",
+        "zh": "TRINITY 预言秘奥头盔",
+        "en": "Arcane Aura Trinity Helmet"
+    },
+    {
+        "id": 2270,
+        "type": "Other",
+        "search": "meridian_trinity_helmet",
+        "zh": "TRINITY 经络秘奥头盔",
+        "en": "Arcane Meridian Trinity Helmet"
+    },
+    {
+        "id": 2271,
+        "type": "Other",
+        "search": "gambit_vauban_helmet",
+        "zh": "VAUBAN 策略秘奥头盔",
+        "en": "Arcane Gambit Vauban Helmet"
+    },
+    {
+        "id": 2272,
+        "type": "Other",
+        "search": "storm_volt_helmet",
+        "zh": "VOLT 风暴秘奥头盔",
+        "en": "Arcane Storm Volt Helmet"
+    },
+    {
+        "id": 2273,
+        "type": "Other",
+        "search": "pulse_volt_helmet",
+        "zh": "VOLT 脉冲秘奥头盔",
+        "en": "Arcane Pulse Volt Helmet"
     }
 ]
