@@ -14230,5 +14230,11 @@
         "type": "Word",
         "zh": "Grineer战争",
         "en": "Warn on Grineer"
+    },
+    {
+        "id": 2382,
+        "type": "Mod",
+        "zh": "快速装填",
+        "en": "Quick Reload"
     }
 ]

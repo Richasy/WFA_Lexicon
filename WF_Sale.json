@@ -15405,5 +15405,12 @@
         "search": "neo_s10_radiant",
         "zh": "中纪 S10 光辉",
         "en": "Neo S10 Radiant"
+    },
+    {
+        "id": 2286,
+        "type": "Mod",
+        "search": "quick_reload",
+        "zh": "快速装填",
+        "en": "Quick Reload"
     }
 ]
