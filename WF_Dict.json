@@ -14224,5 +14224,11 @@
         "type": "Other",
         "zh": "VOLT 脉冲秘奥头盔",
         "en": "Arcane Pulse Volt Helmet"
+    },
+    {
+        "id": 2381,
+        "type": "Word",
+        "zh": "Grineer战争",
+        "en": "Warn on Grineer"
     }
 ]

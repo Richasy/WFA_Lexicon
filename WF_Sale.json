@@ -15321,5 +15321,89 @@
         "search": "pulse_volt_helmet",
         "zh": "VOLT 脉冲秘奥头盔",
         "en": "Arcane Pulse Volt Helmet"
+    },
+    {
+        "id": 2274,
+        "type": "Relic",
+        "search": "meso_s9_intact",
+        "zh": "前纪 S9 完整",
+        "en": "Meso S9 Intact"
+    },
+    {
+        "id": 2275,
+        "type": "Relic",
+        "search": "meso_s9_exceptional",
+        "zh": "前纪 S9 优良",
+        "en": "Meso S9 Exceptional"
+    },
+    {
+        "id": 2276,
+        "type": "Relic",
+        "search": "meso_s9_flawless",
+        "zh": "前纪 S9 无暇",
+        "en": "Meso S9 Flawless"
+    },
+    {
+        "id": 2277,
+        "type": "Relic",
+        "search": "meso_s9_radiant",
+        "zh": "前纪 S9 光辉",
+        "en": "Meso S9 Radiant"
+    },
+    {
+        "id": 2278,
+        "type": "Relic",
+        "search": "axi_n6_intact",
+        "zh": "后纪 N6 完整",
+        "en": "Axi N6 Intact"
+    },
+    {
+        "id": 2279,
+        "type": "Relic",
+        "search": "axi_n6_exceptional",
+        "zh": "后纪 N6 优良",
+        "en": "Axi N6 Exceptional"
+    },
+    {
+        "id": 2280,
+        "type": "Relic",
+        "search": "axi_n6_flawless",
+        "zh": "后纪 N6 无暇",
+        "en": "Axi N6 Flawless"
+    },
+    {
+        "id": 2281,
+        "type": "Relic",
+        "search": "axi_n6_radiant",
+        "zh": "后纪 N6 光辉",
+        "en": "Axi N6 Radiant"
+    },
+    {
+        "id": 2282,
+        "type": "Relic",
+        "search": "neo_s10_intact",
+        "zh": "中纪 S10 完整",
+        "en": "Neo S10 Intact"
+    },
+    {
+        "id": 2283,
+        "type": "Relic",
+        "search": "neo_s10_exceptional",
+        "zh": "中纪 S10 优良",
+        "en": "Neo S10 Exceptional"
+    },
+    {
+        "id": 2284,
+        "type": "Relic",
+        "search": "neo_s10_flawless",
+        "zh": "中纪 S10 无暇",
+        "en": "Neo S10 Flawless"
+    },
+    {
+        "id": 2285,
+        "type": "Relic",
+        "search": "neo_s10_radiant",
+        "zh": "中纪 S10 光辉",
+        "en": "Neo S10 Radiant"
     }
 ]

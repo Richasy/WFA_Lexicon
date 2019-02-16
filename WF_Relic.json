@@ -1202,5 +1202,26 @@
         "relicName": "R2",
         "rewards": "FORMA_蓝图 技巧之剑_PRIME_握柄 雷克斯_PRIME_枪机 CHROMA_PRIME_机体_蓝图 MIRAGE_PRIME_系统_蓝图 救赎者_PRIME_握柄",
         "name": "后纪 R2"
+    },
+    {
+        "id": 173,
+        "tier": "前纪",
+        "relicName": "S9",
+        "rewards": "雷克斯_PRIME_枪管 旋刃飞刀_PRIME_蓝图 布莱顿_PRIME_蓝图 FORMA_蓝图 SARYN_PRIME_头部神经光元蓝图 旋刃飞刀_PRIME_镖袋",
+        "name": "前纪 S9"
+    },
+    {
+        "id": 174,
+        "tier": "后纪",
+        "relicName": "N6",
+        "rewards": "雷克斯_PRIME_枪机 侍刃_PRIME_蓝图 布莱顿_PRIME_枪管 布莱顿_PRIME_枪机 SARYN_PRIME_蓝图 侍刃_PRIME_握柄",
+        "name": "后纪 N6"
+    },
+    {
+        "id": 175,
+        "tier": "中纪",
+        "relicName": "S10",
+        "rewards": "雷克斯_PRIME_蓝图 SARYN_PRIME_系统 布莱顿_PRIME_枪托 旋刃飞刀_PRIME_刀刃 侍刃_PRIME_刀刃 SARYN_PRIME_机体",
+        "name": "中纪 S10"
     }
 ]
