@@ -15412,5 +15412,19 @@
         "search": "quick_reload",
         "zh": "快速装填",
         "en": "Quick Reload"
+    },
+    {
+        "id": 2287,
+        "type": "Mod",
+        "search": "zaw_riven_mod_(veiled)",
+        "zh": "ZAW 未开紫卡",
+        "en": "Zaw Riven Mod (Veiled)"
+    },
+    {
+        "id": 2288,
+        "type": "Mod",
+        "search": "kitgun_riven_mod_(veiled)",
+        "zh": "组合枪 未开紫卡",
+        "en": "Kitgun Riven Mod (Veiled)"
     }
 ]
