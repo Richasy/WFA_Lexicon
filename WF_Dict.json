@@ -9759,13 +9759,13 @@
         "id": 1628,
         "type": "Other",
         "zh": "3天经验加成",
-        "en": "3-Day Affinity Booster"
+        "en": "3 Day Affinity Booster"
     },
     {
         "id": 1629,
         "type": "Other",
         "zh": "3天现金加成",
-        "en": "3-Day Credit Booster"
+        "en": "3 Day Credit Booster"
     },
     {
         "id": 1630,
@@ -14248,5 +14248,17 @@
         "type": "Mod",
         "zh": "组合枪 未开紫卡",
         "en": "Kitgun Riven Mod (Veiled)"
+    },
+    {
+        "id": 2385,
+        "type": "Word",
+        "zh": "Corpus战争",
+        "en": "War on Corpus"
+    },
+    {
+        "id": 2386,
+        "type": "Other",
+        "zh": "铜质库狛半身像",
+        "en": "Bronze Kubrow Bust"
     }
 ]
