@@ -15426,5 +15426,19 @@
         "search": "kitgun_riven_mod_(veiled)",
         "zh": "组合枪 未开紫卡",
         "en": "Kitgun Riven Mod (Veiled)"
+    },
+    {
+        "id": 2289,
+        "type": "Part",
+        "search": "orvius_blade",
+        "zh": "灵枢 刀刃",
+        "en": "Orvius Blade"
+    },
+    {
+        "id": 2290,
+        "type": "Part",
+        "search": "orvius_disc",
+        "zh": "灵枢 圆盘",
+        "en": "Orvius Disc"
     }
 ]
