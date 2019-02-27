@@ -3292,7 +3292,7 @@
     {
         "id": 504,
         "type": "Mod",
-        "search": "thief's_wit",
+        "search": "thiefs_wit",
         "zh": "盗贼天赋",
         "en": "Thief's Wit"
     },
@@ -6351,7 +6351,7 @@
     {
         "id": 941,
         "type": "Mod",
-        "search": "hunter's_bonesaw",
+        "search": "hunters_bonesaw",
         "zh": "猎人骨锯",
         "en": "Hunter's Bonesaw"
     },
@@ -6631,7 +6631,7 @@
     {
         "id": 981,
         "type": "Mod",
-        "search": "gaia's_tragedy",
+        "search": "gaias_tragedy",
         "zh": "母神悲歌",
         "en": "Gaia's Tragedy"
     },
@@ -7520,7 +7520,7 @@
     {
         "id": 1108,
         "type": "Mod",
-        "search": "cat's_eye",
+        "search": "cats_eye",
         "zh": "猫眼",
         "en": "Cat's Eye"
     },
@@ -12903,7 +12903,7 @@
     {
         "id": 1919,
         "type": "Mod",
-        "search": "mesa's_waltz",
+        "search": "mesa’s_waltz",
         "zh": "MESA的华尔兹",
         "en": "Mesa’s Waltz"
     },
