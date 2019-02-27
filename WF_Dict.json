@@ -14260,5 +14260,53 @@
         "type": "Other",
         "zh": "铜质库狛半身像",
         "en": "Bronze Kubrow Bust"
+    },
+    {
+        "id": 2387,
+        "type": "Other",
+        "zh": "正直 突波",
+        "en": "Virtuos Surge"
+    },
+    {
+        "id": 2388,
+        "type": "Other",
+        "zh": "正直 尖刺",
+        "en": "Virtuos Spike"
+    },
+    {
+        "id": 2389,
+        "type": "Other",
+        "zh": "正直 熔炉",
+        "en": "Virtuos Forge"
+    },
+    {
+        "id": 2390,
+        "type": "Other",
+        "zh": "正直 特洛伊",
+        "en": "Virtuos Trojan"
+    },
+    {
+        "id": 2391,
+        "type": "Other",
+        "zh": "和平 电闪",
+        "en": "Pax Bolt"
+    },
+    {
+        "id": 2392,
+        "type": "Other",
+        "zh": "和平 电充",
+        "en": "Pax Charge"
+    },
+    {
+        "id": 2393,
+        "type": "Other",
+        "zh": "和平 追寻者",
+        "en": "Pax Seeker"
+    },
+    {
+        "id": 2394,
+        "type": "Other",
+        "zh": "和平 高飞",
+        "en": "Pax Soar"
     }
 ]

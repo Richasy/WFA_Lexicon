@@ -15440,5 +15440,61 @@
         "search": "orvius_disc",
         "zh": "灵枢 圆盘",
         "en": "Orvius Disc"
+    },
+    {
+        "id": 2291,
+        "type": "Other",
+        "search": "virtuos_surge",
+        "zh": "正直 突波",
+        "en": "Virtuos Surge"
+    },
+    {
+        "id": 2292,
+        "type": "Other",
+        "search": "virtuos_spike",
+        "zh": "正直 尖刺",
+        "en": "Virtuos Spike"
+    },
+    {
+        "id": 2293,
+        "type": "Other",
+        "search": "virtuos_forge",
+        "zh": "正直 熔炉",
+        "en": "Virtuos Forge"
+    },
+    {
+        "id": 2294,
+        "type": "Other",
+        "search": "virtuos_trojan",
+        "zh": "正直 特洛伊",
+        "en": "Virtuos Trojan"
+    },
+    {
+        "id": 2295,
+        "type": "Other",
+        "search": "pax_bolt",
+        "zh": "和平 电闪",
+        "en": "Pax Bolt"
+    },
+    {
+        "id": 2296,
+        "type": "Other",
+        "search": "pax_charge",
+        "zh": "和平 电充",
+        "en": "Pax Charge"
+    },
+    {
+        "id": 2297,
+        "type": "Other",
+        "search": "pax_seeker",
+        "zh": "和平 追寻者",
+        "en": "Pax Seeker"
+    },
+    {
+        "id": 2298,
+        "type": "Other",
+        "search": "pax_soar",
+        "zh": "和平 高飞",
+        "en": "Pax Soar"
     }
 ]
