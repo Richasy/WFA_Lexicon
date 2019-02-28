@@ -14308,5 +14308,23 @@
         "type": "Other",
         "zh": "和平 高飞",
         "en": "Pax Soar"
+    },
+    {
+        "id": 2395,
+        "type": "Mod",
+        "zh": "猛烈发狂",
+        "en": "Wild Frenzy"
+    },
+    {
+        "id": 2396,
+        "type": "Mod",
+        "zh": "爆发质量",
+        "en": "Bursting Mass"
+    },
+    {
+        "id": 2397,
+        "type": "Mod",
+        "zh": "凝固汽油榴弹",
+        "en": "Napalm Grenades"
     }
 ]

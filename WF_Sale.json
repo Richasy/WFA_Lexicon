@@ -15496,5 +15496,26 @@
         "search": "pax_soar",
         "zh": "和平 高飞",
         "en": "Pax Soar"
+    },
+    {
+        "id": 2299,
+        "type": "Mod",
+        "search": "wild_frenzy",
+        "zh": "猛烈发狂",
+        "en": "Wild Frenzy"
+    },
+    {
+        "id": 2300,
+        "type": "Mod",
+        "search": "bursting_mass",
+        "zh": "爆发质量",
+        "en": "Bursting Mass"
+    },
+    {
+        "id": 2301,
+        "type": "Mod",
+        "search": "napalm_grenades",
+        "zh": "凝固汽油榴弹",
+        "en": "Napalm Grenades"
     }
 ]
