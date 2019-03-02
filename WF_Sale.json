@@ -15517,5 +15517,12 @@
         "search": "napalm_grenades",
         "zh": "凝固汽油榴弹",
         "en": "Napalm Grenades"
+    },
+    {
+        "id": 2302,
+        "type": "Mod",
+        "search": "primed_chamber",
+        "zh": "膛室 PRIME",
+        "en": "Primed Chamber"
     }
 ]

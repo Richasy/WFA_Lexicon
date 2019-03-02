@@ -14326,5 +14326,17 @@
         "type": "Mod",
         "zh": "凝固汽油榴弹",
         "en": "Napalm Grenades"
+    },
+    {
+        "id": 2401,
+        "type": "Mod",
+        "zh": "膛室 PRIME",
+        "en": "Primed Chamber"
+    },
+    {
+        "id": 2402,
+        "type": "Word",
+        "zh": "Infested战争",
+        "en": "War on Infested"
     }
 ]
