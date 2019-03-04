@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "zh": "在滑行时杀死20名敌人",
+        "en": "Kill 20 Enemies while Sliding"
+    },
+    {
+        "id": 2,
+        "zh": "拾取8个MOD",
+        "en": "Pick up 8 Mods"
+    },
+    {
+        "id": 3,
+        "zh": "使用火焰伤害击杀150名敌人",
+        "en": "Kill 150 Enemies with Heat Damage"
+    },
+    {
+        "id": 4,
+        "zh": "完成9项任何类型的入侵任务",
+        "en": "Complete 9 Invasion missions of any type"
+    },
+    {
+        "id": 5,
+        "zh": "完整插满5座阿耶檀识塑像",
+        "en": "Fully socket 5 Ayatan Sculptures"
+    },
+    {
+        "id": 6,
+        "zh": "在夜灵平野完成8项赏金任务",
+        "en": "Complete 8 Bounties in the Plains of Eidolon"
+    },
+    {
+        "id": 7,
+        "zh": "完成3波圣殿突袭",
+        "en": "Complete 3 waves of Sanctuary Onslaught"
+    },
+    {
+        "id": 8,
+        "zh": "完成3项捕获任务",
+        "en": "Complete 3 Capture missions"
+    },
+    {
+        "id": 9,
+        "zh": "击杀500名敌人",
+        "en": "Kill 500 Enemies"
+    },
+    {
+        "id": 10,
+        "zh": "完成5个中枢Simaris扫描",
+        "en": "Complete 5 Scans for Cephalon Simaris"
+    },
+    {
+        "id": 11,
+        "zh": "击杀100名卓越者",
+        "en": "Kill 100 Eximus"
+    },
+    {
+        "id": 12,
+        "zh": "和朋友或氏族成员完成突击任务",
+        "en": "Complete a Sortie while playing with a friend or clanmate"
+    },
+    {
+        "id": 13,
+        "zh": "击杀或捕获一个夜灵水力使",
+        "en": "Kill or Capture an Eidolon Hydrolyst"
+    },
+    {
+        "id": 14,
+        "zh": "加速者",
+        "en": "Accelerator"
+    },
+    {
+        "id": 15,
+        "zh": "闪闪发亮",
+        "en": "Shiny"
+    },
+    {
+        "id": 16,
+        "zh": "纵火犯",
+        "en": "Arsonist"
+    },
+    {
+        "id": 17,
+        "zh": "入侵者",
+        "en": "Invader"
+    },
+    {
+        "id": 18,
+        "zh": "动像者",
+        "en": "Animator"
+    },
+    {
+        "id": 19,
+        "zh": "地球赏金猎人",
+        "en": "Earth Bounty Hunter"
+    },
+    {
+        "id": 20,
+        "zh": "测试对象",
+        "en": "Test Subject"
+    },
+    {
+        "id": 21,
+        "zh": "狱吏",
+        "en": "Jailer"
+    },
+    {
+        "id": 22,
+        "zh": "这不是警告射击",
+        "en": "Not a Warning Shot"
+    },
+    {
+        "id": 23,
+        "zh": "圣殿研究者",
+        "en": "Sanctuary Researcher"
+    },
+    {
+        "id": 24,
+        "zh": "卓越处刑者",
+        "en": "Eximus Executioner"
+    },
+    {
+        "id": 25,
+        "zh": "与友突击",
+        "en": "Sortie with Friends"
+    },
+    {
+        "id": 26,
+        "zh": "水力使猎人",
+        "en": "Hydrolyst Hunter"
+    },
+    {
+        "id": 27,
+        "zh": "使用冰冻伤害击杀150名敌人",
+        "en": "Kill 150 Enemies with Cold Damage"
+    },
+    {
+        "id": 28,
+        "zh": "完成10项集团任务",
+        "en": "Complete 10 Syndicate misions"
+    },
+    {
+        "id": 29,
+        "zh": "支持者",
+        "en": "Supporter"
+    },
+    {
+        "id": 30,
+        "zh": "解开3个遗物",
+        "en": "Unlock 3 Relics"
+    },
+    {
+        "id": 31,
+        "zh": "Unlock Relics",
+        "en": "解开遗物"
+    },
+    {
+        "id": 32,
+        "zh": "完成一项突击任务",
+        "en": "Complete 1 Sorties"
+    },
+    {
+        "id": 33,
+        "zh": "突击专家",
+        "en": "Sortie Specialist"
+    },
+    {
+        "id": 34,
+        "zh": "完成10个完美的动物捕获",
+        "en": "Complete 10 Perfect Animal Captures"
+    },
+    {
+        "id": 35,
+        "zh": "保育者",
+        "en": "Conservationist"
+    },
+    {
+        "id": 36,
+        "zh": "击杀30名卓越者",
+        "en": "Kill 30 Eximus"
+    },
+    {
+        "id": 37,
+        "zh": "卓越歼灭者",
+        "en": "Eximus Eliminator"
+    },
+    {
+        "id": 38,
+        "zh": "完成3项刺杀任务",
+        "en": "Complete 3 Assassination missions"
+    },
+    {
+        "id": 39,
+        "zh": "刺客",
+        "en": "Assassin"
+    },
+    {
+        "id": 40,
+        "zh": "捡取8个稀有MOD",
+        "en": "Pick up 8 Rare Mods"
+    },
+    {
+        "id": 41,
+        "zh": "极度冷冻",
+        "en": "Deep Freeze"
+    },
+    {
+        "id": 42,
+        "zh": "增强！",
+        "en": "Enhance!"
+    },
+    {
+        "id": 43,
+        "zh": "完成3波精英圣殿突袭任务",
+        "en": "Complete 3 waves of Elite Sanctuary Onslaught"
+    },
+    {
+        "id": 44,
+        "zh": "精英测试对象",
+        "en": "Elite Test Subject"
+    },
+    {
+        "id": 45,
+        "zh": "在赤毒生存任务中生存60分钟且没有使用维生装置",
+        "en": "Survive for over 60 minutes without using Life Suport Modules in Kuva Survival"
+    },
+    {
+        "id": 46,
+        "zh": "屏住你的呼吸",
+        "en": "Hold Your Breath"
+    },
+    {
+        "id": 47,
+        "zh": "和朋友或氏族成员完成生存任务至少60分钟",
+        "en": "Complete a Survival mission reaching at least 60 minutes, while playing with a friend or clanmate"
+    },
+    {
+        "id": 48,
+        "zh": "与友共存",
+        "en": "Survival with Friends"
+    }
+]
