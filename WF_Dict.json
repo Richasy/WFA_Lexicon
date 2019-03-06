@@ -14338,5 +14338,11 @@
         "type": "Word",
         "zh": "Infested战争",
         "en": "War on Infested"
+    },
+    {
+        "id": 2403,
+        "type": "Weapon",
+        "zh": "恶狼战锤",
+        "en": "Wolf Sledge"
     }
 ]

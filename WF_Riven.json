@@ -11,7 +11,7 @@
         "name": "三叶坚韧",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 3,
@@ -46,14 +46,14 @@
         "name": "关刀",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 8,
         "name": "军扇",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 9,
@@ -74,7 +74,7 @@
         "name": "分裂斩斧",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 12,
@@ -186,7 +186,7 @@
         "name": "席瓦 & 神盾",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 28,
@@ -200,7 +200,7 @@
         "name": "弧电振子锤",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 30,
@@ -277,7 +277,7 @@
         "name": "斩肉双刀",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 41,
@@ -319,7 +319,7 @@
         "name": "欧玛",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 47,
@@ -515,7 +515,7 @@
         "name": "螺钉拐刃",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 77,
@@ -613,7 +613,7 @@
         "name": "鹤鸵长戟",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 91,
@@ -683,7 +683,7 @@
         "name": "西格玛 & 南极座",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 102,
@@ -984,7 +984,7 @@
         "name": "苏普拉",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 147,
@@ -1054,7 +1054,7 @@
         "name": "量子切割器",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 157,
@@ -1271,21 +1271,21 @@
         "name": "弧电探知者",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 189,
         "name": "循环离子枪",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 190,
         "name": "德特昂",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 191,
@@ -1530,7 +1530,7 @@
         "name": "食人鱼",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 226,
@@ -1593,7 +1593,7 @@
         "name": "扫除者",
         "type": "Shotgun",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 235,
@@ -1628,63 +1628,63 @@
         "name": "阿塔克斯",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 240,
         "name": "密丸",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 241,
         "name": "客隆什",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 242,
         "name": "乌尔萨",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 243,
         "name": "宝拉",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 244,
         "name": "德塔特",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 245,
         "name": "瘟疫 克里帕丝",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 246,
         "name": "瘟疫 奇沃",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 247,
         "name": "西亚什",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 248,
@@ -1782,91 +1782,91 @@
         "name": "瑟普梵",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 262,
         "name": "拉比威",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 263,
         "name": "多克拉姆",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 264,
         "name": "影生",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 265,
         "name": "幻离子",
         "type": "Shotgun",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 267,
         "name": "席尔火枪",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 268,
         "name": "毒囊骨茧",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 269,
         "name": "猎鹰轮",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 270,
         "name": "心智之殁",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 271,
         "name": "噬蛇弩",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 272,
         "name": "武使之力",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 273,
         "name": "视使之触",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 274,
         "name": "直镐",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 275,
@@ -1880,83 +1880,90 @@
         "name": "捕月",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 277,
         "name": "凝目",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 278,
         "name": "响胆",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 279,
         "name": "墓指",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 280,
         "name": "眼镜蛇&鹤",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 281,
         "name": "EXERGIS",
         "type": "Rifle",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 282,
         "name": "PLINX",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 283,
         "name": "GALVACORD",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 284,
         "name": "沙漠之风",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 285,
         "name": "电流刺索",
         "type": "Melee",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 286,
         "name": "晶能放射器",
         "type": "Shotgun",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
     },
     {
         "id": 287,
         "name": "漫射者",
         "type": "Pistol",
         "level": 3,
-        "ratio": 1
+        "ratio": 1.0
+    },
+    {
+        "id": 288,
+        "name": "恶狼战锤",
+        "type": "Melee",
+        "level": 3,
+        "ratio": 1.0
     }
 ]
