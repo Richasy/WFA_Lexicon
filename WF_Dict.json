@@ -14344,5 +14344,17 @@
         "type": "Weapon",
         "zh": "恶狼战锤",
         "en": "Wolf Sledge"
+    },
+    {
+        "id": 2404,
+        "type": "Warframe",
+        "zh": "HILDRYN",
+        "en": "HILDRYN"
+    },
+    {
+        "id": 2405,
+        "type": "Weapon",
+        "zh": "龙辰",
+        "en": "Tatsu"
     }
 ]
