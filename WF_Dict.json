@@ -12675,7 +12675,7 @@
         "id": 2118,
         "type": "Other",
         "zh": "棱晶 乌鲁披饰",
-        "en": "Prisma Razor Scarf"
+        "en": "Prisma Uru Syandana"
     },
     {
         "id": 2120,
@@ -14356,5 +14356,11 @@
         "type": "Weapon",
         "zh": "龙辰",
         "en": "Tatsu"
+    },
+    {
+        "id": 2406,
+        "type": "Other",
+        "zh": "棱晶 葛恩火枪",
+        "en": "Prisma Grinlok"
     }
 ]
