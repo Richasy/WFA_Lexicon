@@ -14362,5 +14362,17 @@
         "type": "Other",
         "zh": "棱晶 葛恩火枪",
         "en": "Prisma Grinlok"
+    },
+    {
+        "id": 2407,
+        "type": "Word",
+        "zh": "热美亚裂缝",
+        "en": "Thermia Fractures"
+    },
+    {
+        "id": 2408,
+        "type": "Word",
+        "zh": "行动代号：雪藏的恩怨",
+        "en": "Operation: Buried Debts"
     }
 ]

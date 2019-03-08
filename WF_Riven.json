@@ -1965,5 +1965,12 @@
         "type": "Melee",
         "level": 3,
         "ratio": 1.0
+    },
+    {
+        "id": 289,
+        "name": "龙辰",
+        "type": "Melee",
+        "level": 3,
+        "ratio": 1.0
     }
 ]
