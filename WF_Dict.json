@@ -9909,7 +9909,7 @@
         "id": 1653,
         "type": "Other",
         "zh": "KI'TEER 箭矢外观",
-        "en": "Ki'Teer Arrow"
+        "en": "Ki'Teer Arrow Skin"
     },
     {
         "id": 1654,
@@ -13587,7 +13587,7 @@
         "id": 2274,
         "type": "Other",
         "zh": "猛虎 镀铜外观",
-        "en": "Elixis Tigris"
+        "en": "Tigris Elixis Skin"
     },
     {
         "id": 2275,
@@ -14374,5 +14374,11 @@
         "type": "Word",
         "zh": "行动代号：雪藏的恩怨",
         "en": "Operation: Buried Debts"
+    },
+    {
+        "id": 2409,
+        "type": "Other",
+        "zh": "BARO KI'TEER 浮印",
+        "en": "Baro Ki'teer Glyph"
     }
 ]
