@@ -12905,7 +12905,7 @@
         "type": "Mod",
         "search": "mesa’s_waltz",
         "zh": "MESA的华尔兹",
-        "en": "Mesa’s Waltz"
+        "en": "Mesa's Waltz"
     },
     {
         "id": 1920,
@@ -15443,56 +15443,56 @@
     },
     {
         "id": 2291,
-        "type": "Other",
+        "type": "Arcane",
         "search": "virtuos_surge",
         "zh": "正直 突波",
         "en": "Virtuos Surge"
     },
     {
         "id": 2292,
-        "type": "Other",
+        "type": "Arcane",
         "search": "virtuos_spike",
         "zh": "正直 尖刺",
         "en": "Virtuos Spike"
     },
     {
         "id": 2293,
-        "type": "Other",
+        "type": "Arcane",
         "search": "virtuos_forge",
         "zh": "正直 熔炉",
         "en": "Virtuos Forge"
     },
     {
         "id": 2294,
-        "type": "Other",
+        "type": "Arcane",
         "search": "virtuos_trojan",
         "zh": "正直 特洛伊",
         "en": "Virtuos Trojan"
     },
     {
         "id": 2295,
-        "type": "Other",
+        "type": "Arcane",
         "search": "pax_bolt",
         "zh": "和平 电闪",
         "en": "Pax Bolt"
     },
     {
         "id": 2296,
-        "type": "Other",
+        "type": "Arcane",
         "search": "pax_charge",
         "zh": "和平 电充",
         "en": "Pax Charge"
     },
     {
         "id": 2297,
-        "type": "Other",
+        "type": "Arcane",
         "search": "pax_seeker",
         "zh": "和平 追寻者",
         "en": "Pax Seeker"
     },
     {
         "id": 2298,
-        "type": "Other",
+        "type": "Arcane",
         "search": "pax_soar",
         "zh": "和平 高飞",
         "en": "Pax Soar"
@@ -15524,5 +15524,82 @@
         "search": "primed_chamber",
         "zh": "膛室 PRIME",
         "en": "Primed Chamber"
+    },
+    {
+        "id": 2304,
+        "type": "Arcane",
+        "search": "magus_overload",
+        "zh": "魔导 超载",
+        "en": "Magus Overload"
+    },
+    {
+        "id": 2305,
+        "type": "Arcane",
+        "search": "magus_glitch",
+        "zh": "魔导 干扰",
+        "en": "Magus Glitch"
+    },
+    {
+        "id": 2306,
+        "type": "Arcane",
+        "search": "magus_revert",
+        "zh": "魔导 复位",
+        "en": "Magus Revert"
+    },
+    {
+        "id": 2307,
+        "type": "Arcane",
+        "search": "magus_firewall",
+        "zh": "魔导 防火墙",
+        "en": "Magus Firewall"
+    },
+    {
+        "id": 2308,
+        "type": "Arcane",
+        "search": "magus_drive",
+        "zh": "魔导 驱动",
+        "en": "Magus Drive"
+    },
+    {
+        "id": 2309,
+        "type": "Arcane",
+        "search": "magus_lockdown",
+        "zh": "魔导 封锁",
+        "en": "Magus Lockdown"
+    },
+    {
+        "id": 2310,
+        "type": "Arcane",
+        "search": "magus_destruct",
+        "zh": "魔导 穿破",
+        "en": "Magus Destruct"
+    },
+    {
+        "id": 2311,
+        "type": "Arcane",
+        "search": "magus_anomaly",
+        "zh": "魔导 近点",
+        "en": "Magus Anomaly"
+    },
+    {
+        "id": 2312,
+        "type": "Arcane",
+        "search": "magus_melt",
+        "zh": "魔导 热熔",
+        "en": "Magus Melt"
+    },
+    {
+        "id": 2313,
+        "type": "Arcane",
+        "search": "magus_accelerant",
+        "zh": "魔导 触媒",
+        "en": "Magus Accelerant"
+    },
+    {
+        "id": 2314,
+        "type": "Arcane",
+        "search": "magus_repair",
+        "zh": "魔导 修复",
+        "en": "Magus Repair"
     }
 ]

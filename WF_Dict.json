@@ -14380,5 +14380,71 @@
         "type": "Other",
         "zh": "BARO KI'TEER 浮印",
         "en": "Baro Ki'teer Glyph"
+    },
+    {
+        "id": 2410,
+        "type": "Other",
+        "zh": "魔导 超载",
+        "en": "Magus Overload"
+    },
+    {
+        "id": 2411,
+        "type": "Other",
+        "zh": "魔导 干扰",
+        "en": "Magus Glitch"
+    },
+    {
+        "id": 2412,
+        "type": "Other",
+        "zh": "魔导 复位",
+        "en": "Magus Revert"
+    },
+    {
+        "id": 2413,
+        "type": "Other",
+        "zh": "魔导 防火墙",
+        "en": "Magus Firewall"
+    },
+    {
+        "id": 2414,
+        "type": "Other",
+        "zh": "魔导 驱动",
+        "en": "Magus Drive"
+    },
+    {
+        "id": 2415,
+        "type": "Other",
+        "zh": "魔导 封锁",
+        "en": "Magus Lockdown"
+    },
+    {
+        "id": 2416,
+        "type": "Other",
+        "zh": "魔导 穿破",
+        "en": "Magus Destruct"
+    },
+    {
+        "id": 2417,
+        "type": "Other",
+        "zh": "魔导 近点",
+        "en": "Magus Anomaly"
+    },
+    {
+        "id": 2418,
+        "type": "Other",
+        "zh": "魔导 热熔",
+        "en": "Magus Melt"
+    },
+    {
+        "id": 2419,
+        "type": "Other",
+        "zh": "魔导 触媒",
+        "en": "Magus Accelerant"
+    },
+    {
+        "id": 2420,
+        "type": "Other",
+        "zh": "魔导 修复",
+        "en": "Magus Repair"
     }
 ]
