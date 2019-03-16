@@ -15601,5 +15601,131 @@
         "search": "magus_repair",
         "zh": "魔导 修复",
         "en": "Magus Repair"
+    },
+    {
+        "id": 2315,
+        "type": "Mod",
+        "search": "air_time",
+        "zh": "乘空时间",
+        "en": "Air Time"
+    },
+    {
+        "id": 2316,
+        "type": "Mod",
+        "search": "trail_blazer",
+        "zh": "轨上燃焰",
+        "en": "Trail Blazer"
+    },
+    {
+        "id": 2317,
+        "type": "Mod",
+        "search": "mag_locks",
+        "zh": "磁吸固锁",
+        "en": "Mag Locks"
+    },
+    {
+        "id": 2318,
+        "type": "Mod",
+        "search": "rail_guards",
+        "zh": "护轨器",
+        "en": "Rail Guards"
+    },
+    {
+        "id": 2319,
+        "type": "Mod",
+        "search": "poppin_vert",
+        "zh": "纵横天际",
+        "en": "Poppin Vert"
+    },
+    {
+        "id": 2320,
+        "type": "Mod",
+        "search": "pop_top",
+        "zh": "瞬满",
+        "en": "Pop Top"
+    },
+    {
+        "id": 2321,
+        "type": "Mod",
+        "search": "prefect_balance",
+        "zh": "完美平衡",
+        "en": "Prefect Balance"
+    },
+    {
+        "id": 2322,
+        "type": "Mod",
+        "search": "kinetic_friction",
+        "zh": "动能摩擦",
+        "en": "Kinetic Friction"
+    },
+    {
+        "id": 2323,
+        "type": "Mod",
+        "search": "venerdo_hoverdrive",
+        "zh": "启明物悬浮驱动",
+        "en": "Venerdo Hoverdrive"
+    },
+    {
+        "id": 2324,
+        "type": "Mod",
+        "search": "inertia_dampeners",
+        "zh": "惯性减震",
+        "en": "Inertia Dampeners"
+    },
+    {
+        "id": 2325,
+        "type": "Mod",
+        "search": "slay_board",
+        "zh": "斩杀悬浮板",
+        "en": "Slay Board"
+    },
+    {
+        "id": 2326,
+        "type": "Mod",
+        "search": "cold_arrival",
+        "zh": "冷抵步",
+        "en": "Cold Arrival"
+    },
+    {
+        "id": 2327,
+        "type": "Mod",
+        "search": "mad_stack",
+        "zh": "狂堆速",
+        "en": "Mad Stack"
+    },
+    {
+        "id": 2328,
+        "type": "Mod",
+        "search": "quick_escape",
+        "zh": "迅逃夭",
+        "en": "Quick Escape"
+    },
+    {
+        "id": 2329,
+        "type": "Mod",
+        "search": "sonic_boost",
+        "zh": "声波提升",
+        "en": "Sonic Boost"
+    },
+    {
+        "id": 2330,
+        "type": "Mod",
+        "search": "extreme_velocity",
+        "zh": "极限加速",
+        "en": "Extreme Velocity"
+    },
+    {
+        "id": 2331,
+        "type": "Mod",
+        "search": "nitro_boost",
+        "zh": "氮气喷射",
+        "en": "Nitro Boost"
+    },
+    {
+        "id": 2332,
+        "type": "Mod",
+        "search": "thrash_landing",
+        "zh": "收尾痛击",
+        "en": "Thrash Landing"
     }
 ]

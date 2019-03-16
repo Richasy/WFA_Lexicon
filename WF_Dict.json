@@ -14446,5 +14446,113 @@
         "type": "Other",
         "zh": "魔导 修复",
         "en": "Magus Repair"
+    },
+    {
+        "id": 2421,
+        "type": "Mod",
+        "zh": "乘空时间",
+        "en": "Air Time"
+    },
+    {
+        "id": 2422,
+        "type": "Mod",
+        "zh": "轨上燃焰",
+        "en": "Trail Blazer"
+    },
+    {
+        "id": 2423,
+        "type": "Mod",
+        "zh": "磁吸固锁",
+        "en": "Mag Locks"
+    },
+    {
+        "id": 2424,
+        "type": "Mod",
+        "zh": "护轨器",
+        "en": "Rail Guards"
+    },
+    {
+        "id": 2425,
+        "type": "Mod",
+        "zh": "纵横天际",
+        "en": "Poppin Vert"
+    },
+    {
+        "id": 2426,
+        "type": "Mod",
+        "zh": "瞬满",
+        "en": "Pop Top"
+    },
+    {
+        "id": 2427,
+        "type": "Mod",
+        "zh": "完美平衡",
+        "en": "Prefect Balance"
+    },
+    {
+        "id": 2428,
+        "type": "Mod",
+        "zh": "动能摩擦",
+        "en": "Kinetic Friction"
+    },
+    {
+        "id": 2429,
+        "type": "Mod",
+        "zh": "启明物悬浮驱动",
+        "en": "Venerdo Hoverdrive"
+    },
+    {
+        "id": 2430,
+        "type": "Mod",
+        "zh": "惯性减震",
+        "en": "Inertia Dampeners"
+    },
+    {
+        "id": 2431,
+        "type": "Mod",
+        "zh": "斩杀悬浮板",
+        "en": "Slay Board"
+    },
+    {
+        "id": 2432,
+        "type": "Mod",
+        "zh": "冷抵步",
+        "en": "Cold Arrival"
+    },
+    {
+        "id": 2433,
+        "type": "Mod",
+        "zh": "狂堆速",
+        "en": "Mad Stack"
+    },
+    {
+        "id": 2434,
+        "type": "Mod",
+        "zh": "迅逃夭",
+        "en": "Quick Escape"
+    },
+    {
+        "id": 2435,
+        "type": "Mod",
+        "zh": "声波提升",
+        "en": "Sonic Boost"
+    },
+    {
+        "id": 2436,
+        "type": "Mod",
+        "zh": "极限加速",
+        "en": "Extreme Velocity"
+    },
+    {
+        "id": 2437,
+        "type": "Mod",
+        "zh": "氮气喷射",
+        "en": "Nitro Boost"
+    },
+    {
+        "id": 2438,
+        "type": "Mod",
+        "zh": "收尾痛击",
+        "en": "Thrash Landing"
     }
 ]
