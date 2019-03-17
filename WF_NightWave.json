@@ -463,5 +463,15 @@
         "id": 93,
         "zh": "使用毒素伤害击杀150名敌人",
         "en": "Kill 150 Enemies with Toxin Damage"
+    },
+    {
+        "id": 94,
+        "zh": "特务",
+        "en": "Agent"
+    },
+    {
+        "id": 95,
+        "zh": "完成一场任务",
+        "en": "Complete a Mission"
     }
 ]

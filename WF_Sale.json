@@ -15727,5 +15727,40 @@
         "search": "thrash_landing",
         "zh": "收尾痛击",
         "en": "Thrash Landing"
+    },
+    {
+        "id": 2333,
+        "type": "Part",
+        "search": "wolf_sledge_blueprint",
+        "zh": "恶狼战锤 蓝图",
+        "en": "Wolf Sledge Blueprint"
+    },
+    {
+        "id": 2334,
+        "type": "Part",
+        "search": "wolf_sledge_handle",
+        "zh": "恶狼战锤 握柄",
+        "en": "Wolf Sledge Handle"
+    },
+    {
+        "id": 2335,
+        "type": "Part",
+        "search": "wolf_sledge_head",
+        "zh": "恶狼战锤 锤头",
+        "en": "Wolf Sledge Head"
+    },
+    {
+        "id": 2336,
+        "type": "Part",
+        "search": "wolf_sledge_motor",
+        "zh": "恶狼战锤 马达",
+        "en": "Wolf Sledge Motor"
+    },
+    {
+        "id": 2337,
+        "type": "Weapon",
+        "search": "wolf_sledge_set",
+        "zh": "恶狼战锤 一套",
+        "en": "Wolf Sledge Set"
     }
 ]
