@@ -473,5 +473,110 @@
         "id": 95,
         "zh": "完成一场任务",
         "en": "Complete a Mission"
+    },
+    {
+        "id": 96,
+        "zh": "开枪警告",
+        "en": "Warning Shot"
+    },
+    {
+        "id": 97,
+        "zh": "击杀200名敌人",
+        "en": "Kill 200 Enemies"
+    },
+    {
+        "id": 98,
+        "zh": "保护者",
+        "en": "Protector"
+    },
+    {
+        "id": 99,
+        "zh": "完成3项移动防御任务",
+        "en": "Complete 3 Mobile Defense missions"
+    },
+    {
+        "id": 100,
+        "zh": "地球渔者",
+        "en": "Earth Fisher"
+    },
+    {
+        "id": 101,
+        "zh": "在夜灵平野捕捉6条稀有鱼",
+        "en": "Catch 6 Rare Fish in the Plains of Eidolon"
+    },
+    {
+        "id": 102,
+        "zh": "已极化",
+        "en": "Polarized"
+    },
+    {
+        "id": 103,
+        "zh": "使用3次forma",
+        "en": "Use Forma 3 times"
+    },
+    {
+        "id": 104,
+        "zh": "排除者",
+        "en": "Eliminator"
+    },
+    {
+        "id": 105,
+        "zh": "完成3项歼灭任务",
+        "en": "Complete 3 Exterminate missions"
+    },
+    {
+        "id": 106,
+        "zh": "救援者",
+        "en": "Rescuer"
+    },
+    {
+        "id": 107,
+        "zh": "完成3项救援任务",
+        "en": "Complete 3 Rescue missions"
+    },
+    {
+        "id": 108,
+        "zh": "特工",
+        "en": "Operative"
+    },
+    {
+        "id": 109,
+        "zh": "完成3项间谍任务",
+        "en": "Complete 3 Spy missions"
+    },
+    {
+        "id": 110,
+        "zh": "镀金的",
+        "en": "Gilded"
+    },
+    {
+        "id": 111,
+        "zh": "镀金1个模块物品",
+        "en": "Gild 1 Modular Items"
+    },
+    {
+        "id": 112,
+        "zh": "和朋友击杀利润收割者",
+        "en": "Kill Profit-Taker with Friends"
+    },
+    {
+        "id": 113,
+        "zh": "和朋友或氏族成员击杀利润收割者",
+        "en": "Kill Profit-Taker while playing with a friend or clanmate"
+    },
+    {
+        "id": 114,
+        "zh": "杀戮",
+        "en": "Kill Shot"
+    },
+    {
+        "id": 115,
+        "zh": "击杀1500名敌人",
+        "en": "Kill 1500 Enemies"
+    },
+    {
+        "id": 117,
+        "zh": "解开10个遗物",
+        "en": "Unlock 10 Relics"
     }
 ]
