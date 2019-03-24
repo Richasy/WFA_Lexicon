@@ -9867,13 +9867,13 @@
         "id": 1646,
         "type": "Other",
         "zh": "库娃守护面具",
-        "en": "Kavat Pet Mask"
+        "en": "Kavat Sentinel Mask"
     },
     {
         "id": 1647,
         "type": "Other",
         "zh": "库娃守护飞翼",
-        "en": "Kavat Pet Wings"
+        "en": "Kavat Sentinel Wings"
     },
     {
         "id": 1648,
@@ -13155,7 +13155,7 @@
         "id": 2202,
         "type": "Weapon",
         "zh": "棱晶 双子小精灵",
-        "en": "Prisma Twin Gremlins Weapon"
+        "en": "Prisma Twin Gremlins"
     },
     {
         "id": 2203,
@@ -14554,5 +14554,29 @@
         "type": "Mod",
         "zh": "收尾痛击",
         "en": "Thrash Landing"
+    },
+    {
+        "id": 2439,
+        "type": "Other",
+        "zh": "Tenno 血缘小地毯",
+        "en": "Tenno Kindred Rug"
+    },
+    {
+        "id": 2440,
+        "type": "Other",
+        "zh": "显赫",
+        "en": "Eminence"
+    },
+    {
+        "id": 2441,
+        "type": "Other",
+        "zh": "SCIMITAR 赛冬尼亚外观",
+        "en": "Scimitar Cydonia Skin"
+    },
+    {
+        "id": 2442,
+        "type": "Weapon",
+        "zh": "翠雀",
+        "en": "Larkspur"
     }
 ]
