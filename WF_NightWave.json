@@ -638,5 +638,65 @@
         "id": 129,
         "zh": "使用爆头击杀40名敌人",
         "en": "Kill 40 Enemies with Headshots"
+    },
+    {
+        "id": 130,
+        "zh": "核反应器",
+        "en": "Reactor"
+    },
+    {
+        "id": 131,
+        "zh": "使用辐射伤害击杀150名敌人",
+        "en": "Kill 150 Enemies with Radiation Damage"
+    },
+    {
+        "id": 132,
+        "zh": "声之眠者",
+        "en": "Sound Sleeper"
+    },
+    {
+        "id": 133,
+        "zh": "完成3项任何类型的噩梦任务",
+        "en": "Complete 3 Nightmare missions of any type"
+    },
+    {
+        "id": 134,
+        "zh": "箱子猎人",
+        "en": "Cache Hunter"
+    },
+    {
+        "id": 135,
+        "zh": "在3项破坏任务中找到所有储藏箱",
+        "en": "Find all caches in 3 Sabotage missions"
+    },
+    {
+        "id": 136,
+        "zh": "与友御敌",
+        "en": "Defense with Friends"
+    },
+    {
+        "id": 137,
+        "zh": "与朋友或氏族成员完成防御任务至少40波",
+        "en": "Complete a Defense mission reaching at least wave 40, while playing with a friend or clanmate"
+    },
+    {
+        "id": 138,
+        "zh": "日间商人",
+        "en": "Day Trader"
+    },
+    {
+        "id": 139,
+        "zh": "在指数之场一场3注中没有让敌人得分",
+        "en": "Win 3 wagers in a row without letting the enemy score in one match of The Index"
+    },
+    {
+        "id": 140,
+        "zh": "树庭守护者",
+        "en": "Grove Guardian"
+    },
+    {
+        "id": 141,
+        "zh": "击杀3名落银树庭魅影",
+        "en": "Kill 3 Silver Grove Specters"
     }
 ]
