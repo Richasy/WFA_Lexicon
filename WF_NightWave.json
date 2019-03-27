@@ -647,7 +647,7 @@
     {
         "id": 131,
         "zh": "使用辐射伤害击杀150名敌人",
-        "en": "Kill 150 Enemies with Radiation Damage"
+        "en": "Kill 150 Enemies with a Radiation Damage"
     },
     {
         "id": 132,
@@ -687,7 +687,7 @@
     {
         "id": 139,
         "zh": "在指数之场一场3注中没有让敌人得分",
-        "en": "Win 3 wagers in a row without letting the enemy score in one match of The Index"
+        "en": "Win 3 wagers in a row without letting the enemy score in one match of The Index."
     },
     {
         "id": 140,
