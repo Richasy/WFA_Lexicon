@@ -4425,7 +4425,7 @@
         "id": 739,
         "type": "Weapon",
         "zh": "破碎的战争之剑",
-        "en": "Broken-War"
+        "en": "Broken War"
     },
     {
         "id": 740,
@@ -5517,7 +5517,7 @@
         "id": 921,
         "type": "Weapon",
         "zh": "双子葛拉卡达",
-        "en": "Twin Grakata"
+        "en": "Twin Grakatas"
     },
     {
         "id": 922,
@@ -11929,7 +11929,7 @@
     },
     {
         "id": 1994,
-        "type": "Zaw",
+        "type": "Weapon",
         "zh": "乌尔萨",
         "en": "Ooltha"
     },
@@ -12127,9 +12127,9 @@
     },
     {
         "id": 2027,
-        "type": "Zaw",
+        "type": "Weapon",
         "zh": "瑟普梵",
-        "en": "Sephahn"
+        "en": "Sepfahn"
     },
     {
         "id": 2028,

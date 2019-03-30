@@ -686,13 +686,6 @@
         "ratio": 1.0
     },
     {
-        "id": 102,
-        "name": "DEX 席芭莉丝",
-        "type": "Rifle",
-        "level": 3,
-        "ratio": 0.895
-    },
-    {
         "id": 103,
         "name": "伊格尼斯",
         "type": "Rifle",
@@ -1118,13 +1111,6 @@
         "type": "Rifle",
         "level": 5,
         "ratio": 1.315
-    },
-    {
-        "id": 166,
-        "name": "DEX 盗贼双枪",
-        "type": "Pistol",
-        "level": 5,
-        "ratio": 1.39
     },
     {
         "id": 167,
@@ -1906,27 +1892,6 @@
     {
         "id": 280,
         "name": "眼镜蛇&鹤",
-        "type": "Melee",
-        "level": 3,
-        "ratio": 1.0
-    },
-    {
-        "id": 281,
-        "name": "EXERGIS",
-        "type": "Rifle",
-        "level": 3,
-        "ratio": 1.0
-    },
-    {
-        "id": 282,
-        "name": "PLINX",
-        "type": "Pistol",
-        "level": 3,
-        "ratio": 1.0
-    },
-    {
-        "id": 283,
-        "name": "GALVACORD",
         "type": "Melee",
         "level": 3,
         "ratio": 1.0
