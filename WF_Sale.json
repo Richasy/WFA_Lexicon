@@ -15762,5 +15762,299 @@
         "search": "wolf_sledge_set",
         "zh": "恶狼战锤 一套",
         "en": "Wolf Sledge Set"
+    },
+    {
+        "id": 2338,
+        "type": "Weapon",
+        "search": "stradavar_prime_set",
+        "zh": "斯特拉迪瓦 PRIME 一套",
+        "en": "Stradavar Prime Set"
+    },
+    {
+        "id": 2339,
+        "type": "Part",
+        "search": "stradavar_prime_barrel",
+        "zh": "斯特拉迪瓦 PRIME 枪管",
+        "en": "Stradavar Prime Barrel"
+    },
+    {
+        "id": 2340,
+        "type": "Part",
+        "search": "stradavar_prime_receiver",
+        "zh": "斯特拉迪瓦 PRIME 枪机",
+        "en": "Stradavar Prime Receiver"
+    },
+    {
+        "id": 2341,
+        "type": "Part",
+        "search": "stradavar_prime_stock",
+        "zh": "斯特拉迪瓦 PRIME 枪托",
+        "en": "Stradavar Prime Stock"
+    },
+    {
+        "id": 2342,
+        "type": "Part",
+        "search": "stradavar_prime_blueprint",
+        "zh": "斯特拉迪瓦 PRIME 蓝图",
+        "en": "Stradavar Prime Blueprint"
+    },
+    {
+        "id": 2343,
+        "type": "Weapon",
+        "search": "tipedo_prime_set",
+        "zh": "提佩多 PRIME 一套",
+        "en": "Tipedo Prime Set"
+    },
+    {
+        "id": 2344,
+        "type": "Part",
+        "search": "tipedo_prime_blueprint",
+        "zh": "提佩多 PRIME 蓝图",
+        "en": "Tipedo Prime Blueprint"
+    },
+    {
+        "id": 2345,
+        "type": "Part",
+        "search": "tipedo_prime_handle",
+        "zh": "提佩多 PRIME 握柄",
+        "en": "Tipedo Prime Handle"
+    },
+    {
+        "id": 2346,
+        "type": "Part",
+        "search": "tipedo_prime_ornament",
+        "zh": "提佩多 PRIME 饰物",
+        "en": "Tipedo Prime Ornament"
+    },
+    {
+        "id": 2347,
+        "type": "Warframe",
+        "search": "equinox_prime_set",
+        "zh": "EQUINOX PRIME 一套",
+        "en": "Equinox Prime Set"
+    },
+    {
+        "id": 2348,
+        "type": "Part",
+        "search": "equinox_prime_neuroptics",
+        "zh": "EQUINOX PRIME 头部神经光元",
+        "en": "Equinox Prime Neuroptics"
+    },
+    {
+        "id": 2349,
+        "type": "Part",
+        "search": "equinox_prime_systems",
+        "zh": "EQUINOX PRIME 系统",
+        "en": "Equinox Prime Systems"
+    },
+    {
+        "id": 2350,
+        "type": "Part",
+        "search": "equinox_prime_chassis",
+        "zh": "EQUINOX PRIME 机体",
+        "en": "Equinox Prime Chassis"
+    },
+    {
+        "id": 2351,
+        "type": "Part",
+        "search": "equinox_prime_blueprint",
+        "zh": "EQUINOX PRIME 蓝图",
+        "en": "Equinox Prime Blueprint"
+    },
+    {
+        "id": 2352,
+        "type": "Relic",
+        "search": "meso_e2_intact",
+        "zh": "前纪 E2 完整",
+        "en": "Meso E2 Intact"
+    },
+    {
+        "id": 2353,
+        "type": "Relic",
+        "search": "meso_e2_exceptional",
+        "zh": "前纪 E2 优良",
+        "en": "Meso E2 Exceptional"
+    },
+    {
+        "id": 2354,
+        "type": "Relic",
+        "search": "meso_e2_flawless",
+        "zh": "前纪 E2 无暇",
+        "en": "Meso E2 Flawless"
+    },
+    {
+        "id": 2355,
+        "type": "Relic",
+        "search": "meso_e2_radiant",
+        "zh": "前纪 E2 光辉",
+        "en": "Meso E2 Radiant"
+    },
+    {
+        "id": 2356,
+        "type": "Relic",
+        "search": "lith_m4_intact",
+        "zh": "古纪 M4 完整",
+        "en": "Lith M4 Intact"
+    },
+    {
+        "id": 2357,
+        "type": "Relic",
+        "search": "lith_m4_exceptional",
+        "zh": "古纪 M4 优良",
+        "en": "Lith M4 Exceptional"
+    },
+    {
+        "id": 2358,
+        "type": "Relic",
+        "search": "lith_m4_flawless",
+        "zh": "古纪 M4 无暇",
+        "en": "Lith M4 Flawless"
+    },
+    {
+        "id": 2359,
+        "type": "Relic",
+        "search": "lith_m4_radiant",
+        "zh": "古纪 M4 光辉",
+        "en": "Lith M4 Radiant"
+    },
+    {
+        "id": 2360,
+        "type": "Relic",
+        "search": "neo_n10_intact",
+        "zh": "中纪 N10 完整",
+        "en": "Neo N10 Intact"
+    },
+    {
+        "id": 2361,
+        "type": "Relic",
+        "search": "neo_n10_exceptional",
+        "zh": "中纪 N10 优良",
+        "en": "Neo N10 Exceptional"
+    },
+    {
+        "id": 2362,
+        "type": "Relic",
+        "search": "neo_n10_flawless",
+        "zh": "中纪 N10 无暇",
+        "en": "Neo N10 Flawless"
+    },
+    {
+        "id": 2363,
+        "type": "Relic",
+        "search": "neo_n10_radiant",
+        "zh": "中纪 N10 光辉",
+        "en": "Neo N10 Radiant"
+    },
+    {
+        "id": 2364,
+        "type": "Relic",
+        "search": "axi_k5_intact",
+        "zh": "后纪 K5 完整",
+        "en": "Axi K5 Intact"
+    },
+    {
+        "id": 2365,
+        "type": "Relic",
+        "search": "axi_k5_exceptional",
+        "zh": "后纪 K5 优良",
+        "en": "Axi K5 Exceptional"
+    },
+    {
+        "id": 2366,
+        "type": "Relic",
+        "search": "axi_k5_flawless",
+        "zh": "后纪 K5 无暇",
+        "en": "Axi K5 Flawless"
+    },
+    {
+        "id": 2367,
+        "type": "Relic",
+        "search": "axi_k5_radiant",
+        "zh": "后纪 K5 光辉",
+        "en": "Axi K5 Radiant"
+    },
+    {
+        "id": 2368,
+        "type": "Relic",
+        "search": "meso_m3_intact",
+        "zh": "前纪 M3 完整",
+        "en": "Meso M3 Intact"
+    },
+    {
+        "id": 2369,
+        "type": "Relic",
+        "search": "meso_m3_exceptional",
+        "zh": "前纪 M3 优良",
+        "en": "Meso M3 Exceptional"
+    },
+    {
+        "id": 2370,
+        "type": "Relic",
+        "search": "meso_m3_flawless",
+        "zh": "前纪 M3 无暇",
+        "en": "Meso M3 Flawless"
+    },
+    {
+        "id": 2371,
+        "type": "Relic",
+        "search": "meso_m3_radiant",
+        "zh": "前纪 M3 光辉",
+        "en": "Meso M3 Radiant"
+    },
+    {
+        "id": 2372,
+        "type": "Relic",
+        "search": "neo_s11_intact",
+        "zh": "中纪 S11 完整",
+        "en": "Neo S11 Intact"
+    },
+    {
+        "id": 2373,
+        "type": "Relic",
+        "search": "neo_s11_exceptional",
+        "zh": "中纪 S11 优良",
+        "en": "Neo S11 Exceptional"
+    },
+    {
+        "id": 2374,
+        "type": "Relic",
+        "search": "neo_s11_flawless",
+        "zh": "中纪 S11 无暇",
+        "en": "Neo S11 Flawless"
+    },
+    {
+        "id": 2375,
+        "type": "Relic",
+        "search": "neo_s11_radiant",
+        "zh": "中纪 S11 光辉",
+        "en": "Neo S11 Radiant"
+    },
+    {
+        "id": 2376,
+        "type": "Relic",
+        "search": "meso_z3_intact",
+        "zh": "前纪 Z3 完整",
+        "en": "Meso Z3 Intact"
+    },
+    {
+        "id": 2377,
+        "type": "Relic",
+        "search": "meso_z3_exceptional",
+        "zh": "前纪 Z3 优良",
+        "en": "Meso Z3 Exceptional"
+    },
+    {
+        "id": 2378,
+        "type": "Relic",
+        "search": "meso_z3_flawless",
+        "zh": "前纪 Z3 无暇",
+        "en": "Meso Z3 Flawless"
+    },
+    {
+        "id": 2379,
+        "type": "Relic",
+        "search": "meso_z3_radiant",
+        "zh": "前纪 Z3 光辉",
+        "en": "Meso Z3 Radiant"
     }
 ]

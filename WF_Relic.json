@@ -1223,5 +1223,54 @@
         "relicName": "S10",
         "rewards": "雷克斯_PRIME_蓝图 SARYN_PRIME_系统 布莱顿_PRIME_枪托 旋刃飞刀_PRIME_刀刃 侍刃_PRIME_刀刃 SARYN_PRIME_机体",
         "name": "中纪 S10"
+    },
+    {
+        "id": 176,
+        "tier": "前纪",
+        "relicName": "E2",
+        "rewards": "食人鱼_PRIME_枪管 野马_PRIME_蓝图 技巧之剑_PRIME_握柄 螺钉双枪_PRIME_连接器 绝路_PRIME_枪托 EQUINOX_PRIME_蓝图",
+        "name": "前纪 E2"
+    },
+    {
+        "id": 177,
+        "tier": "古纪",
+        "relicName": "M4",
+        "rewards": "EQUINOX_PRIME_机体_蓝图 帕里斯_PRIME_蓝图 觉醒双枪_PRIME_蓝图 技巧之剑_PRIME_蓝图 斯特拉迪瓦_PRIME_枪管 MESA_PRIME_头部神经光元_蓝图",
+        "name": "古纪 M4"
+    },
+    {
+        "id": 178,
+        "tier": "中纪",
+        "relicName": "N10",
+        "rewards": "ZEPHYR_PRIME_头部神经光元_蓝图 FORMA_蓝图 救赎者_PRIME_刀刃 提佩多_PRIME_饰物 布里斯提卡_PRIME_上弓臂 海波斯库拉对剑_PRIME_刀刃",
+        "name": "中纪 N10"
+    },
+    {
+        "id": 179,
+        "tier": "后纪",
+        "relicName": "K5",
+        "rewards": "FORMA_蓝图 布里斯提卡_PRIME_下弓臂 布莱顿_PRIME_蓝图 EQUINOX_PRIME_蓝图 HYDROID_PRIME_蓝图 皇家拐刃_PRIME_刀刃",
+        "name": "后纪 K5"
+    },
+    {
+        "id": 180,
+        "tier": "前纪",
+        "relicName": "M3",
+        "rewards": "帕里斯_PRIME_弓弦 布里斯提卡_PRIME_下弓臂 格拉姆_PRIME_刀刃 科加基_PRIME_蓝图 EQUINOX_PRIME_头部神经光元_蓝图 MIRAGE_PRIME_蓝图",
+        "name": "前纪 M3"
+    },
+    {
+        "id": 181,
+        "tier": "中纪",
+        "relicName": "S11",
+        "rewards": "HYDROID_PRIME_机体_蓝图 狼牙_PRIME_刀刃 野马_PRIME_枪机 FORMA_蓝图 皇家拐刃_PRIME_握柄 斯特拉迪瓦_PRIME_蓝图",
+        "name": "中纪 S11"
+    },
+    {
+        "id": 182,
+        "tier": "前纪",
+        "relicName": "Z3",
+        "rewards": "斯特拉迪瓦_PRIME_枪机 CHROMA_PRIME_蓝图 FORMA_蓝图 绝路_PRIME_枪管 觉醒双枪_PRIME_连接器 ZEPHYR_PRIME_系统_蓝图",
+        "name": "前纪 Z3"
     }
 ]

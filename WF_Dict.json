@@ -14578,5 +14578,11 @@
         "type": "Weapon",
         "zh": "翠雀",
         "en": "Larkspur"
+    },
+    {
+        "id": 2443,
+        "type": "Warframe",
+        "zh": "EQUINOX PRIME",
+        "en": "EQUINOX PRIME"
     }
 ]
