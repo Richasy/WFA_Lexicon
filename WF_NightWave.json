@@ -708,5 +708,25 @@
         "id": 143,
         "zh": "使用主要武器击杀150名敌人",
         "en": "Kill 150 Enemies with a Primary Weapon"
+    },
+    {
+        "id": 144,
+        "zh": "暗夜之恐",
+        "en": "Night Terror"
+    },
+    {
+        "id": 145,
+        "zh": "完成10项任何类型的噩梦任务",
+        "en": "Complete 10 Nightmare missions of any type"
+    },
+    {
+        "id": 146,
+        "zh": "黑客",
+        "en": "Hacker"
+    },
+    {
+        "id": 147,
+        "zh": "入侵8个控制台",
+        "en": "Hack 8 Consoles"
     }
 ]
