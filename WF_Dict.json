@@ -5775,7 +5775,7 @@
         "id": 964,
         "type": "Weapon",
         "zh": "苦痛 德特昂",
-        "en": "Detron Mara"
+        "en": "Mara Detron"
     },
     {
         "id": 965,
@@ -11751,7 +11751,7 @@
         "id": 1964,
         "type": "Other",
         "zh": "OROKIN堡垒撤离点场景",
-        "en": "Photobooth Tile Orokin Extraction"
+        "en": "Orokin Tower Extraction Scene"
     },
     {
         "id": 1965,
@@ -12297,7 +12297,7 @@
         "id": 2055,
         "type": "Other",
         "zh": "奥堤克光子枪 镀铜外观",
-        "en": "Elixis Opticor"
+        "en": "Opticor Elixis Skin"
     },
     {
         "id": 2056,
@@ -13179,7 +13179,7 @@
         "id": 2206,
         "type": "Other",
         "zh": "MIRAGE 不朽外观",
-        "en": "Mirage Alternate Skin"
+        "en": "Mirage İmmortal Skin"
     },
     {
         "id": 2207,
@@ -13959,7 +13959,7 @@
         "id": 2336,
         "type": "Other",
         "zh": "棱晶 洛斯塔姆库狛护甲",
-        "en": "Kubrow Armor Prisma"
+        "en": "Prisma Rostam Kubrow Armor"
     },
     {
         "id": 2337,
@@ -14584,5 +14584,23 @@
         "type": "Warframe",
         "zh": "EQUINOX PRIME",
         "en": "EQUINOX PRIME"
+    },
+    {
+        "id": 2444,
+        "type": "Other",
+        "zh": "棱晶同伴海报",
+        "en": "Prisma Companion Poster"
+    },
+    {
+        "id": 2445,
+        "type": "Mod",
+        "zh": "动物本能 PRIME",
+        "en": "Primed Animal Instinct"
+    },
+    {
+        "id": 2446,
+        "type": "Weapon",
+        "zh": "库鲁多",
+        "en": "Korrudo"
     }
 ]

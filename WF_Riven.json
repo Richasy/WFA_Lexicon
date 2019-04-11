@@ -1937,5 +1937,12 @@
         "type": "Melee",
         "level": 3,
         "ratio": 1.0
+    },
+    {
+        "id": 290,
+        "name": "库鲁多",
+        "type": "Melee",
+        "level": 3,
+        "ratio": 1.0
     }
 ]
