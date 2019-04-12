@@ -16056,5 +16056,82 @@
         "search": "meso_z3_radiant",
         "zh": "前纪 Z3 光辉",
         "en": "Meso Z3 Radiant"
+    },
+    {
+        "id": 2380,
+        "type": "Mod",
+        "search": "primed_animal_instinct",
+        "zh": "动物本能 PRIME",
+        "en": "Primed Animal Instinct"
+    },
+    {
+        "id": 2381,
+        "type": "Other",
+        "search": "smooth_phasmin",
+        "zh": "光滑翡斯敏石",
+        "en": "Smooth Phasmin"
+    },
+    {
+        "id": 2382,
+        "type": "Other",
+        "search": "travocyte_alloy",
+        "zh": "铁镍合金",
+        "en": "Travocyte Alloy"
+    },
+    {
+        "id": 2383,
+        "type": "Other",
+        "search": "heart_noctrul",
+        "zh": "心形夜石",
+        "en": "Heart Noctrul"
+    },
+    {
+        "id": 2384,
+        "type": "Other",
+        "search": "axidrol_alloy",
+        "zh": "酸化合金",
+        "en": "Axidrol Alloy"
+    },
+    {
+        "id": 2385,
+        "type": "Other",
+        "search": "goblite_tears",
+        "zh": "泪滴形填充细石",
+        "en": "Goblite Tears"
+    },
+    {
+        "id": 2386,
+        "type": "Other",
+        "search": "venerdo_alloy",
+        "zh": "启明合金",
+        "en": "Venerdo Alloy"
+    },
+    {
+        "id": 2387,
+        "type": "Other",
+        "search": "star_amarast",
+        "zh": "星形紫苋石",
+        "en": "Star Amarast"
+    },
+    {
+        "id": 2388,
+        "type": "Other",
+        "search": "hespazym_alloy",
+        "zh": "长庚合金",
+        "en": "Hespazym Alloy"
+    },
+    {
+        "id": 2389,
+        "type": "Other",
+        "search": "radiant_zodian",
+        "zh": "发光的黄道宝石",
+        "en": "Radiant Zodian"
+    },
+    {
+        "id": 2390,
+        "type": "Other",
+        "search": "marquise_thyst",
+        "zh": "女侯爵赤色水晶",
+        "en": "Marquise Thyst"
     }
 ]
