@@ -16133,5 +16133,12 @@
         "search": "marquise_thyst",
         "zh": "女侯爵赤色水晶",
         "en": "Marquise Thyst"
+    },
+    {
+        "id": 2391,
+        "type": "Weapon",
+        "search": "prisma_grinlok",
+        "zh": "棱晶 葛恩火枪",
+        "en": "Prisma Grinlok"
     }
 ]
