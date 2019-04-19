@@ -11799,7 +11799,7 @@
         "id": 1972,
         "type": "Other",
         "zh": "ODONATA 镀铜外观",
-        "en": "Elixis Odonata Skin"
+        "en": "Odonata Elixis Skin"
     },
     {
         "id": 1973,
@@ -14602,5 +14602,23 @@
         "type": "Weapon",
         "zh": "库鲁多",
         "en": "Korrudo"
+    },
+    {
+        "id": 2447,
+        "type": "Other",
+        "zh": "棱晶 飞空胸甲",
+        "en": "Prisma Avia Chest Plate"
+    },
+    {
+        "id": 2448,
+        "type": "Other",
+        "zh": "尾骨坠饰",
+        "en": "Coccyst Sugatra"
+    },
+    {
+        "id": 2449,
+        "type": "Other",
+        "zh": "摇头娃娃 - 装备Odonata的Excalibur",
+        "en": "Noggle Statue - Excalibur With Odonata"
     }
 ]
