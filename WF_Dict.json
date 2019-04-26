@@ -14620,5 +14620,11 @@
         "type": "Other",
         "zh": "摇头娃娃 - 装备Odonata的Excalibur",
         "en": "Noggle Statue - Excalibur With Odonata"
+    },
+    {
+        "id": 2450,
+        "type": "Mod",
+        "zh": "护盾连结",
+        "en": "Link Shield"
     }
 ]

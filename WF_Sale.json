@@ -16140,5 +16140,12 @@
         "search": "prisma_grinlok",
         "zh": "棱晶 葛恩火枪",
         "en": "Prisma Grinlok"
+    },
+    {
+        "id": 2392,
+        "type": "Mod",
+        "search": "link_shield",
+        "zh": "护盾连结",
+        "en": "Link Shield"
     }
 ]
