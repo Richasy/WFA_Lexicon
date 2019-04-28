@@ -2520,13 +2520,6 @@
         "en": "Bronco Prime Receiver"
     },
     {
-        "id": 394,
-        "type": "Part",
-        "search": "bronco_prime",
-        "zh": "野马 PRIME",
-        "en": "Bronco Prime"
-    },
-    {
         "id": 395,
         "type": "Part",
         "search": "akbronco_prime_link",
@@ -2560,13 +2553,6 @@
         "search": "lex_prime_receiver",
         "zh": "雷克斯 PRIME 枪机",
         "en": "Lex Prime Receiver"
-    },
-    {
-        "id": 400,
-        "type": "Part",
-        "search": "lex_prime",
-        "zh": "雷克斯 PRIME",
-        "en": "Lex Prime"
     },
     {
         "id": 401,
@@ -2907,16 +2893,16 @@
     {
         "id": 449,
         "type": "Part",
-        "search": "dual_decurion_barrel",
+        "search": "decurion_barrel",
         "zh": "什长双枪 枪管",
-        "en": "Dual Decurion Barrel"
+        "en": "Decurion Barrel"
     },
     {
         "id": 450,
         "type": "Part",
-        "search": "dual_decurion_receiver",
+        "search": "decurion_receiver",
         "zh": "什长双枪 枪机",
-        "en": "Dual Decurion Receiver"
+        "en": "Decurion Receiver"
     },
     {
         "id": 451,
@@ -4125,9 +4111,9 @@
     {
         "id": 623,
         "type": "Mod",
-        "search": "shield_transference",
+        "search": "transistor_shield",
         "zh": "护盾转移",
-        "en": "Shield Transference"
+        "en": "Transistor Shield"
     },
     {
         "id": 624,
@@ -4202,9 +4188,9 @@
     {
         "id": 634,
         "type": "Mod",
-        "search": "divebomb_vortex",
+        "search": "perpetual_vortex",
         "zh": "涡卷俯冲",
-        "en": "Divebomb Vortex"
+        "en": "Perpetual Vortex"
     },
     {
         "id": 635,
@@ -5105,9 +5091,9 @@
     {
         "id": 763,
         "type": "Mod",
-        "search": "guided_ordinance",
+        "search": "guided_ordnance",
         "zh": "制导弹药",
-        "en": "Guided Ordinance"
+        "en": "Guided Ordnance"
     },
     {
         "id": 764,
@@ -6463,9 +6449,9 @@
     {
         "id": 957,
         "type": "Mod",
-        "search": "blocking",
+        "search": "parry",
         "zh": "格挡",
-        "en": "Blocking"
+        "en": "Parry"
     },
     {
         "id": 958,
@@ -12425,34 +12411,6 @@
         "en": "Legendary Fusion Core"
     },
     {
-        "id": 1850,
-        "type": "Relic",
-        "search": "axi_q2_intact",
-        "zh": "后纪 Q2 完整",
-        "en": "Axi Q2 Intact"
-    },
-    {
-        "id": 1851,
-        "type": "Relic",
-        "search": "axi_q2_exceptional",
-        "zh": "后纪 Q2 优良",
-        "en": "Axi Q2 Exceptional"
-    },
-    {
-        "id": 1852,
-        "type": "Relic",
-        "search": "axi_q2_flawless",
-        "zh": "后纪 Q2 无暇",
-        "en": "Axi Q2 Flawless"
-    },
-    {
-        "id": 1853,
-        "type": "Relic",
-        "search": "axi_q2_radiant",
-        "zh": "后纪 Q2 光辉",
-        "en": "Axi Q2 Radiant"
-    },
-    {
         "id": 1854,
         "type": "Relic",
         "search": "axi_k2_intact",
@@ -12479,258 +12437,6 @@
         "search": "axi_k2_radiant",
         "zh": "后纪 K2 光辉",
         "en": "Axi K2 Radiant"
-    },
-    {
-        "id": 1858,
-        "type": "Relic",
-        "search": "axi_H3_intact",
-        "zh": "后纪 H3 完整",
-        "en": "Axi H3 Intact"
-    },
-    {
-        "id": 1859,
-        "type": "Relic",
-        "search": "axi_H3_exceptional",
-        "zh": "后纪 H3 优良",
-        "en": "Axi H3 Exceptional"
-    },
-    {
-        "id": 1860,
-        "type": "Relic",
-        "search": "axi_H3_flawless",
-        "zh": "后纪 H3 无暇",
-        "en": "Axi H3 Flawless"
-    },
-    {
-        "id": 1861,
-        "type": "Relic",
-        "search": "axi_H3_radiant",
-        "zh": "后纪 H3 光辉",
-        "en": "Axi H3 Radiant"
-    },
-    {
-        "id": 1862,
-        "type": "Relic",
-        "search": "neo_B4_intact",
-        "zh": "中纪 B4 完整",
-        "en": "Neo B4 Intact"
-    },
-    {
-        "id": 1863,
-        "type": "Relic",
-        "search": "neo_B4_exceptional",
-        "zh": "中纪 B4 优良",
-        "en": "Neo B4 Exceptional"
-    },
-    {
-        "id": 1864,
-        "type": "Relic",
-        "search": "neo_B4_flawless",
-        "zh": "中纪 B4 无暇",
-        "en": "Neo B4 Flawless"
-    },
-    {
-        "id": 1865,
-        "type": "Relic",
-        "search": "neo_B4_radiant",
-        "zh": "中纪 B4 光辉",
-        "en": "Neo B4 Radiant"
-    },
-    {
-        "id": 1866,
-        "type": "Relic",
-        "search": "neo_K1_intact",
-        "zh": "中纪 K1 完整",
-        "en": "Neo K1 Intact"
-    },
-    {
-        "id": 1867,
-        "type": "Relic",
-        "search": "neo_K1_exceptional",
-        "zh": "中纪 K1 优良",
-        "en": "Neo K1 Exceptional"
-    },
-    {
-        "id": 1868,
-        "type": "Relic",
-        "search": "neo_K1_flawless",
-        "zh": "中纪 K1 无暇",
-        "en": "Neo K1 Flawless"
-    },
-    {
-        "id": 1869,
-        "type": "Relic",
-        "search": "neo_K1_radiant",
-        "zh": "中纪 K1 光辉",
-        "en": "Neo K1 Radiant"
-    },
-    {
-        "id": 1870,
-        "type": "Relic",
-        "search": "neo_Z1_intact",
-        "zh": "中纪 Z1 完整",
-        "en": "Neo Z1 Intact"
-    },
-    {
-        "id": 1871,
-        "type": "Relic",
-        "search": "neo_Z1_exceptional",
-        "zh": "中纪 Z1 优良",
-        "en": "Neo Z1 Exceptional"
-    },
-    {
-        "id": 1872,
-        "type": "Relic",
-        "search": "neo_Z1_flawless",
-        "zh": "中纪 Z1 无暇",
-        "en": "Neo Z1 Flawless"
-    },
-    {
-        "id": 1873,
-        "type": "Relic",
-        "search": "neo_Z1_radiant",
-        "zh": "中纪 Z1 光辉",
-        "en": "Neo Z1 Radiant"
-    },
-    {
-        "id": 1874,
-        "type": "Relic",
-        "search": "meso_O2_intact",
-        "zh": "前纪 O2 完整",
-        "en": "Meso O2 Intact"
-    },
-    {
-        "id": 1875,
-        "type": "Relic",
-        "search": "meso_O2_exceptional",
-        "zh": "前纪 O2 优良",
-        "en": "Meso O2 Exceptional"
-    },
-    {
-        "id": 1876,
-        "type": "Relic",
-        "search": "meso_O2_flawless",
-        "zh": "前纪 O2 无暇",
-        "en": "Meso O2 Flawless"
-    },
-    {
-        "id": 1877,
-        "type": "Relic",
-        "search": "meso_O2_radiant",
-        "zh": "前纪 O2 光辉",
-        "en": "Meso O2 Radiant"
-    },
-    {
-        "id": 1878,
-        "type": "Relic",
-        "search": "meso_T2_intact",
-        "zh": "前纪 T2 完整",
-        "en": "Meso T2 Intact"
-    },
-    {
-        "id": 1879,
-        "type": "Relic",
-        "search": "meso_T2_exceptional",
-        "zh": "前纪 T2 优良",
-        "en": "Meso T2 Exceptional"
-    },
-    {
-        "id": 1880,
-        "type": "Relic",
-        "search": "meso_T2_flawless",
-        "zh": "前纪 T2 无暇",
-        "en": "Meso T2 Flawless"
-    },
-    {
-        "id": 1881,
-        "type": "Relic",
-        "search": "meso_T2_radiant",
-        "zh": "前纪 T2 光辉",
-        "en": "Meso T2 Radiant"
-    },
-    {
-        "id": 1882,
-        "type": "Relic",
-        "search": "meso_T1_intact",
-        "zh": "前纪 T1 完整",
-        "en": "Meso T1 Intact"
-    },
-    {
-        "id": 1883,
-        "type": "Relic",
-        "search": "meso_T1_exceptional",
-        "zh": "前纪 T1 优良",
-        "en": "Meso T1 Exceptional"
-    },
-    {
-        "id": 1884,
-        "type": "Relic",
-        "search": "meso_T1_flawless",
-        "zh": "前纪 T1 无暇",
-        "en": "Meso T1 Flawless"
-    },
-    {
-        "id": 1885,
-        "type": "Relic",
-        "search": "meso_T1_radiant",
-        "zh": "前纪 T1 光辉",
-        "en": "Meso T1 Radiant"
-    },
-    {
-        "id": 1886,
-        "type": "Relic",
-        "search": "lith_Z1_intact",
-        "zh": "古纪 Z1 完整",
-        "en": "Lith Z1 Intact"
-    },
-    {
-        "id": 1887,
-        "type": "Relic",
-        "search": "lith_Z1_exceptional",
-        "zh": "古纪 Z1 优良",
-        "en": "Lith Z1 Exceptional"
-    },
-    {
-        "id": 1888,
-        "type": "Relic",
-        "search": "lith_Z1_flawless",
-        "zh": "古纪 Z1 无暇",
-        "en": "Lith Z1 Flawless"
-    },
-    {
-        "id": 1889,
-        "type": "Relic",
-        "search": "lith_Z1_radiant",
-        "zh": "古纪 Z1 光辉",
-        "en": "Lith Z1 Radiant"
-    },
-    {
-        "id": 1890,
-        "type": "Relic",
-        "search": "lith_H2_intact",
-        "zh": "古纪 H2 完整",
-        "en": "Lith H2 Intact"
-    },
-    {
-        "id": 1891,
-        "type": "Relic",
-        "search": "lith_H2_exceptional",
-        "zh": "古纪 H2 优良",
-        "en": "Lith H2 Exceptional"
-    },
-    {
-        "id": 1892,
-        "type": "Relic",
-        "search": "lith_H2_flawless",
-        "zh": "古纪 H2 无暇",
-        "en": "Lith H2 Flawless"
-    },
-    {
-        "id": 1893,
-        "type": "Relic",
-        "search": "lith_H2_radiant",
-        "zh": "古纪 H2 光辉",
-        "en": "Lith H2 Radiant"
     },
     {
         "id": 1894,
@@ -13547,9 +13253,9 @@
     {
         "id": 2013,
         "type": "Weapon",
-        "search": "prisma_twin_gremlins_weapon",
+        "search": "prisma_twin_gremlins",
         "zh": "棱晶 双子小精灵",
-        "en": "Prisma Twin Gremlins Weapon"
+        "en": "Prisma Twin Gremlins"
     },
     {
         "id": 2014,
@@ -15129,7 +14835,7 @@
     {
         "id": 2246,
         "type": "Mod",
-        "search": "arch-gun_ace",
+        "search": "arch_gun_ace",
         "zh": "Arch-枪械行家",
         "en": "Arch-Gun Ace"
     },
@@ -15143,182 +14849,182 @@
     {
         "id": 2248,
         "type": "Other",
-        "search": "scorpion_ash_helmet",
+        "search": "arcane_scorpion_ash_helmet",
         "zh": "ASH 毒蝎秘奥头盔",
         "en": "Arcane Scorpion Ash Helmet"
     },
     {
         "id": 2249,
         "type": "Other",
-        "search": "locust_ash_helmet",
+        "search": "arcane_locust_ash_helmet",
         "zh": "ASH 飞蝗秘奥头盔",
         "en": "Arcane Locust Ash Helmet"
     },
     {
         "id": 2250,
         "type": "Other",
-        "search": "reverb_banshee_helmet",
+        "search": "arcane_reverb_banshee_helmet",
         "zh": "BANSHEE 返响秘奥头盔",
         "en": "Arcane Reverb Banshee Helmet"
     },
     {
         "id": 2251,
         "type": "Other",
-        "search": "chorus_banshee_helmet",
+        "search": "arcane_chorus_banshee_helmet",
         "zh": "BANSHEE 合音秘奥头盔",
         "en": "Arcane Chorus Banshee Helmet"
     },
     {
         "id": 2252,
         "type": "Other",
-        "search": "phoenix_ember_helmet",
+        "search": "arcane_phoenix_ember_helmet",
         "zh": "EMBER 凤凰秘奥头盔",
         "en": "Arcane Phoenix Ember Helmet"
     },
     {
         "id": 2253,
         "type": "Other",
-        "search": "backdraft_ember_helmet",
+        "search": "arcane_backdraft_ember_helmet",
         "zh": "EMBER 复燃秘奥头盔",
         "en": "Arcane Backdraft Ember Helmet"
     },
     {
         "id": 2254,
         "type": "Other",
-        "search": "avalon_excalibur_helmet",
+        "search": "arcane_avalon_excalibur_helmet",
         "zh": "EXCALIBUR 阿瓦隆秘奥头盔",
         "en": "Arcane Avalon Excalibur Helmet"
     },
     {
         "id": 2255,
         "type": "Other",
-        "search": "pendragon_excalibur_helmet",
+        "search": "arcane_pendragon_excalibur_helmet",
         "zh": "EXCALIBUR 潘德拉冈秘奥头盔",
         "en": "Arcane Pendragon Excalibur Helmet"
     },
     {
         "id": 2256,
         "type": "Other",
-        "search": "aurora_frost_helmet",
+        "search": "arcane_aurora_frost_helmet",
         "zh": "FROST 极光秘奥头盔",
         "en": "Arcane Aurora Frost Helmet"
     },
     {
         "id": 2257,
         "type": "Other",
-        "search": "squall_frost_helmet",
+        "search": "arcane_squall_frost_helmet",
         "zh": "FROST 飑风秘奥头盔",
         "en": "Arcane Squall Frost Helmet"
     },
     {
         "id": 2258,
         "type": "Other",
-        "search": "essence_loki_helmet",
+        "search": "arcane_essence_loki_helmet",
         "zh": "LOKI 本质秘奥头盔",
         "en": "Arcane Essence Loki Helmet"
     },
     {
         "id": 2259,
         "type": "Other",
-        "search": "swindle_loki_helmet",
+        "search": "arcane_swindle_loki_helmet",
         "zh": "LOKI 诈欺秘奥头盔",
         "en": "Arcane Swindle Loki Helmet"
     },
     {
         "id": 2260,
         "type": "Other",
-        "search": "coil_mag_helmet",
+        "search": "arcane_coil_mag_helmet",
         "zh": "MAG 线圈秘奥头盔",
         "en": "Arcane Coil Mag Helmet"
     },
     {
         "id": 2261,
         "type": "Other",
-        "search": "gauss_mag_helmet",
+        "search": "arcane_gauss_mag_helmet",
         "zh": "MAG 高斯秘奥头盔",
         "en": "Arcane Gauss Mag Helmet"
     },
     {
         "id": 2262,
         "type": "Other",
-        "search": "flux_nova_helmet",
+        "search": "arcane_flux_nova_helmet",
         "zh": "NOVA 通量秘奥头盔",
         "en": "Arcane Flux Nova Helmet"
     },
     {
         "id": 2263,
         "type": "Other",
-        "search": "menticide_nyx_helmet",
+        "search": "arcane_menticide_nyx_helmet",
         "zh": "NYX 灭神秘奥头盔",
         "en": "Arcane Menticide Nyx Helmet"
     },
     {
         "id": 2264,
         "type": "Other",
-        "search": "vespa_nyx_helmet",
+        "search": "arcane_vespa_nyx_helmet",
         "zh": "NYX 黄蜂秘奥头盔",
         "en": "Arcane Vespa Nyx Helmet"
     },
     {
         "id": 2265,
         "type": "Other",
-        "search": "thrak_rhino_helmet",
+        "search": "arcane_thrak_rhino_helmet",
         "zh": "RHINO 震击秘奥头盔",
         "en": "Arcane Thrak Rhino Helmet"
     },
     {
         "id": 2266,
         "type": "Other",
-        "search": "vanguard_rhino_helmet",
+        "search": "arcane_vanguard_rhino_helmet",
         "zh": "RHINO 先锋秘奥头盔",
         "en": "Arcane Vanguard Rhino Helmet"
     },
     {
         "id": 2267,
         "type": "Other",
-        "search": "hemlock_saryn_helmet",
+        "search": "arcane_hemlock_saryn_helmet",
         "zh": "SARYN 铁杉秘奥头盔",
         "en": "Arcane Hemlock Saryn Helmet"
     },
     {
         "id": 2268,
         "type": "Other",
-        "search": "chlora_saryn_helmet",
+        "search": "arcane_chlora_saryn_helmet",
         "zh": "SARYN 氯毒秘奥头盔",
         "en": "Arcane Chlora Saryn Helmet"
     },
     {
         "id": 2269,
         "type": "Other",
-        "search": "aura_trinity_helmet",
+        "search": "arcane_aura_trinity_helmet",
         "zh": "TRINITY 预言秘奥头盔",
         "en": "Arcane Aura Trinity Helmet"
     },
     {
         "id": 2270,
         "type": "Other",
-        "search": "meridian_trinity_helmet",
+        "search": "arcane_meridian_trinity_helmet",
         "zh": "TRINITY 经络秘奥头盔",
         "en": "Arcane Meridian Trinity Helmet"
     },
     {
         "id": 2271,
         "type": "Other",
-        "search": "gambit_vauban_helmet",
+        "search": "arcane_gambit_vauban_helmet",
         "zh": "VAUBAN 策略秘奥头盔",
         "en": "Arcane Gambit Vauban Helmet"
     },
     {
         "id": 2272,
         "type": "Other",
-        "search": "storm_volt_helmet",
+        "search": "arcane_storm_volt_helmet",
         "zh": "VOLT 风暴秘奥头盔",
         "en": "Arcane Storm Volt Helmet"
     },
     {
         "id": 2273,
         "type": "Other",
-        "search": "pulse_volt_helmet",
+        "search": "arcane_pulse_volt_helmet",
         "zh": "VOLT 脉冲秘奥头盔",
         "en": "Arcane Pulse Volt Helmet"
     },
@@ -15647,9 +15353,9 @@
     {
         "id": 2321,
         "type": "Mod",
-        "search": "prefect_balance",
+        "search": "perfect_balance",
         "zh": "完美平衡",
-        "en": "Prefect Balance"
+        "en": "Perfect Balance"
     },
     {
         "id": 2322,
@@ -16072,13 +15778,6 @@
         "en": "Smooth Phasmin"
     },
     {
-        "id": 2382,
-        "type": "Other",
-        "search": "travocyte_alloy",
-        "zh": "铁镍合金",
-        "en": "Travocyte Alloy"
-    },
-    {
         "id": 2383,
         "type": "Other",
         "search": "heart_noctrul",
@@ -16086,25 +15785,11 @@
         "en": "Heart Noctrul"
     },
     {
-        "id": 2384,
-        "type": "Other",
-        "search": "axidrol_alloy",
-        "zh": "酸化合金",
-        "en": "Axidrol Alloy"
-    },
-    {
         "id": 2385,
         "type": "Other",
         "search": "goblite_tears",
         "zh": "泪滴形填充细石",
         "en": "Goblite Tears"
-    },
-    {
-        "id": 2386,
-        "type": "Other",
-        "search": "venerdo_alloy",
-        "zh": "启明合金",
-        "en": "Venerdo Alloy"
     },
     {
         "id": 2387,
@@ -16144,8 +15829,8 @@
     {
         "id": 2392,
         "type": "Mod",
-        "search": "link_shield",
+        "search": "link_shields",
         "zh": "护盾连结",
-        "en": "Link Shield"
+        "en": "Link Shields"
     }
 ]
