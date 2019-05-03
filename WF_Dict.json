@@ -11565,13 +11565,13 @@
         "id": 1932,
         "type": "Other",
         "zh": "棱晶 江户 左肩甲",
-        "en": "Left Prisma Edo Shoulder Armor"
+        "en": "Left Prisma Edo Shoulder Plates"
     },
     {
         "id": 1933,
         "type": "Other",
         "zh": "棱晶 江户 右肩甲",
-        "en": "Right Prisma Edo Shoulder Armor"
+        "en": "Right Prisma Edo Shoulder Plates"
     },
     {
         "id": 1934,
@@ -14626,5 +14626,11 @@
         "type": "Mod",
         "zh": "护盾连结",
         "en": "Link Shield"
+    },
+    {
+        "id": 2451,
+        "type": "Other",
+        "zh": "棱晶 飞空肩甲",
+        "en": "Prisma Avia Shoulder Plates"
     }
 ]
