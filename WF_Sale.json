@@ -15825,5 +15825,75 @@
         "search": "link_shields",
         "zh": "护盾连结",
         "en": "Link Shields"
+    },
+    {
+        "id": 2393,
+        "type": "Warframe",
+        "search": "mesa_prime_set",
+        "zh": "女枪 PRIME 一套",
+        "en": "MESA PRIME SET"
+    },
+    {
+        "id": 2394,
+        "type": "Part",
+        "search": "mesa_prime_neuroptics",
+        "zh": "女枪 PRIME 头部神经光元",
+        "en": "MESA PRIME NEUROPTICS"
+    },
+    {
+        "id": 2395,
+        "type": "Part",
+        "search": "mesa_prime_blueprint",
+        "zh": "女枪 PRIME 蓝图",
+        "en": "MESA PRIME BLUEPRINT"
+    },
+    {
+        "id": 2396,
+        "type": "Part",
+        "search": "mesa_prime_chassis",
+        "zh": "女枪 PRIME 机体",
+        "en": "MESA PRIME CHASSIS"
+    },
+    {
+        "id": 2397,
+        "type": "Part",
+        "search": "mesa_prime_systems",
+        "zh": "女枪 PRIME 系统",
+        "en": "MESA PRIME SYSTEMS"
+    },
+    {
+        "id": 2398,
+        "type": "Weapon",
+        "search": "equinox_prime_set",
+        "zh": "扶她 PRIME 一套",
+        "en": "EQUINOX PRIME SET"
+    },
+    {
+        "id": 2399,
+        "type": "Part",
+        "search": "equinox_prime_neuroptics",
+        "zh": "扶她 PRIME 头部神经光元",
+        "en": "EQUINOX PRIME NEUROPTICS"
+    },
+    {
+        "id": 2400,
+        "type": "Part",
+        "search": "equinox_prime_systems",
+        "zh": "扶她 PRIME 系统",
+        "en": "EQUINOX PRIME SYSTEMS"
+    },
+    {
+        "id": 2401,
+        "type": "Part",
+        "search": "equinox_prime_chassis",
+        "zh": "扶她 PRIME 机体",
+        "en": "EQUINOX PRIME CHASSIS"
+    },
+    {
+        "id": 2402,
+        "type": "Part",
+        "search": "equinox_prime_blueprint",
+        "zh": "扶她 PRIME 蓝图",
+        "en": "EQUINOX PRIME BLUEPRINT"
     }
 ]
