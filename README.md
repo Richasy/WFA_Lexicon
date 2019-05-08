@@ -32,7 +32,7 @@ ___
 
 ### 更新日志
 
-* 2019-5-9: 
+* 2019-5-9: 交易词典中增加EQUINOX和MESA的中文别名
 * 2019-4-28: 解决issue中提出的翻译问题和词条错误，感谢[Cyl18](https://github.com/Cyl18)、[Zatermelon](https://github.com/Zatermelon)和[Welkin_Totoro](https://github.com/Welkin-Totoro)
 * 2019-4-20: 奸商物品更新
 * 2019-4-12: 增加金星矿的交易词条，更新午夜电波任务
