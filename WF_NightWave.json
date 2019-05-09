@@ -743,5 +743,15 @@
         "id": 150,
         "zh": "有毒共享",
         "en": "Sharing is Caring"
+    },
+    {
+        "id": 151,
+        "zh": "研究者",
+        "en": "Researcher"
+    },
+    {
+        "id": 152,
+        "zh": "扫描25次对象或敌人",
+        "en": "Scan 25 Objects or Enemies"
     }
 ]
