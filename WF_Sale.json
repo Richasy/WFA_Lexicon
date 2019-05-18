@@ -15895,5 +15895,12 @@
         "search": "equinox_prime_blueprint",
         "zh": "扶她 PRIME 蓝图",
         "en": "EQUINOX PRIME BLUEPRINT"
+    },
+    {
+        "id": 2403,
+        "type": "Mod",
+        "search": "pack_leader_prime",
+        "zh": "领袖 PRIME",
+        "en": "Pack Leader Prime"
     }
 ]

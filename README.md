@@ -1,7 +1,7 @@
 ---
 Title: WFA词库说明
 Version: 2.5
-Update: 2019.05.09
+Update: 2019.05.18
 ---
 
 # WFA词库说明
@@ -11,7 +11,7 @@ Update: 2019.05.09
 > 由于词库的特殊性，未来会随着游戏的更新持续更新，如果其中未包含你需要的词条，请在Github上issue一下哟~也请持续关注我的Github主页，及时更新新版本
 
 #### 当前词库版本：V2.5
-#### 最后更新时间：2019-05-09
+#### 最后更新时间：2019-05-18
 
 ### 简要说明
 词库包含四份文件：
@@ -32,6 +32,7 @@ ___
 
 ### 更新日志
 
+* 2019-5-18: 添加奸商带的新物品
 * 2019-5-9: 交易词典中增加EQUINOX和MESA的中文别名
 * 2019-4-28: 解决issue中提出的翻译问题和词条错误，感谢[Cyl18](https://github.com/Cyl18)、[Zatermelon](https://github.com/Zatermelon)和[Welkin_Totoro](https://github.com/Welkin-Totoro)
 * 2019-4-20: 奸商物品更新

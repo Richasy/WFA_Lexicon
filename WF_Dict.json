@@ -12248,8 +12248,8 @@
     {
         "id": 2047,
         "type": "Other",
-        "zh": "堕落重型机枪兵魅影",
-        "en": "Corrupted Heavy Gunner Ball"
+        "zh": "堕落重型机枪兵 魅影",
+        "en": "Corrupted Heavy Gunner Specter"
     },
     {
         "id": 2048,
@@ -14632,5 +14632,23 @@
         "type": "Other",
         "zh": "棱晶 飞空肩甲",
         "en": "Prisma Avia Shoulder Plates"
+    },
+    {
+        "id": 2452,
+        "type": "Other",
+        "zh": "棱晶 飞空踝甲",
+        "en": "Prisma Avia Leg Plates"
+    },
+    {
+        "id": 2453,
+        "type": "Other",
+        "zh": "MESA 不朽外观",
+        "en": "Mesa Immortal Skin"
+    },
+    {
+        "id": 2454,
+        "type": "Mod",
+        "zh": "领袖 PRIME",
+        "en": "Pack Leader Prime"
     }
 ]
