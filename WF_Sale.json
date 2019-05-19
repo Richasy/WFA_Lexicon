@@ -15902,5 +15902,33 @@
         "search": "pack_leader_prime",
         "zh": "领袖 PRIME",
         "en": "Pack Leader Prime"
+    },
+    {
+        "id": 2404,
+        "type": "Mod",
+        "search": "pilfering_strangledome",
+        "zh": "贪夺穹顶",
+        "en": "Pilfering Strangledome"
+    },
+    {
+        "id": 2405,
+        "type": "Mod",
+        "search": "blinding_reave",
+        "zh": "致盲掠夺",
+        "en": "Blinding Reave"
+    },
+    {
+        "id": 2406,
+        "type": "Mod",
+        "search": "venari_bodyguard",
+        "zh": "薇娜丽的护卫",
+        "en": "Venari Bodyguard"
+    },
+    {
+        "id": 2407,
+        "type": "Mod",
+        "search": "teeming_virulence",
+        "zh": "猛爆致病",
+        "en": "Teeming Virulence"
     }
 ]
