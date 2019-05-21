@@ -15930,5 +15930,33 @@
         "search": "teeming_virulence",
         "zh": "猛爆致病",
         "en": "Teeming Virulence"
+    },
+    {
+        "id": 2408,
+        "type": "Mod",
+        "search": "wise_razor",
+        "zh": "慧黠斩剃",
+        "en": "Wise Razor"
+    },
+    {
+        "id": 2409,
+        "type": "Mod",
+        "search": "venom_teeth",
+        "zh": "牙齿毒液",
+        "en": "Venom Teeth"
+    },
+    {
+        "id": 2410,
+        "type": "Mod",
+        "search": "frost_jaw",
+        "zh": "冰冻双颚",
+        "en": "Frost Jaw"
+    },
+    {
+        "id": 2411,
+        "type": "Mod",
+        "search": "shock_collar",
+        "zh": "电击项圈",
+        "en": "Shock Collar"
     }
 ]
