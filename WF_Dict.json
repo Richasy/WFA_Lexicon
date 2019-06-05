@@ -14698,5 +14698,125 @@
         "type": "Mod",
         "zh": "电击项圈",
         "en": "Shock Collar"
+    },
+    {
+        "id": 2463,
+        "type": "Weapon",
+        "zh": "猛毒",
+        "en": "Komorex"
+    },
+    {
+        "id": 2464,
+        "type": "Weapon",
+        "zh": "氰毒",
+        "en": "Cyanex"
+    },
+    {
+        "id": 2465,
+        "type": "Weapon",
+        "zh": "雷霆",
+        "en": "Fulmin"
+    },
+    {
+        "id": 2466,
+        "type": "Weapon",
+        "zh": "光谱切割器破坏者",
+        "en": "Spectra Vandal"
+    },
+    {
+        "id": 2467,
+        "type": "Weapon",
+        "zh": "冷冻光束步枪破坏者",
+        "en": "Glaxion Vandal"
+    },
+    {
+        "id": 2468,
+        "type": "Word",
+        "zh": "行动代号：恶意合并",
+        "en": "Operation: Hostile Mergers"
+    },
+    {
+        "id": 2469,
+        "type": "Other",
+        "zh": "电气浮囊 沙漠迷彩外观",
+        "en": "Desert Diriga Skin"
+    },
+    {
+        "id": 2470,
+        "type": "Mod",
+        "zh": "狂风猛踢",
+        "en": "Gale Kick"
+    },
+    {
+        "id": 2471,
+        "type": "Mod",
+        "zh": "反重力阵列",
+        "en": "Anti-Grav Array"
+    },
+    {
+        "id": 2472,
+        "type": "Mod",
+        "zh": "库娃的优雅",
+        "en": "Kavat's Grace"
+    },
+    {
+        "id": 2473,
+        "type": "Mod",
+        "zh": "气息疗愈",
+        "en": "Odomedic"
+    },
+    {
+        "id": 2474,
+        "type": "Mod",
+        "zh": "空飞 边际",
+        "en": "Aero Periphery"
+    },
+    {
+        "id": 2475,
+        "type": "Mod",
+        "zh": "空飞 俯瞰",
+        "en": "Aero Vantage"
+    },
+    {
+        "id": 2476,
+        "type": "Mod",
+        "zh": "质子 脉动",
+        "en": "Proton Pulse"
+    },
+    {
+        "id": 2477,
+        "type": "Mod",
+        "zh": "质子 喷射",
+        "en": "Proton Jet"
+    },
+    {
+        "id": 2478,
+        "type": "Mod",
+        "zh": "质子 猛扑",
+        "en": "Proton Snap"
+    },
+    {
+        "id": 2479,
+        "type": "Mod",
+        "zh": "跃动 信号",
+        "en": "Motus Signal"
+    },
+    {
+        "id": 2480,
+        "type": "Mod",
+        "zh": "跃动 冲击",
+        "en": "Motus Impact"
+    },
+    {
+        "id": 2481,
+        "type": "Mod",
+        "zh": "跃动 设局",
+        "en": "Motus Setup"
+    },
+    {
+        "id": 2482,
+        "type": "Mod",
+        "zh": "空飞 灵巧",
+        "en": "Aero Agility"
     }
 ]

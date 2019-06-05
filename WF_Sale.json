@@ -15958,5 +15958,96 @@
         "search": "shock_collar",
         "zh": "电击项圈",
         "en": "Shock Collar"
+    },
+    {
+        "id": 2412,
+        "type": "Mod",
+        "search": "gale_kick",
+        "zh": "狂风猛踢",
+        "en": "Gale Kick"
+    },
+    {
+        "id": 2413,
+        "type": "Mod",
+        "search": "anti_grav_array",
+        "zh": "反重力阵列",
+        "en": "Anti-Grav Array"
+    },
+    {
+        "id": 2414,
+        "type": "Mod",
+        "search": "kavats_grace",
+        "zh": "库娃的优雅",
+        "en": "Kavat's Grace"
+    },
+    {
+        "id": 2415,
+        "type": "Mod",
+        "search": "odomedic",
+        "zh": "气息疗愈",
+        "en": "Odomedic"
+    },
+    {
+        "id": 2416,
+        "type": "Mod",
+        "search": "aero_periphery",
+        "zh": "空飞 边际",
+        "en": "Aero Periphery"
+    },
+    {
+        "id": 2417,
+        "type": "Mod",
+        "search": "aero_vantage",
+        "zh": "空飞 俯瞰",
+        "en": "Aero Vantage"
+    },
+    {
+        "id": 2418,
+        "type": "Mod",
+        "search": "proton_pulse",
+        "zh": "质子 脉动",
+        "en": "Proton Pulse"
+    },
+    {
+        "id": 2419,
+        "type": "Mod",
+        "search": "proton_jet",
+        "zh": "质子 喷射",
+        "en": "Proton Jet"
+    },
+    {
+        "id": 2420,
+        "type": "Mod",
+        "search": "proton_snap",
+        "zh": "质子 猛扑",
+        "en": "Proton Snap"
+    },
+    {
+        "id": 2421,
+        "type": "Mod",
+        "search": "motus_signal",
+        "zh": "跃动 信号",
+        "en": "Motus Signal"
+    },
+    {
+        "id": 2422,
+        "type": "Mod",
+        "search": "motus_impact",
+        "zh": "跃动 冲击",
+        "en": "Motus Impact"
+    },
+    {
+        "id": 2423,
+        "type": "Mod",
+        "search": "motus_setup",
+        "zh": "跃动 设局",
+        "en": "Motus Setup"
+    },
+    {
+        "id": 2424,
+        "type": "Mod",
+        "search": "aero_agility",
+        "zh": "空飞 灵巧",
+        "en": "Aero Agility"
     }
 ]
