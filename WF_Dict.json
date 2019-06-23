@@ -14818,5 +14818,11 @@
         "type": "Mod",
         "zh": "空飞 灵巧",
         "en": "Aero Agility"
+    },
+    {
+        "id": 2483,
+        "type": "Other",
+        "zh": "LOTUS 棱晶浮印",
+        "en": "Avatar Image Baro Two Icon"
     }
 ]

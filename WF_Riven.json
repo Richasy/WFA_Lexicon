@@ -1944,5 +1944,26 @@
         "type": "Melee",
         "level": 3,
         "ratio": 1.0
+    },
+    {
+        "id": 291,
+        "name": "猛毒",
+        "type": "Rifle",
+        "level": 3,
+        "ratio": 1.0
+    },
+    {
+        "id": 292,
+        "name": "氰毒",
+        "type": "Pistol",
+        "level": 3,
+        "ratio": 1.0
+    },
+    {
+        "id": 293,
+        "name": "雷霆",
+        "type": "Rifle",
+        "level": 3,
+        "ratio": 1.0
     }
 ]
