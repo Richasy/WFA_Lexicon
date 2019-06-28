@@ -753,5 +753,15 @@
         "id": 152,
         "zh": "扫描25次对象或敌人",
         "en": "Scan 25 Objects or Enemies"
+    },
+    {
+        "id": 153,
+        "zh": "激励",
+        "en": "Energizing"
+    },
+    {
+        "id": 154,
+        "zh": "拾取20个能量球",
+        "en": "Pick up 20 Energy Orbs"
     }
 ]
