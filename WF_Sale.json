@@ -16147,5 +16147,40 @@
         "search": "ninkondi_prime_set",
         "zh": "降灵追猎者 PRIME 一套",
         "en": "Ninkondi Prime Set"
+    },
+    {
+        "id": 2439,
+        "type": "Warframe",
+        "search": "wukong_prime_set",
+        "zh": "猴子 PRIME 一套",
+        "en": "Wukong Prime Set"
+    },
+    {
+        "id": 2440,
+        "type": "Part",
+        "search": "wukong_prime_blueprint",
+        "zh": "猴子 PRIME 蓝图",
+        "en": "Wukong Prime Blueprint"
+    },
+    {
+        "id": 2441,
+        "type": "Part",
+        "search": "wukong_prime_neuroptics",
+        "zh": "猴子 PRIME 头部神经光元",
+        "en": "Wukong Prime Neuroptics"
+    },
+    {
+        "id": 2442,
+        "type": "Part",
+        "search": "wukong_prime_chassis",
+        "zh": "猴子 PRIME 机体",
+        "en": "Wukong Prime Chassis"
+    },
+    {
+        "id": 2443,
+        "type": "Part",
+        "search": "wukong_prime_systems",
+        "zh": "猴子 PRIME 系统",
+        "en": "Wukong Prime Systems"
     }
 ]

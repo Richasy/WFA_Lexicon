@@ -14950,5 +14950,11 @@
         "type": "Weapon",
         "zh": "诸葛连弩 PRIME",
         "en": "Zhuge Prime"
+    },
+    {
+        "id": 2505,
+        "type": "Word",
+        "zh": "Tenno Con 中继站",
+        "en": "Relay Station Tenno Con"
     }
 ]
