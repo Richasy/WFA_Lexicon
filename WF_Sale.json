@@ -16049,5 +16049,103 @@
         "search": "aero_agility",
         "zh": "空飞 灵巧",
         "en": "Aero Agility"
+    },
+    {
+        "id": 2425,
+        "type": "Part",
+        "search": "wukong_prime_blueprint",
+        "zh": "WUKONG PRIME 蓝图",
+        "en": "WUKONG PRIME Blueprint"
+    },
+    {
+        "id": 2426,
+        "type": "Part",
+        "search": "wukong_prime_neuroptics",
+        "zh": "WUKONG PRIME 头部神经光元",
+        "en": "WUKONG PRIME Neuroptics"
+    },
+    {
+        "id": 2427,
+        "type": "Part",
+        "search": "wukong_prime_chassis",
+        "zh": "WUKONG PRIME 机体",
+        "en": "WUKONG PRIME Chassis"
+    },
+    {
+        "id": 2428,
+        "type": "Part",
+        "search": "wukong_prime_systems",
+        "zh": "WUKONG PRIME 系统",
+        "en": "WUKONG PRIME Systems"
+    },
+    {
+        "id": 2429,
+        "type": "Warframe",
+        "search": "wukong_prime_set",
+        "zh": "WUKONG PRIME 一套",
+        "en": "WUKONG PRIME Set"
+    },
+    {
+        "id": 2430,
+        "type": "Weapon",
+        "search": "zhuge_prime_set",
+        "zh": "诸葛连弩 PRIME 一套",
+        "en": "Zhuge Prime Set"
+    },
+    {
+        "id": 2431,
+        "type": "Part",
+        "search": "zhuge_prime_barrel",
+        "zh": "诸葛连弩 PRIME 枪管",
+        "en": "Zhuge Prime Barrel"
+    },
+    {
+        "id": 2432,
+        "type": "Part",
+        "search": "zhuge_prime_grip",
+        "zh": "诸葛连弩 PRIME 握柄",
+        "en": "Zhuge Prime Grip"
+    },
+    {
+        "id": 2433,
+        "type": "Part",
+        "search": "zhuge_prime_blueprint",
+        "zh": "诸葛连弩 PRIME 蓝图",
+        "en": "Zhuge Prime Blueprint"
+    },
+    {
+        "id": 2434,
+        "type": "Part",
+        "search": "zhuge_prime_receiver",
+        "zh": "诸葛连弩 PRIME 枪机",
+        "en": "Zhuge Prime Receiver"
+    },
+    {
+        "id": 2435,
+        "type": "Part",
+        "search": "ninkondi_prime_blueprint",
+        "zh": "降灵追猎者 PRIME 总图",
+        "en": "Ninkondi Prime Blueprint"
+    },
+    {
+        "id": 2436,
+        "type": "Part",
+        "search": "ninkondi_prime_chain",
+        "zh": "降灵追猎者 PRIME 链条",
+        "en": "Ninkondi Prime Chain"
+    },
+    {
+        "id": 2437,
+        "type": "Part",
+        "search": "ninkondi_prime_handle",
+        "zh": "降灵追猎者 PRIME 握柄",
+        "en": "Ninkondi Prime Handle"
+    },
+    {
+        "id": 2438,
+        "type": "Weapon",
+        "search": "ninkondi_prime_set",
+        "zh": "降灵追猎者 PRIME 一套",
+        "en": "Ninkondi Prime Set"
     }
 ]

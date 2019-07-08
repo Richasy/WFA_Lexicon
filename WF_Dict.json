@@ -14824,5 +14824,131 @@
         "type": "Other",
         "zh": "LOTUS 棱晶浮印",
         "en": "Avatar Image Baro Two Icon"
+    },
+    {
+        "id": 2484,
+        "type": "Other",
+        "zh": "任务",
+        "en": "Mission"
+    },
+    {
+        "id": 2485,
+        "type": "Word",
+        "zh": "部件",
+        "en": "Part"
+    },
+    {
+        "id": 2486,
+        "type": "Word",
+        "zh": "塑像",
+        "en": "Sculpture"
+    },
+    {
+        "id": 2487,
+        "type": "Word",
+        "zh": "武器",
+        "en": "Weapon"
+    },
+    {
+        "id": 2488,
+        "type": "Word",
+        "zh": "战甲",
+        "en": "Warframe"
+    },
+    {
+        "id": 2489,
+        "type": "Word",
+        "zh": "其它",
+        "en": "Other"
+    },
+    {
+        "id": 2490,
+        "type": "Word",
+        "zh": "飞行装甲",
+        "en": "Archwing"
+    },
+    {
+        "id": 2491,
+        "type": "Word",
+        "zh": "资源",
+        "en": "Resource"
+    },
+    {
+        "id": 2492,
+        "type": "Word",
+        "zh": "守护",
+        "en": "Sentinel"
+    },
+    {
+        "id": 2493,
+        "type": "Word",
+        "zh": "晶体",
+        "en": "Len"
+    },
+    {
+        "id": 2494,
+        "type": "Word",
+        "zh": "场景",
+        "en": "Scene"
+    },
+    {
+        "id": 2495,
+        "type": "Word",
+        "zh": "同伴",
+        "en": "Companions"
+    },
+    {
+        "id": 2496,
+        "type": "Word",
+        "zh": "赋能",
+        "en": "Arcane"
+    },
+    {
+        "id": 2497,
+        "type": "Word",
+        "zh": "外观",
+        "en": "Skin"
+    },
+    {
+        "id": 2498,
+        "type": "Word",
+        "zh": "外观",
+        "en": "Appearance"
+    },
+    {
+        "id": 2499,
+        "type": "Word",
+        "zh": "遗物",
+        "en": "Relic"
+    },
+    {
+        "id": 2500,
+        "type": "Word",
+        "zh": "组合枪",
+        "en": "Kitgun"
+    },
+    {
+        "id": 2501,
+        "type": "Word",
+        "zh": "突击步枪",
+        "en": "Assault Rifle Only"
+    },
+    {
+        "id": 2502,
+        "type": "Warframe",
+        "zh": "WUKONG PRIME",
+        "en": "WUKONG PRIME"
+    },
+    {
+        "id": 2503,
+        "type": "Weapon",
+        "zh": "降灵追猎者 PRIME",
+        "en": "Ninkondi Prime"
+    },
+    {
+        "id": 2504,
+        "type": "Weapon",
+        "zh": "诸葛连弩 PRIME",
+        "en": "Zhuge Prime"
     }
 ]
