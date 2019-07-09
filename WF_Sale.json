@@ -16103,7 +16103,7 @@
         "id": 2432,
         "type": "Part",
         "search": "zhuge_prime_grip",
-        "zh": "诸葛连弩 PRIME 握柄",
+        "zh": "诸葛连弩 PRIME 弓身",
         "en": "Zhuge Prime Grip"
     },
     {
@@ -16182,5 +16182,12 @@
         "search": "wukong_prime_systems",
         "zh": "猴子 PRIME 系统",
         "en": "Wukong Prime Systems"
+    },
+    {
+        "id": 2444,
+        "type": "Part",
+        "search": "zhuge_prime_string",
+        "zh": "诸葛连弩 PRIME 弓弦",
+        "en": "Zhuge Prime String"
     }
 ]
