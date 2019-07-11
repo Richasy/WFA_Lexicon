@@ -14956,5 +14956,11 @@
         "type": "Word",
         "zh": "Tenno Con 中继站",
         "en": "Relay Station Tenno Con"
+    },
+    {
+        "id": 2506,
+        "type": "Mod",
+        "zh": "取回",
+        "en": "Fetch"
     }
 ]

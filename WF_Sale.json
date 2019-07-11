@@ -16189,5 +16189,12 @@
         "search": "zhuge_prime_string",
         "zh": "诸葛连弩 PRIME 弓弦",
         "en": "Zhuge Prime String"
+    },
+    {
+        "id": 2445,
+        "type": "Mod",
+        "search": "fetch",
+        "zh": "取回",
+        "en": "Fetch"
     }
 ]
