@@ -763,5 +763,15 @@
         "id": 154,
         "zh": "拾取20个能量球",
         "en": "Pick up 20 Energy Orbs"
+    },
+    {
+        "id": 155,
+        "zh": "涂鸦",
+        "en": "Graffiti"
+    },
+    {
+        "id": 156,
+        "zh": "设置一枚浮印",
+        "en": "Deploy a Glyph while in a mission"
     }
 ]
