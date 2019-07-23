@@ -14962,5 +14962,17 @@
         "type": "Mod",
         "zh": "取回",
         "en": "Fetch"
+    },
+    {
+        "id": 2507,
+        "type": "Other",
+        "zh": "库娃半身铜像",
+        "en": "Kavat Bust"
+    },
+    {
+        "id": 2508,
+        "type": "Mod",
+        "zh": "致命效率",
+        "en": "Deadly Efficiency"
     }
 ]
