@@ -14962,5 +14962,360 @@
         "type": "Mod",
         "zh": "取回",
         "en": "Fetch"
+    },
+    {
+        "id": 2507,
+        "type": "Relic",
+        "zh": "古纪 A1",
+        "en": "Lith A3"
+    },
+    {
+        "id": 2508,
+        "type": "Relic",
+        "zh": "古纪 B6",
+        "en": "Lith B6"
+    },
+    {
+        "id": 2509,
+        "type": "Relic",
+        "zh": "古纪 C4",
+        "en": "Lith C4"
+    },
+    {
+        "id": 2510,
+        "type": "Relic",
+        "zh": "古纪 K2",
+        "en": "Lith K2"
+    },
+    {
+        "id": 2511,
+        "type": "Relic",
+        "zh": "古纪 L1",
+        "en": "Lith L1"
+    },
+    {
+        "id": 2512,
+        "type": "Relic",
+        "zh": "古纪 M3",
+        "en": "Lith M3"
+    },
+    {
+        "id": 2513,
+        "type": "Relic",
+        "zh": "古纪 M4",
+        "en": "Lith M4"
+    },
+    {
+        "id": 2514,
+        "type": "Relic",
+        "zh": "古纪 P2",
+        "en": "Lith P2"
+    },
+    {
+        "id": 2515,
+        "type": "Relic",
+        "zh": "古纪 B4",
+        "en": "Lith B4"
+    },
+    {
+        "id": 2515,
+        "type": "Relic",
+        "zh": "古纪 W1",
+        "en": "Lith W1"
+    },
+    {
+        "id": 2516,
+        "type": "Relic",
+        "zh": "前纪 A1",
+        "en": "Meso A1"
+    },
+    {
+        "id": 2517,
+        "type": "Relic",
+        "zh": "前纪 A2",
+        "en": "Meso A2"
+    },
+    {
+        "id": 2518,
+        "type": "Relic",
+        "zh": "前纪 D3",
+        "en": "Meso D3"
+    },
+    {
+        "id": 2519,
+        "type": "Relic",
+        "zh": "前纪 E2",
+        "en": "Meso E2"
+    },
+    {
+        "id": 2520,
+        "type": "Relic",
+        "zh": "前纪 M2",
+        "en": "Meso M2"
+    },
+    {
+        "id": 2521,
+        "type": "Relic",
+        "zh": "前纪 M3",
+        "en": "Meso M3"
+    },
+    {
+        "id": 2522,
+        "type": "Relic",
+        "zh": "前纪 N6",
+        "en": "Meso N6"
+    },
+    {
+        "id": 2523,
+        "type": "Relic",
+        "zh": "前纪 N7",
+        "en": "Meso N7"
+    },
+    {
+        "id": 2524,
+        "type": "Relic",
+        "zh": "前纪 O3",
+        "en": "Meso O3"
+    },
+    {
+        "id": 2525,
+        "type": "Relic",
+        "zh": "前纪 P1",
+        "en": "Meso P1"
+    },
+    {
+        "id": 2526,
+        "type": "Relic",
+        "zh": "前纪 R1",
+        "en": "Meso R1"
+    },
+    {
+        "id": 2527,
+        "type": "Relic",
+        "zh": "前纪 S8",
+        "en": "Meso S8"
+    },
+    {
+        "id": 2528,
+        "type": "Relic",
+        "zh": "前纪 S9",
+        "en": "Meso S9"
+    },
+    {
+        "id": 2529,
+        "type": "Relic",
+        "zh": "前纪 T3",
+        "en": "Meso T3"
+    },
+    {
+        "id": 2530,
+        "type": "Relic",
+        "zh": "前纪 Z2",
+        "en": "Meso Z2"
+    },
+    {
+        "id": 2531,
+        "type": "Relic",
+        "zh": "前纪 Z3",
+        "en": "Meso Z3"
+    },
+    {
+        "id": 2532,
+        "type": "Relic",
+        "zh": "前纪 K2",
+        "en": "Meso K2"
+    },
+    {
+        "id": 2533,
+        "type": "Relic",
+        "zh": "中纪 A2",
+        "en": "Neo A2"
+    },
+    {
+        "id": 2534,
+        "type": "Relic",
+        "zh": "中纪 C1",
+        "en": "Neo C1"
+    },
+    {
+        "id": 2535,
+        "type": "Relic",
+        "zh": "中纪 G1",
+        "en": "Neo G1"
+    },
+    {
+        "id": 2536,
+        "type": "Relic",
+        "zh": "中纪 M2",
+        "en": "Neo M2"
+    },
+    {
+        "id": 2537,
+        "type": "Relic",
+        "zh": "中纪 N8",
+        "en": "Neo N8"
+    },
+    {
+        "id": 2538,
+        "type": "Relic",
+        "zh": "中纪 N10",
+        "en": "Neo N10"
+    },
+    {
+        "id": 2539,
+        "type": "Relic",
+        "zh": "中纪 R2",
+        "en": "Neo R2"
+    },
+    {
+        "id": 2540,
+        "type": "Relic",
+        "zh": "中纪 S9",
+        "en": "Neo S9"
+    },
+    {
+        "id": 2541,
+        "type": "Relic",
+        "zh": "中纪 S11",
+        "en": "Neo S11"
+    },
+    {
+        "id": 2542,
+        "type": "Relic",
+        "zh": "中纪 S12",
+        "en": "Neo S12"
+    },
+    {
+        "id": 2543,
+        "type": "Relic",
+        "zh": "中纪 V8",
+        "en": "Neo V8"
+    },
+    {
+        "id": 2544,
+        "type": "Relic",
+        "zh": "中纪 Z2",
+        "en": "Neo Z2"
+    },
+    {
+        "id": 2545,
+        "type": "Relic",
+        "zh": "中纪 Z3",
+        "en": "Neo Z3"
+    },
+    {
+        "id": 2546,
+        "type": "Relic",
+        "zh": "中纪 R1",
+        "en": "Neo R1"
+    },
+    {
+        "id": 2547,
+        "type": "Relic",
+        "zh": "后纪 A4",
+        "en": "Axi A4"
+    },
+    {
+        "id": 2548,
+        "type": "Relic",
+        "zh": "后纪 C4",
+        "en": "Axi C4"
+    },
+    {
+        "id": 2549,
+        "type": "Relic",
+        "zh": "后纪 D1",
+        "en": "Axi D1"
+    },
+    {
+        "id": 2550,
+        "type": "Relic",
+        "zh": "后纪 H4",
+        "en": "Axi H4"
+    },
+    {
+        "id": 2551,
+        "type": "Relic",
+        "zh": "后纪 K4",
+        "en": "Axi K4"
+    },
+    {
+        "id": 2552,
+        "type": "Relic",
+        "zh": "后纪 K5",
+        "en": "Axi K5"
+    },
+    {
+        "id": 2553,
+        "type": "Relic",
+        "zh": "后纪 L2",
+        "en": "Axi L2"
+    },
+    {
+        "id": 2554,
+        "type": "Relic",
+        "zh": "后纪 L3",
+        "en": "Axi L3"
+    },
+    {
+        "id": 2555,
+        "type": "Relic",
+        "zh": "后纪 L5",
+        "en": "Axi L5"
+    },
+    {
+        "id": 2556,
+        "type": "Relic",
+        "zh": "后纪 M1",
+        "en": "Axi M1"
+    },
+    {
+        "id": 2557,
+        "type": "Relic",
+        "zh": "后纪 N6",
+        "en": "Axi N6"
+    },
+    {
+        "id": 2558,
+        "type": "Relic",
+        "zh": "后纪 O2",
+        "en": "Axi O2"
+    },
+    {
+        "id": 2559,
+        "type": "Relic",
+        "zh": "后纪 O4",
+        "en": "Axi O4"
+    },
+    {
+        "id": 2560,
+        "type": "Relic",
+        "zh": "后纪 P1",
+        "en": "Axi P1"
+    },
+    {
+        "id": 2561,
+        "type": "Relic",
+        "zh": "后纪 R2",
+        "en": "Axi R2"
+    },
+    {
+        "id": 2562,
+        "type": "Relic",
+        "zh": "后纪 T2",
+        "en": "Axi T2"
+    },
+    {
+        "id": 2563,
+        "type": "Relic",
+        "zh": "后纪 G2",
+        "en": "Axi G2"
+    },
+    {
+        "id": 2564,
+        "type": "Relic",
+        "zh": "后纪 S3",
+        "en": "Axi S3"
     }
+]
 ]
