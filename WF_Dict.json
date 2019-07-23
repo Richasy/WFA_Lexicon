@@ -15018,12 +15018,6 @@
         "en": "Lith B4"
     },
     {
-        "id": 2515,
-        "type": "Relic",
-        "zh": "古纪 W1",
-        "en": "Lith W1"
-    },
-    {
         "id": 2516,
         "type": "Relic",
         "zh": "前纪 A1",
@@ -15316,5 +15310,11 @@
         "type": "Relic",
         "zh": "后纪 S3",
         "en": "Axi S3"
+    },
+    {
+        "id": 2565,
+        "type": "Relic",
+        "zh": "古纪 W1",
+        "en": "Lith W1"
     }
 ]
