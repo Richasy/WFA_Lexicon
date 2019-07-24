@@ -16196,5 +16196,12 @@
         "search": "fetch",
         "zh": "取回",
         "en": "Fetch"
+    },
+    {
+        "id": 2446,
+        "type": "Mod",
+        "search": "deadly_efficiency",
+        "zh": "致命效率",
+        "en": "Deadly Efficiency"
     }
 ]
