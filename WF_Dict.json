@@ -14974,5 +14974,29 @@
         "type": "Mod",
         "zh": "致命效率",
         "en": "Deadly Efficiency"
+    },
+    {
+        "id": 2509,
+        "type": "Mod",
+        "zh": "高效光束",
+        "en": "Efficient Beams"
+    },
+    {
+        "id": 2510,
+        "type": "Mod",
+        "zh": "暴露鱼叉",
+        "en": "Exposing Harpoon"
+    },
+    {
+        "id": 2511,
+        "type": "Mod",
+        "zh": "细心瞄准",
+        "en": "Meticulous Aim"
+    },
+    {
+        "id": 2512,
+        "type": "Word",
+        "zh": "战术警报：三伏天",
+        "en": "Tactical Alert: Dog Days"
     }
 ]

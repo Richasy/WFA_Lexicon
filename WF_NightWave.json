@@ -773,5 +773,40 @@
         "id": 156,
         "zh": "设置一枚浮印",
         "en": "Deploy a Glyph while in a mission"
+    },
+    {
+        "id": 157,
+        "zh": "登舰时刻",
+        "en": "Now Boarding"
+    },
+    {
+        "id": 158,
+        "zh": "在奥步山谷完成3轮不同的K式悬浮板比赛",
+        "en": "Complete 3 different K-Drive races in Orb Vallis"
+    },
+    {
+        "id": 159,
+        "zh": "巨牙重击",
+        "en": "Tusk Thumpin"
+    },
+    {
+        "id": 160,
+        "zh": "在夜灵平野上击杀一个巨牙重击者",
+        "en": "Kill a Tusk Thumper in the Plains of Eidolon"
+    },
+    {
+        "id": 161,
+        "zh": "在奥布山谷完成5项不同的赏金任务",
+        "en": "Complete 5 different bounties in the Orb Vallis"
+    },
+    {
+        "id": 162,
+        "zh": "无律之行",
+        "en": "Walk Without Rhythm"
+    },
+    {
+        "id": 163,
+        "zh": "在夜灵平野上击杀一个巨牙重击者朵玛",
+        "en": "Kill a Tusk Thumper Doma in the Plains of Eidolon"
     }
 ]

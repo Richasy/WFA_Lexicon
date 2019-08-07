@@ -16203,5 +16203,26 @@
         "search": "deadly_efficiency",
         "zh": "致命效率",
         "en": "Deadly Efficiency"
+    },
+    {
+        "id": 2447,
+        "type": "Mod",
+        "search": "efficient_beams",
+        "zh": "高效光束",
+        "en": "Efficient Beams"
+    },
+    {
+        "id": 2448,
+        "type": "Mod",
+        "search": "exposing_harpoon",
+        "zh": "暴露鱼叉",
+        "en": "Exposing Harpoon"
+    },
+    {
+        "id": 2449,
+        "type": "Mod",
+        "search": "meticulous_aim",
+        "zh": "细心瞄准",
+        "en": "Meticulous Aim"
     }
 ]
