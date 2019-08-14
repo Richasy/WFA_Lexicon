@@ -808,5 +808,15 @@
         "id": 163,
         "zh": "在夜灵平野上击杀一个巨牙重击者朵玛",
         "en": "Kill a Tusk Thumper Doma in the Plains of Eidolon"
+    },
+    {
+        "id": 164,
+        "zh": "防御",
+        "en": "Defense"
+    },
+    {
+        "id": 165,
+        "zh": "完成一场至少到20波的防御任务",
+        "en": "Complete a Defense mission reaching at least Wave 20"
     }
 ]
