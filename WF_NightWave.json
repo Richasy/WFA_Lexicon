@@ -818,5 +818,25 @@
         "id": 165,
         "zh": "完成一场至少到20波的防御任务",
         "en": "Complete a Defense mission reaching at least Wave 20"
+    },
+    {
+        "id": 166,
+        "zh": "无需惧怕死神",
+        "en": "Don't Fear The Reaper"
+    },
+    {
+        "id": 167,
+        "zh": "完成3个赤毒虹吸器任务",
+        "en": "Complete 3 Kuva Siphon Missions"
+    },
+    {
+        "id": 168,
+        "zh": "忠心不二",
+        "en": "Loyalty"
+    },
+    {
+        "id": 169,
+        "zh": "与你的库狛或库娃互动",
+        "en": "Interact with your Kubrow or Kavat"
     }
 ]
