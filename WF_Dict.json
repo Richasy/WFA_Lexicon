@@ -14631,13 +14631,13 @@
         "id": 2451,
         "type": "Other",
         "zh": "棱晶 飞空肩甲",
-        "en": "Prisma Avia Shoulder Plates"
+        "en": "Prisma Avia Shoulder Plate"
     },
     {
         "id": 2452,
         "type": "Other",
         "zh": "棱晶 飞空踝甲",
-        "en": "Prisma Avia Leg Plates"
+        "en": "Prisma Avia Ankle Plate"
     },
     {
         "id": 2453,
@@ -14998,5 +14998,35 @@
         "type": "Word",
         "zh": "战术警报：三伏天",
         "en": "Tactical Alert: Dog Days"
+    },
+    {
+        "id": 2513,
+        "type": "Mod",
+        "zh": "领袖 PRIME",
+        "en": "Primed Pack Leader"
+    },
+    {
+        "id": 2514,
+        "type": "Word",
+        "zh": "5x 堕落机枪兵魅影",
+        "en": "5x Corrupted Heavy Gunner Specter"
+    },
+    {
+        "id": 2515,
+        "type": "Warframe",
+        "zh": "GAUSS",
+        "en": "GAUSS"
+    },
+    {
+        "id": 2516,
+        "type": "Weapon",
+        "zh": "迅发电浆炮",
+        "en": "Acceltra"
+    },
+    {
+        "id": 2517,
+        "type": "Weapon",
+        "zh": "阿利乌双枪",
+        "en": "Akarius"
     }
 ]

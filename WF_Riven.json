@@ -2028,5 +2028,19 @@
         "type": "ARCHWING",
         "level": 2,
         "ratio": 0.8
+    },
+    {
+        "id": 303,
+        "name": "阿利乌双枪",
+        "type": "Pistol",
+        "level": 3,
+        "ratio": 1.0
+    },
+    {
+        "id": 304,
+        "name": "迅发电浆炮",
+        "type": "Rifle",
+        "level": 3,
+        "ratio": 1.0
     }
 ]
