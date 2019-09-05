@@ -15028,5 +15028,11 @@
         "type": "Weapon",
         "zh": "阿利乌双枪",
         "en": "Akarius"
+    },
+    {
+        "id": 2518,
+        "type": "Mod",
+        "zh": "火焰腺体",
+        "en": "Flame Gland"
     }
 ]

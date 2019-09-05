@@ -16224,5 +16224,19 @@
         "search": "meticulous_aim",
         "zh": "细心瞄准",
         "en": "Meticulous Aim"
+    },
+    {
+        "id": 2450,
+        "type": "Mod",
+        "search": "primed_pack_leader",
+        "zh": "领袖 PRIME",
+        "en": "Primed Pack Leader"
+    },
+    {
+        "id": 2451,
+        "type": "Mod",
+        "search": "flame_gland",
+        "zh": "火焰腺体",
+        "en": "Flame Gland"
     }
 ]
