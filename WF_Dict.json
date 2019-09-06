@@ -15034,5 +15034,11 @@
         "type": "Mod",
         "zh": "火焰腺体",
         "en": "Flame Gland"
+    },
+    {
+        "id": 2519,
+        "type": "Mission",
+        "zh": "中断",
+        "en": "Disruption"
     }
 ]
