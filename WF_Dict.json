@@ -15040,5 +15040,17 @@
         "type": "Mission",
         "zh": "中断",
         "en": "Disruption"
+    },
+    {
+        "id": 2520,
+        "type": "Warframe",
+        "zh": "ALTAS PRIME",
+        "en": "Altas Prime"
+    },
+    {
+        "id": 2521,
+        "type": "Warframe",
+        "zh": "ALTAS PRIME",
+        "en": "Altas Prime"
     }
 ]
