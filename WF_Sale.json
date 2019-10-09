@@ -16242,72 +16242,72 @@
     {
         "id": 2452,
         "type": "Part",
-        "search": "altas_prime_blueprint",
-        "zh": "Altas Prime 蓝图",
-        "en": "Altas Prime Blueprint"
+        "search": "atlas_prime_blueprint",
+        "zh": "Atlas Prime 蓝图",
+        "en": "Atlas Prime Blueprint"
     },
     {
         "id": 2453,
         "type": "Part",
-        "search": "altas_prime_neuroptics",
-        "zh": "Altas Prime 头部神经光元",
-        "en": "Altas Prime Neuroptics"
+        "search": "atlas_prime_neuroptics",
+        "zh": "Atlas Prime 头部神经光元",
+        "en": "Atlas Prime Neuroptics"
     },
     {
         "id": 2454,
         "type": "Part",
-        "search": "altas_prime_chassis",
-        "zh": "Altas Prime 机体",
-        "en": "Altas Prime Chassis"
+        "search": "atlas_prime_chassis",
+        "zh": "Atlas Prime 机体",
+        "en": "Atlas Prime Chassis"
     },
     {
         "id": 2455,
         "type": "Part",
-        "search": "altas_prime_systems",
-        "zh": "Altas Prime 系统",
-        "en": "Altas Prime Systems"
+        "search": "atlas_prime_systems",
+        "zh": "Atlas Prime 系统",
+        "en": "Atlas Prime Systems"
     },
     {
         "id": 2456,
         "type": "Warframe",
-        "search": "altas_prime_set",
-        "zh": "Altas Prime 一套",
-        "en": "Altas Prime Set"
+        "search": "atlas_prime_set",
+        "zh": "Atlas Prime 一套",
+        "en": "Atlas Prime Set"
     },
     {
         "id": 2457,
         "type": "Part",
-        "search": "altas_prime_blueprint",
+        "search": "atlas_prime_blueprint",
         "zh": "土甲 Prime 蓝图",
-        "en": "Altas Prime Blueprint"
+        "en": "Atlas Prime Blueprint"
     },
     {
         "id": 2458,
         "type": "Part",
-        "search": "altas_prime_neuroptics",
+        "search": "atlas_prime_neuroptics",
         "zh": "土甲 Prime 头部神经光元",
-        "en": "Altas Prime Neuroptics"
+        "en": "Atlas Prime Neuroptics"
     },
     {
         "id": 2459,
         "type": "Part",
-        "search": "altas_prime_chassis",
+        "search": "atlas_prime_chassis",
         "zh": "土甲 Prime 机体",
-        "en": "Altas Prime Chassis"
+        "en": "Atlas Prime Chassis"
     },
     {
         "id": 2460,
         "type": "Part",
-        "search": "altas_prime_systems",
+        "search": "atlas_prime_systems",
         "zh": "土甲 Prime 系统",
-        "en": "Altas Prime Systems"
+        "en": "Atlas Prime Systems"
     },
     {
         "id": 2461,
         "type": "Warframe",
-        "search": "altas_prime_set",
+        "search": "atlas_prime_set",
         "zh": "土甲 Prime 一套",
-        "en": "Altas Prime Set"
+        "en": "Atlas Prime Set"
     },
     {
         "id": 2462,
