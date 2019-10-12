@@ -15046,5 +15046,35 @@
         "type": "Warframe",
         "zh": "ATLAS PRIME",
         "en": "Altas Prime"
+    },
+    {
+        "id": 2522,
+        "type": "Other",
+        "zh": "3天MOD掉落几率加成",
+        "en": "Mod Drop Chance Booster3 Day Store Item"
+    },
+    {
+        "id": 2523,
+        "type": "Other",
+        "zh": "在我腹中浮印",
+        "en": "Halloween2019 Grendel Treat"
+    },
+    {
+        "id": 2524,
+        "type": "Other",
+        "zh": "维萨亡灵节库娃护甲",
+        "en": "Wysar Day Of The Dead Kavat Armor"
+    },
+    {
+        "id": 2525,
+        "type": "Other",
+        "zh": "恐惧 亡灵节外观",
+        "en": "Halloween Dread"
+    },
+    {
+        "id": 2526,
+        "type": "Word",
+        "zh": "利刃豺狼舰队",
+        "en": "Razorback Armada"
     }
 ]

@@ -868,5 +868,20 @@
         "id": 175,
         "zh": "在赤毒生存任务中不使用维生装置坚持30分钟",
         "en": "Survive for over 30 minutes without using Life Suport Modules in Kuva Survival"
+    },
+    {
+        "id": 176,
+        "zh": "完成8个精英级圣殿突袭区域",
+        "en": "Complete 8 Zones of Elite Sanctuary Onslaught"
+    },
+    {
+        "id": 177,
+        "zh": "生存",
+        "en": "Survival"
+    },
+    {
+        "id": 178,
+        "zh": "完成一场至少30分钟的生存任务",
+        "en": "Complete a Survival mission reaching at least 30 minutes"
     }
 ]
