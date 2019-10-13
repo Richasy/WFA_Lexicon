@@ -16320,14 +16320,14 @@
         "id": 2463,
         "type": "Part",
         "search": "dethcube_prime_carapace",
-        "zh": "死亡魔方 Prime 外壳",
+        "zh": "死亡魔方 Prime 甲壳",
         "en": "Dethcube Prime Carapace"
     },
     {
         "id": 2464,
         "type": "Part",
         "search": "dethcube_prime_cerebrum",
-        "zh": "死亡魔方 Prime 头部神经光元",
+        "zh": "死亡魔方 Prime 头部",
         "en": "Dethcube Prime Cerebrum"
     },
     {
@@ -16341,7 +16341,7 @@
         "id": 2466,
         "type": "Part",
         "search": "dethcube_prime_systems",
-        "zh": "死亡魔方 Prime 系统",
+        "zh": "死亡魔方 Prime 外壳",
         "en": "Dethcube Prime Systems"
     },
     {
