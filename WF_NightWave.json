@@ -883,5 +883,10 @@
         "id": 178,
         "zh": "完成一场至少30分钟的生存任务",
         "en": "Complete a Survival mission reaching at least 30 minutes"
+    },
+    {
+        "id": 180,
+        "zh": "在夜灵平野完成5项不同的赏金任务",
+        "en": "Complete 5 different Bounties in the Plains of Eidolon"
     }
 ]

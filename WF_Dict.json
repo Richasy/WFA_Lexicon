@@ -15076,5 +15076,29 @@
         "type": "Word",
         "zh": "利刃豺狼舰队",
         "en": "Razorback Armada"
+    },
+    {
+        "id": 2527,
+        "type": "Word",
+        "zh": "战术警报：万圣之焰",
+        "en": "Tac Alert Halloween Lantern"
+    },
+    {
+        "id": 2528,
+        "type": "Word",
+        "zh": "战术警报：万圣之焰-无尽",
+        "en": "Tac Alert Halloween Lantern Endless"
+    },
+    {
+        "id": 2529,
+        "type": "Other",
+        "zh": "希望 乐升饰物",
+        "en": "Baro Ki Teer Decoration E"
+    },
+    {
+        "id": 2530,
+        "type": "Other",
+        "zh": "花束 乐升饰物",
+        "en": "Baro Ki Teer Decoration F"
     }
 ]
