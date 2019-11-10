@@ -15100,5 +15100,29 @@
         "type": "Other",
         "zh": "花束 乐升饰物",
         "en": "Baro Ki Teer Decoration F"
+    },
+    {
+        "id": 2531,
+        "type": "Word",
+        "zh": "初始连击",
+        "en": "Initial Combo"
+    },
+    {
+        "id": 2532,
+        "type": "Word",
+        "zh": "连击效率",
+        "en": "Combo Efficiency"
+    },
+    {
+        "id": 2533,
+        "type": "Word",
+        "zh": "几率获得额外连击数",
+        "en": "(+)Combo Count Chance"
+    },
+    {
+        "id": 2534,
+        "type": "Word",
+        "zh": "几率无法获得连击数",
+        "en": "(-)Combo Count Chance"
     }
 ]
