@@ -9957,7 +9957,7 @@
         "id": 1661,
         "type": "Other",
         "zh": "KI'TEER 冬至披饰",
-        "en": "Solstice Ki'teer Syandana"
+        "en": "Ki'Teer Solstice Syandana"
     },
     {
         "id": 1662,
@@ -13593,13 +13593,13 @@
         "id": 2275,
         "type": "Other",
         "zh": "饼干库娃浮印",
-        "en": "Avatar Image Glyph Cookie Kavat"
+        "en": "Cookie Kavat Glyph"
     },
     {
         "id": 2276,
         "type": "Other",
         "zh": "饼干库狛浮印",
-        "en": "Avatar Image Glyph Cookie Kubrow"
+        "en": "Cookie Kubrow Glyph"
     },
     {
         "id": 2277,
@@ -15124,5 +15124,29 @@
         "type": "Word",
         "zh": "几率无法获得连击数",
         "en": "(-)Combo Count Chance"
+    },
+    {
+        "id": 2535,
+        "type": "Other",
+        "zh": "矽镁 乐升饰物",
+        "en": "Baro Ki Teer Decoration G"
+    },
+    {
+        "id": 2536,
+        "type": "Other",
+        "zh": "时光 乐升饰物",
+        "en": "Baro Ki Teer Decoration H"
+    },
+    {
+        "id": 2537,
+        "type": "Other",
+        "zh": "领袖徽章",
+        "en": "Pack Leader Emblem"
+    },
+    {
+        "id": 2538,
+        "type": "Other",
+        "zh": "耀目徽章",
+        "en": "Glaring Emblem"
     }
 ]
