@@ -6589,9 +6589,9 @@
     {
         "id": 977,
         "type": "Mod",
-        "search": "vermilion_storm",
+        "search": "vermillion_storm",
         "zh": "朱红暴风",
-        "en": "Vermilion Storm"
+        "en": "Vermillion Storm"
     },
     {
         "id": 978,
@@ -16371,5 +16371,110 @@
         "search": "tekko_prime_blueprint",
         "zh": "铁钩手甲 Prime 蓝图",
         "en": "Tekko Prime Blueprint"
+    },
+    {
+        "id": 2472,
+        "type": "Warframe",
+        "search": "ivara_prime_set",
+        "zh": "IVARA PRIME 一套",
+        "en": "Ivara Prime Set"
+    },
+    {
+        "id": 2473,
+        "type": "Part",
+        "search": "ivara_prime_neuroptics",
+        "zh": "IVARA PRIME 头部神经光元",
+        "en": "Ivara Prime Neuroptics"
+    },
+    {
+        "id": 2474,
+        "type": "Part",
+        "search": "ivara_prime_blueprint",
+        "zh": "IVARA PRIME 蓝图",
+        "en": "Ivara Prime Blueprint"
+    },
+    {
+        "id": 2475,
+        "type": "Part",
+        "search": "ivara_prime_chassis",
+        "zh": "IVARA PRIME 机体",
+        "en": "Ivara Prime Chassis"
+    },
+    {
+        "id": 2476,
+        "type": "Part",
+        "search": "ivara_prime_systems",
+        "zh": "IVARA PRIME 系统",
+        "en": "Ivara Prime Systems"
+    },
+    {
+        "id": 2477,
+        "type": "Weapon",
+        "search": "baza_prime_set",
+        "zh": "苍鹰 PRIME 一套",
+        "en": "Baza Prime Set"
+    },
+    {
+        "id": 2478,
+        "type": "Part",
+        "search": "baza_prime_barrel",
+        "zh": "苍鹰 PRIME 枪管",
+        "en": "Baza Prime Barrel"
+    },
+    {
+        "id": 2479,
+        "type": "Part",
+        "search": "baza_prime_stock",
+        "zh": "苍鹰 PRIME 枪托",
+        "en": "Baza Prime Stock"
+    },
+    {
+        "id": 2480,
+        "type": "Part",
+        "search": "baza_prime_receiver",
+        "zh": "苍鹰 PRIME 枪机",
+        "en": "Baza Prime Receiver"
+    },
+    {
+        "id": 2481,
+        "type": "Part",
+        "search": "baza_prime_blueprint",
+        "zh": "苍鹰 PRIME 蓝图",
+        "en": "Baza Prime Blueprint"
+    },
+    {
+        "id": 2482,
+        "type": "Weapon",
+        "search": "aksomati_prime_set",
+        "zh": "轻灵月神双枪 PRIME 一套",
+        "en": "Aksomati Prime Set"
+    },
+    {
+        "id": 2483,
+        "type": "Part",
+        "search": "aksomati_prime_link",
+        "zh": "轻灵月神双枪 PRIME 连接器",
+        "en": "Aksomati Prime Link"
+    },
+    {
+        "id": 2484,
+        "type": "Part",
+        "search": "aksomati_prime_receiver",
+        "zh": "轻灵月神双枪 PRIME 枪机",
+        "en": "Aksomati Prime Receiver"
+    },
+    {
+        "id": 2485,
+        "type": "Part",
+        "search": "aksomati_prime_blueprint",
+        "zh": "轻灵月神双枪 PRIME 蓝图",
+        "en": "Aksomati Prime Blueprint"
+    },
+    {
+        "id": 2486,
+        "type": "Part",
+        "search": "aksomati_prime_barrel",
+        "zh": "轻灵月神双枪 PRIME 枪管",
+        "en": "Aksomati Prime Barrel"
     }
 ]
