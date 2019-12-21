@@ -13179,7 +13179,7 @@
         "id": 2206,
         "type": "Other",
         "zh": "MIRAGE 不朽外观",
-        "en": "Mirage İmmortal Skin"
+        "en": "Mirage Immortal Skin"
     },
     {
         "id": 2207,
@@ -15148,5 +15148,41 @@
         "type": "Other",
         "zh": "耀目徽章",
         "en": "Glaring Emblem"
+    },
+    {
+        "id": 2539,
+        "type": "Warframe",
+        "zh": "IVARA PRIME",
+        "en": "Ivara Prime"
+    },
+    {
+        "id": 2540,
+        "type": "Mod",
+        "zh": "毁灭Grineer Prime",
+        "en": "Primed Smite Grineer"
+    },
+    {
+        "id": 2541,
+        "type": "Mod",
+        "zh": "毁灭Corpus Prime",
+        "en": "Primed Smite Corpus"
+    },
+    {
+        "id": 2542,
+        "type": "Mod",
+        "zh": "毁灭Infested Prime",
+        "en": "Primed Smite Infested"
+    },
+    {
+        "id": 2543,
+        "type": "Mod",
+        "zh": "毁灭堕落者 Prime",
+        "en": "Primed Smite Corrupted"
+    },
+    {
+        "id": 2545,
+        "type": "Other",
+        "zh": "伊格尼斯 夏至外观",
+        "en": "Ignis Towsun Skin"
     }
 ]
