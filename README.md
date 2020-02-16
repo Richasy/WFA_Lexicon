@@ -47,4 +47,4 @@ List<Dict> dicts = client.ParseDictJson(dictString);
 
 ## 其它
 
-为了压缩文件体积，提高下载速度，所有的json文件去除了格式，以紧密方式排布，不考虑可读性。
+为了压缩文件体积，提高下载速度，所有的json文件去除了格式，以紧密方式排布，不考虑可读性。    
