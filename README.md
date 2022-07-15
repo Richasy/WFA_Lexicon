@@ -3,7 +3,7 @@
 > 感谢你的使用，希望我没有做好的事，能在你手里做得更好
 ———— Richasy.云之幻
 
-目前为适配新版本WFA，词库已经转向新版本。
+***WFA 词库停止维护，有需要的同学可以在 [warframe-items](https://github.com/WFCD/warframe-items) 项目和 [Warframe 中文维基](https://warframe.huijiwiki.com/wiki/Mainpage) 中查询相关翻译***
 
 ## 文件说明
 
@@ -31,19 +31,6 @@
 图片链接加上前缀后如下：
 
 `https://warframe.market/static/assets/${item.thumb}`
-
-## 配合API
-
-词库需要配合WFA的API使用才能达到最大化的效果。
-
-- API文档：[API介绍](https://www.richasy.cn/document/wfa/data/)
-- SDK(C#): [WFA SDK](https://github.com/Richasy/WFA-SDK)
-
-其中，SDK包含了对词库文件的转化方法：
-
-```csharp
-List<Dict> dicts = client.ParseDictJson(dictString);
-```
 
 ## 其它
 
